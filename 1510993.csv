@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pokhara Avengers
+info,team,Lumbini Lions
+info,gender,male
+info,season,2025/26
+info,date,2025/11/29
+info,event,Nepal Premier League
+info,match_number,17
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Lumbini Lions
+info,toss_decision,field
+info,player_of_match,RK Paudel
+info,umpire,BB Pradhan
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,Basu Karn
+info,tv_umpire,VK Jha
+info,match_referee,Mohammed Shafique
+info,winner,Lumbini Lions
+info,winner_wickets,3
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AM Rossington
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,SL Verma
+info,player,Pokhara Avengers,TR Das
+info,player,Pokhara Avengers,JDS Neesham
+info,player,Pokhara Avengers,K Thagunna
+info,player,Pokhara Avengers,Abhisekh Tiwari
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,S Dhakal
+info,player,Pokhara Avengers,MD Taylor
+info,player,Lumbini Lions,DJM Short
+info,player,Lumbini Lions,S Maharjan
+info,player,Lumbini Lions,RK Paudel
+info,player,Lumbini Lions,N Dickwella
+info,player,Lumbini Lions,D Nath
+info,player,Lumbini Lions,S Jora
+info,player,Lumbini Lions,Gulbadin Naib
+info,player,Lumbini Lions,R Trumpelmann
+info,player,Lumbini Lions,S Malla
+info,player,Lumbini Lions,TR Bhandari
+info,player,Lumbini Lions,Abhishesh Gautam
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Abhisekh Tiwari,12d57ebd
+info,registry,people,Abhishesh Gautam,0baa5518
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Basu Karn,c620f573
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,D Nath,d019608b
+info,registry,people,DJM Short,1a156c88
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S Jora,156378d8
+info,registry,people,S Maharjan,f0b3e7ee
+info,registry,people,S Malla,1daa8927
+info,registry,people,SL Verma,26b6a4e9
+info,registry,people,TR Bhandari,2593c302
+info,registry,people,TR Das,40f1a776
+info,registry,people,VK Jha,5d46eb72
+ball,1,0.1,Pokhara Avengers,D Kharel,AM Rossington,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,0.2,Pokhara Avengers,D Kharel,AM Rossington,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,0.3,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,0.4,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,0.5,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,0.6,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,1.1,Pokhara Avengers,D Kharel,AM Rossington,R Trumpelmann,1,0,,,,,,"",""
+ball,1,1.2,Pokhara Avengers,AM Rossington,D Kharel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,1.3,Pokhara Avengers,AM Rossington,D Kharel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,1.4,Pokhara Avengers,AM Rossington,D Kharel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,1.5,Pokhara Avengers,AM Rossington,D Kharel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,1.6,Pokhara Avengers,AM Rossington,D Kharel,R Trumpelmann,0,0,,,,,,"",""
+ball,1,2.1,Pokhara Avengers,D Kharel,AM Rossington,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.2,Pokhara Avengers,D Kharel,AM Rossington,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.3,Pokhara Avengers,D Kharel,AM Rossington,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,2.4,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,2.5,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.6,Pokhara Avengers,AM Rossington,D Kharel,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,3.1,Pokhara Avengers,D Kharel,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,3.2,Pokhara Avengers,D Kharel,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,3.3,Pokhara Avengers,D Kharel,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,3.4,Pokhara Avengers,D Kharel,AM Rossington,S Malla,4,0,,,,,,"",""
+ball,1,3.5,Pokhara Avengers,D Kharel,AM Rossington,S Malla,0,0,,,,,,caught,D Kharel
+ball,1,3.6,Pokhara Avengers,K Bhurtel,AM Rossington,S Malla,0,0,,,,,,lbw,K Bhurtel
+ball,1,4.1,Pokhara Avengers,AM Rossington,SL Verma,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.2,Pokhara Avengers,AM Rossington,SL Verma,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.3,Pokhara Avengers,AM Rossington,SL Verma,R Trumpelmann,6,0,,,,,,"",""
+ball,1,4.4,Pokhara Avengers,AM Rossington,SL Verma,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.5,Pokhara Avengers,AM Rossington,SL Verma,R Trumpelmann,1,0,,,,,,"",""
+ball,1,4.6,Pokhara Avengers,SL Verma,AM Rossington,R Trumpelmann,0,0,,,,,,"",""
+ball,1,5.1,Pokhara Avengers,AM Rossington,SL Verma,S Malla,4,0,,,,,,"",""
+ball,1,5.2,Pokhara Avengers,AM Rossington,SL Verma,S Malla,0,0,,,,,,"",""
+ball,1,5.3,Pokhara Avengers,AM Rossington,SL Verma,S Malla,1,0,,,,,,"",""
+ball,1,5.4,Pokhara Avengers,SL Verma,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,5.5,Pokhara Avengers,SL Verma,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,5.6,Pokhara Avengers,SL Verma,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,6.1,Pokhara Avengers,AM Rossington,SL Verma,Gulbadin Naib,2,0,,,,,,"",""
+ball,1,6.2,Pokhara Avengers,AM Rossington,SL Verma,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,6.3,Pokhara Avengers,SL Verma,AM Rossington,Gulbadin Naib,0,0,,,,,,lbw,SL Verma
+ball,1,6.4,Pokhara Avengers,TR Das,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,6.5,Pokhara Avengers,TR Das,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,6.6,Pokhara Avengers,TR Das,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,7.1,Pokhara Avengers,AM Rossington,TR Das,TR Bhandari,0,0,,,,,,"",""
+ball,1,7.2,Pokhara Avengers,AM Rossington,TR Das,TR Bhandari,1,0,,,,,,"",""
+ball,1,7.3,Pokhara Avengers,TR Das,AM Rossington,TR Bhandari,0,0,,,,,,"",""
+ball,1,7.4,Pokhara Avengers,TR Das,AM Rossington,TR Bhandari,1,0,,,,,,"",""
+ball,1,7.5,Pokhara Avengers,AM Rossington,TR Das,TR Bhandari,1,0,,,,,,"",""
+ball,1,7.6,Pokhara Avengers,TR Das,AM Rossington,TR Bhandari,0,0,,,,,,bowled,TR Das
+ball,1,8.1,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,8.2,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,8.3,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,0,1,1,,,,,"",""
+ball,1,8.4,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,8.5,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,8.6,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,8.7,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,9.1,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,0,0,,,,,,"",""
+ball,1,9.2,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,0,0,,,,,,"",""
+ball,1,9.3,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,1,0,,,,,,"",""
+ball,1,9.4,Pokhara Avengers,JDS Neesham,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,9.5,Pokhara Avengers,JDS Neesham,AM Rossington,S Malla,1,0,,,,,,"",""
+ball,1,9.6,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,1,0,,,,,,"",""
+ball,1,10.1,Pokhara Avengers,AM Rossington,JDS Neesham,DJM Short,0,1,1,,,,,"",""
+ball,1,10.2,Pokhara Avengers,AM Rossington,JDS Neesham,DJM Short,0,0,,,,,,"",""
+ball,1,10.3,Pokhara Avengers,AM Rossington,JDS Neesham,DJM Short,6,0,,,,,,"",""
+ball,1,10.4,Pokhara Avengers,AM Rossington,JDS Neesham,DJM Short,0,0,,,,,,"",""
+ball,1,10.5,Pokhara Avengers,AM Rossington,JDS Neesham,DJM Short,1,0,,,,,,"",""
+ball,1,10.6,Pokhara Avengers,JDS Neesham,AM Rossington,DJM Short,0,0,,,,,,"",""
+ball,1,10.7,Pokhara Avengers,JDS Neesham,AM Rossington,DJM Short,6,0,,,,,,"",""
+ball,1,11.1,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,1,0,,,,,,"",""
+ball,1,11.2,Pokhara Avengers,JDS Neesham,AM Rossington,TR Bhandari,2,0,,,,,,"",""
+ball,1,11.3,Pokhara Avengers,JDS Neesham,AM Rossington,TR Bhandari,0,0,,,,,,"",""
+ball,1,11.4,Pokhara Avengers,JDS Neesham,AM Rossington,TR Bhandari,1,0,,,,,,"",""
+ball,1,11.5,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,1,1,,,,,"",""
+ball,1,11.6,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,0,,,,,,"",""
+ball,1,11.7,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,1,0,,,,,,"",""
+ball,1,12.1,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,12.2,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,12.3,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,12.4,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,12.5,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,12.6,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,13.1,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,1,0,,,,,,"",""
+ball,1,13.2,Pokhara Avengers,JDS Neesham,AM Rossington,S Malla,1,0,,,,,,"",""
+ball,1,13.3,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,4,0,,,,,,"",""
+ball,1,13.4,Pokhara Avengers,AM Rossington,JDS Neesham,S Malla,1,0,,,,,,"",""
+ball,1,13.5,Pokhara Avengers,JDS Neesham,AM Rossington,S Malla,4,0,,,,,,"",""
+ball,1,13.6,Pokhara Avengers,JDS Neesham,AM Rossington,S Malla,0,0,,,,,,"",""
+ball,1,14.1,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,1,0,,,,,,"",""
+ball,1,14.2,Pokhara Avengers,JDS Neesham,AM Rossington,TR Bhandari,1,0,,,,,,"",""
+ball,1,14.3,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,0,,,,,,"",""
+ball,1,14.4,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,0,,,,,,"",""
+ball,1,14.5,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,0,,,,,,"",""
+ball,1,14.6,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,0,,,,,,"",""
+ball,1,15.1,Pokhara Avengers,JDS Neesham,AM Rossington,R Trumpelmann,2,0,,,,,,"",""
+ball,1,15.2,Pokhara Avengers,JDS Neesham,AM Rossington,R Trumpelmann,0,0,,,,,,"",""
+ball,1,15.3,Pokhara Avengers,JDS Neesham,AM Rossington,R Trumpelmann,1,0,,,,,,"",""
+ball,1,15.4,Pokhara Avengers,AM Rossington,JDS Neesham,R Trumpelmann,4,0,,,,,,"",""
+ball,1,15.5,Pokhara Avengers,AM Rossington,JDS Neesham,R Trumpelmann,0,0,,,,,,"",""
+ball,1,15.6,Pokhara Avengers,AM Rossington,JDS Neesham,R Trumpelmann,1,0,,,,,,"",""
+ball,1,16.1,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,16.2,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,16.3,Pokhara Avengers,JDS Neesham,AM Rossington,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,16.4,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,0,1,1,,,,,"",""
+ball,1,16.5,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,0,1,1,,,,,"",""
+ball,1,16.6,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,0,1,1,,,,,"",""
+ball,1,16.7,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,6,0,,,,,,"",""
+ball,1,16.8,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,6,0,,,,,,"",""
+ball,1,16.9,Pokhara Avengers,AM Rossington,JDS Neesham,Abhishesh Gautam,2,0,,,,,,"",""
+ball,1,17.1,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,6,0,,,,,,"",""
+ball,1,17.2,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,17.3,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,4,0,,,,,,"",""
+ball,1,17.4,Pokhara Avengers,AM Rossington,JDS Neesham,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,17.5,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,17.6,Pokhara Avengers,JDS Neesham,AM Rossington,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,18.1,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,1,1,,,,,"",""
+ball,1,18.2,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,6,0,,,,,,"",""
+ball,1,18.3,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,1,1,,,,,"",""
+ball,1,18.4,Pokhara Avengers,AM Rossington,JDS Neesham,TR Bhandari,0,0,,,,,,caught,AM Rossington
+ball,1,18.5,Pokhara Avengers,K Thagunna,JDS Neesham,TR Bhandari,0,0,,,,,,"",""
+ball,1,18.6,Pokhara Avengers,K Thagunna,JDS Neesham,TR Bhandari,1,0,,,,,,"",""
+ball,1,18.7,Pokhara Avengers,JDS Neesham,K Thagunna,TR Bhandari,4,0,,,,,,"",""
+ball,1,18.8,Pokhara Avengers,JDS Neesham,K Thagunna,TR Bhandari,1,0,,,,,,"",""
+ball,1,19.1,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,2,0,,,,,,"",""
+ball,1,19.2,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,2,0,,,,,,"",""
+ball,1,19.3,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,6,0,,,,,,"",""
+ball,1,19.4,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,2,0,,,,,,"",""
+ball,1,19.5,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,19.6,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,4,0,,,,,,"",""
+ball,1,19.7,Pokhara Avengers,JDS Neesham,K Thagunna,R Trumpelmann,2,0,,,,,,"",""
+ball,2,0.1,Lumbini Lions,DJM Short,S Maharjan,Bipin Khatri,0,1,1,,,,,"",""
+ball,2,0.2,Lumbini Lions,DJM Short,S Maharjan,Bipin Khatri,0,0,,,,,,"",""
+ball,2,0.3,Lumbini Lions,DJM Short,S Maharjan,Bipin Khatri,1,0,,,,,,"",""
+ball,2,0.4,Lumbini Lions,S Maharjan,DJM Short,Bipin Khatri,0,0,,,,,,"",""
+ball,2,0.5,Lumbini Lions,S Maharjan,DJM Short,Bipin Khatri,0,0,,,,,,bowled,S Maharjan
+ball,2,0.6,Lumbini Lions,RK Paudel,DJM Short,Bipin Khatri,0,0,,,,,,"",""
+ball,2,0.7,Lumbini Lions,RK Paudel,DJM Short,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.1,Lumbini Lions,DJM Short,RK Paudel,SL Verma,0,0,,,,,,"",""
+ball,2,1.2,Lumbini Lions,DJM Short,RK Paudel,SL Verma,4,0,,,,,,"",""
+ball,2,1.3,Lumbini Lions,DJM Short,RK Paudel,SL Verma,0,0,,,,,,"",""
+ball,2,1.4,Lumbini Lions,DJM Short,RK Paudel,SL Verma,0,0,,,,,,"",""
+ball,2,1.5,Lumbini Lions,DJM Short,RK Paudel,SL Verma,1,0,,,,,,"",""
+ball,2,1.6,Lumbini Lions,RK Paudel,DJM Short,SL Verma,0,0,,,,,,"",""
+ball,2,2.1,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,2,2.2,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,2,2.3,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,2,2.4,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,1,0,,,,,,"",""
+ball,2,2.5,Lumbini Lions,RK Paudel,DJM Short,Bipin Khatri,1,0,,,,,,"",""
+ball,2,2.6,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,2,3.1,Lumbini Lions,RK Paudel,DJM Short,SL Verma,6,0,,,,,,"",""
+ball,2,3.2,Lumbini Lions,RK Paudel,DJM Short,SL Verma,0,0,,,,,,"",""
+ball,2,3.3,Lumbini Lions,RK Paudel,DJM Short,SL Verma,4,0,,,,,,"",""
+ball,2,3.4,Lumbini Lions,RK Paudel,DJM Short,SL Verma,0,0,,,,,,"",""
+ball,2,3.5,Lumbini Lions,RK Paudel,DJM Short,SL Verma,0,0,,,,,,"",""
+ball,2,3.6,Lumbini Lions,RK Paudel,DJM Short,SL Verma,1,0,,,,,,"",""
+ball,2,4.1,Lumbini Lions,RK Paudel,DJM Short,Bipin Khatri,1,0,,,,,,"",""
+ball,2,4.2,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,0,1,1,,,,,"",""
+ball,2,4.3,Lumbini Lions,DJM Short,RK Paudel,Bipin Khatri,0,0,,,,,,caught,DJM Short
+ball,2,4.4,Lumbini Lions,N Dickwella,RK Paudel,Bipin Khatri,2,0,,,,,,"",""
+ball,2,4.5,Lumbini Lions,N Dickwella,RK Paudel,Bipin Khatri,1,0,,,,,,"",""
+ball,2,4.6,Lumbini Lions,RK Paudel,N Dickwella,Bipin Khatri,0,0,,,,,,"",""
+ball,2,4.7,Lumbini Lions,RK Paudel,N Dickwella,Bipin Khatri,4,0,,,,,,"",""
+ball,2,5.1,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,0,0,,,,,,"",""
+ball,2,5.2,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,6,0,,,,,,"",""
+ball,2,5.3,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,0,0,,,,,,"",""
+ball,2,5.4,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,1,0,,,,,,"",""
+ball,2,5.5,Lumbini Lions,RK Paudel,N Dickwella,SL Verma,1,0,,,,,,"",""
+ball,2,5.6,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,1,0,,,,,,"",""
+ball,2,6.1,Lumbini Lions,N Dickwella,RK Paudel,K Bhurtel,2,0,,,,,,"",""
+ball,2,6.2,Lumbini Lions,N Dickwella,RK Paudel,K Bhurtel,1,0,,,,,,"",""
+ball,2,6.3,Lumbini Lions,RK Paudel,N Dickwella,K Bhurtel,0,0,,,,,,"",""
+ball,2,6.4,Lumbini Lions,RK Paudel,N Dickwella,K Bhurtel,1,0,,,,,,"",""
+ball,2,6.5,Lumbini Lions,N Dickwella,RK Paudel,K Bhurtel,4,0,,,,,,"",""
+ball,2,6.6,Lumbini Lions,N Dickwella,RK Paudel,K Bhurtel,2,0,,,,,,"",""
+ball,2,7.1,Lumbini Lions,RK Paudel,N Dickwella,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.2,Lumbini Lions,N Dickwella,RK Paudel,JDS Neesham,0,0,,,,,,"",""
+ball,2,7.3,Lumbini Lions,N Dickwella,RK Paudel,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.4,Lumbini Lions,RK Paudel,N Dickwella,JDS Neesham,1,0,,,,,,"",""
+ball,2,7.5,Lumbini Lions,N Dickwella,RK Paudel,JDS Neesham,6,0,,,,,,"",""
+ball,2,7.6,Lumbini Lions,N Dickwella,RK Paudel,JDS Neesham,4,0,,,,,,"",""
+ball,2,8.1,Lumbini Lions,RK Paudel,N Dickwella,MD Taylor,0,0,,,,,,"",""
+ball,2,8.2,Lumbini Lions,RK Paudel,N Dickwella,MD Taylor,1,0,,,,,,"",""
+ball,2,8.3,Lumbini Lions,N Dickwella,RK Paudel,MD Taylor,1,0,,,,,,"",""
+ball,2,8.4,Lumbini Lions,RK Paudel,N Dickwella,MD Taylor,1,0,,,,,,"",""
+ball,2,8.5,Lumbini Lions,N Dickwella,RK Paudel,MD Taylor,0,0,,,,,,"",""
+ball,2,8.6,Lumbini Lions,N Dickwella,RK Paudel,MD Taylor,1,0,,,,,,"",""
+ball,2,9.1,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,1,0,,,,,,"",""
+ball,2,9.2,Lumbini Lions,RK Paudel,N Dickwella,SL Verma,6,0,,,,,,"",""
+ball,2,9.3,Lumbini Lions,RK Paudel,N Dickwella,SL Verma,0,0,,,,,,"",""
+ball,2,9.4,Lumbini Lions,RK Paudel,N Dickwella,SL Verma,1,0,,,,,,"",""
+ball,2,9.5,Lumbini Lions,N Dickwella,RK Paudel,SL Verma,1,0,,,,,,"",""
+ball,2,9.6,Lumbini Lions,RK Paudel,N Dickwella,SL Verma,0,0,,,,,,"",""
+ball,2,10.1,Lumbini Lions,N Dickwella,RK Paudel,MD Taylor,2,0,,,,,,"",""
+ball,2,10.2,Lumbini Lions,N Dickwella,RK Paudel,MD Taylor,0,0,,,,,,caught,N Dickwella
+ball,2,10.3,Lumbini Lions,D Nath,RK Paudel,MD Taylor,1,0,,,,,,"",""
+ball,2,10.4,Lumbini Lions,RK Paudel,D Nath,MD Taylor,1,0,,,,,,"",""
+ball,2,10.5,Lumbini Lions,D Nath,RK Paudel,MD Taylor,1,0,,,,,,"",""
+ball,2,10.6,Lumbini Lions,RK Paudel,D Nath,MD Taylor,1,0,,,,,,"",""
+ball,2,11.1,Lumbini Lions,RK Paudel,D Nath,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.2,Lumbini Lions,D Nath,RK Paudel,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.3,Lumbini Lions,RK Paudel,D Nath,K Bhurtel,0,0,,,,,,"",""
+ball,2,11.4,Lumbini Lions,RK Paudel,D Nath,K Bhurtel,0,0,,,,,,"",""
+ball,2,11.5,Lumbini Lions,RK Paudel,D Nath,K Bhurtel,0,0,,,,,,"",""
+ball,2,11.6,Lumbini Lions,RK Paudel,D Nath,K Bhurtel,4,0,,,,,,"",""
+ball,2,12.1,Lumbini Lions,D Nath,RK Paudel,S Dhakal,6,0,,,,,,"",""
+ball,2,12.2,Lumbini Lions,D Nath,RK Paudel,S Dhakal,1,0,,,,,,"",""
+ball,2,12.3,Lumbini Lions,RK Paudel,D Nath,S Dhakal,1,0,,,,,,"",""
+ball,2,12.4,Lumbini Lions,D Nath,RK Paudel,S Dhakal,0,0,,,,,,bowled,D Nath
+ball,2,12.5,Lumbini Lions,S Jora,RK Paudel,S Dhakal,0,0,,,,,,"",""
+ball,2,12.6,Lumbini Lions,S Jora,RK Paudel,S Dhakal,1,0,,,,,,"",""
+ball,2,13.1,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,2,13.2,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,2,13.3,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,1,0,,,,,,"",""
+ball,2,13.4,Lumbini Lions,RK Paudel,S Jora,Bipin Khatri,1,0,,,,,,"",""
+ball,2,13.5,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,1,0,,,,,,"",""
+ball,2,13.6,Lumbini Lions,RK Paudel,S Jora,Bipin Khatri,0,1,1,,,,,"",""
+ball,2,13.7,Lumbini Lions,RK Paudel,S Jora,Bipin Khatri,1,0,,,,,,"",""
+ball,2,14.1,Lumbini Lions,RK Paudel,S Jora,S Dhakal,0,0,,,,,,caught,RK Paudel
+ball,2,14.2,Lumbini Lions,Gulbadin Naib,S Jora,S Dhakal,0,0,,,,,,"",""
+ball,2,14.3,Lumbini Lions,Gulbadin Naib,S Jora,S Dhakal,0,0,,,,,,"",""
+ball,2,14.4,Lumbini Lions,Gulbadin Naib,S Jora,S Dhakal,1,0,,,,,,"",""
+ball,2,14.5,Lumbini Lions,S Jora,Gulbadin Naib,S Dhakal,0,0,,,,,,"",""
+ball,2,14.6,Lumbini Lions,S Jora,Gulbadin Naib,S Dhakal,1,0,,,,,,"",""
+ball,2,15.1,Lumbini Lions,S Jora,Gulbadin Naib,K Bhurtel,1,0,,,,,,"",""
+ball,2,15.2,Lumbini Lions,Gulbadin Naib,S Jora,K Bhurtel,6,0,,,,,,"",""
+ball,2,15.3,Lumbini Lions,Gulbadin Naib,S Jora,K Bhurtel,1,0,,,,,,"",""
+ball,2,15.4,Lumbini Lions,S Jora,Gulbadin Naib,K Bhurtel,1,0,,,,,,"",""
+ball,2,15.5,Lumbini Lions,Gulbadin Naib,S Jora,K Bhurtel,1,0,,,,,,"",""
+ball,2,15.6,Lumbini Lions,S Jora,Gulbadin Naib,K Bhurtel,0,0,,,,,,"",""
+ball,2,16.1,Lumbini Lions,Gulbadin Naib,S Jora,S Dhakal,0,0,,,,,,"",""
+ball,2,16.2,Lumbini Lions,Gulbadin Naib,S Jora,S Dhakal,6,0,,,,,,"",""
+ball,2,16.3,Lumbini Lions,Gulbadin Naib,S Jora,S Dhakal,1,0,,,,,,"",""
+ball,2,16.4,Lumbini Lions,S Jora,Gulbadin Naib,S Dhakal,0,0,,,,,,"",""
+ball,2,16.5,Lumbini Lions,S Jora,Gulbadin Naib,S Dhakal,0,0,,,,,,"",""
+ball,2,16.6,Lumbini Lions,S Jora,Gulbadin Naib,S Dhakal,6,0,,,,,,"",""
+ball,2,17.1,Lumbini Lions,Gulbadin Naib,S Jora,MD Taylor,1,0,,,,,,"",""
+ball,2,17.2,Lumbini Lions,S Jora,Gulbadin Naib,MD Taylor,1,0,,,,,,"",""
+ball,2,17.3,Lumbini Lions,Gulbadin Naib,S Jora,MD Taylor,0,0,,,,,,caught,Gulbadin Naib
+ball,2,17.4,Lumbini Lions,R Trumpelmann,S Jora,MD Taylor,1,0,,,,,,"",""
+ball,2,17.5,Lumbini Lions,S Jora,R Trumpelmann,MD Taylor,0,1,,,,1,,"",""
+ball,2,17.6,Lumbini Lions,R Trumpelmann,S Jora,MD Taylor,1,0,,,,,,"",""
+ball,2,18.1,Lumbini Lions,R Trumpelmann,S Jora,JDS Neesham,0,1,,,,1,,"",""
+ball,2,18.2,Lumbini Lions,S Jora,R Trumpelmann,JDS Neesham,1,0,,,,,,"",""
+ball,2,18.3,Lumbini Lions,R Trumpelmann,S Jora,JDS Neesham,0,1,1,,,,,"",""
+ball,2,18.4,Lumbini Lions,R Trumpelmann,S Jora,JDS Neesham,6,0,,,,,,"",""
+ball,2,18.5,Lumbini Lions,R Trumpelmann,S Jora,JDS Neesham,1,0,,,,,,"",""
+ball,2,18.6,Lumbini Lions,S Jora,R Trumpelmann,JDS Neesham,1,0,,,,,,"",""
+ball,2,18.7,Lumbini Lions,R Trumpelmann,S Jora,JDS Neesham,0,0,,,,,,caught,R Trumpelmann
+ball,2,19.1,Lumbini Lions,S Jora,S Malla,MD Taylor,2,0,,,,,,"",""
+ball,2,19.2,Lumbini Lions,S Jora,S Malla,MD Taylor,4,0,,,,,,"",""
+ball,2,19.3,Lumbini Lions,S Jora,S Malla,MD Taylor,0,0,,,,,,"",""
+ball,2,19.4,Lumbini Lions,S Jora,S Malla,MD Taylor,4,0,,,,,,"",""

@@ -1,0 +1,297 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Lumbini Lions
+info,team,Pokhara Avengers
+info,gender,male
+info,season,2024/25
+info,date,2024/12/06
+info,event,Nepal Premier League
+info,match_number,11
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Lumbini Lions
+info,toss_decision,bat
+info,player_of_match,AGS Gous
+info,umpire,BB Pradhan
+info,umpire,HR Giri
+info,reserve_umpire,U Regmi
+info,tv_umpire,VK Jha
+info,match_referee,M Nayyar
+info,winner,Pokhara Avengers
+info,winner_wickets,10
+info,player,Lumbini Lions,A Ghiraiya
+info,player,Lumbini Lions,UBT Chand
+info,player,Lumbini Lions,RK Paudel
+info,player,Lumbini Lions,S Jora
+info,player,Lumbini Lions,TJ Moores
+info,player,Lumbini Lions,B Yadav
+info,player,Lumbini Lions,D Adhikari
+info,player,Lumbini Lions,Saad Bin Zafar
+info,player,Lumbini Lions,RR Simmonds
+info,player,Lumbini Lions,D Gupta
+info,player,Lumbini Lions,Surya Tamang
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AGS Gous
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,D Nath
+info,player,Pokhara Avengers,MJJ Critchley
+info,player,Pokhara Avengers,RA Reifer
+info,player,Pokhara Avengers,MA Leask
+info,player,Pokhara Avengers,N Joshi
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,Aakash Chand
+info,player,Pokhara Avengers,S Dhakal
+info,registry,people,A Ghiraiya,878b1e06
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aakash Chand,279c51f0
+info,registry,people,B Yadav,ef07f354
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,D Adhikari,bd4fb3ba
+info,registry,people,D Gupta,762ea5b1
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,D Nath,d019608b
+info,registry,people,HR Giri,fea1e74f
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MA Leask,28131839
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,N Joshi,58c71b70
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RR Simmonds,fcf6b0f6
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S Jora,156378d8
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Surya Tamang,579f2447
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,U Regmi,d1ce9fb5
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,VK Jha,5d46eb72
+ball,1,0.1,Lumbini Lions,A Ghiraiya,UBT Chand,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.2,Lumbini Lions,A Ghiraiya,UBT Chand,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.3,Lumbini Lions,A Ghiraiya,UBT Chand,Bipin Khatri,0,0,,,,,,lbw,A Ghiraiya
+ball,1,0.4,Lumbini Lions,RK Paudel,UBT Chand,Bipin Khatri,1,0,,,,,,"",""
+ball,1,0.5,Lumbini Lions,UBT Chand,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.6,Lumbini Lions,UBT Chand,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,1,1.1,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,4,0,,,,,,"",""
+ball,1,1.2,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,4,0,,,,,,"",""
+ball,1,1.3,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,0,1,1,,,,,"",""
+ball,1,1.4,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,4,0,,,,,,"",""
+ball,1,1.5,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,0,0,,,,,,"",""
+ball,1,1.6,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,0,0,,,,,,"",""
+ball,1,1.7,Lumbini Lions,RK Paudel,UBT Chand,RA Reifer,0,0,,,,,,"",""
+ball,1,2.1,Lumbini Lions,UBT Chand,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,1,2.2,Lumbini Lions,UBT Chand,RK Paudel,Bipin Khatri,0,0,,,,,,caught,UBT Chand
+ball,1,2.3,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,1,2.4,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,6,0,,,,,,"",""
+ball,1,2.5,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,1,2.6,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,1,0,,,,,,"",""
+ball,1,3.1,Lumbini Lions,S Jora,RK Paudel,Aakash Chand,0,0,,,,,,"",""
+ball,1,3.2,Lumbini Lions,S Jora,RK Paudel,Aakash Chand,0,0,,,,,,"",""
+ball,1,3.3,Lumbini Lions,S Jora,RK Paudel,Aakash Chand,1,0,,,,,,"",""
+ball,1,3.4,Lumbini Lions,RK Paudel,S Jora,Aakash Chand,0,0,,,,,,"",""
+ball,1,3.5,Lumbini Lions,RK Paudel,S Jora,Aakash Chand,4,0,,,,,,"",""
+ball,1,3.6,Lumbini Lions,RK Paudel,S Jora,Aakash Chand,4,0,,,,,,"",""
+ball,1,4.1,Lumbini Lions,S Jora,RK Paudel,RA Reifer,1,0,,,,,,"",""
+ball,1,4.2,Lumbini Lions,RK Paudel,S Jora,RA Reifer,0,0,,,,,,"",""
+ball,1,4.3,Lumbini Lions,RK Paudel,S Jora,RA Reifer,4,0,,,,,,"",""
+ball,1,4.4,Lumbini Lions,RK Paudel,S Jora,RA Reifer,1,0,,,,,,"",""
+ball,1,4.5,Lumbini Lions,S Jora,RK Paudel,RA Reifer,0,0,,,,,,"",""
+ball,1,4.6,Lumbini Lions,S Jora,RK Paudel,RA Reifer,0,0,,,,,,"",""
+ball,1,5.1,Lumbini Lions,RK Paudel,S Jora,Bipin Khatri,1,0,,,,,,"",""
+ball,1,5.2,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,4,0,,,,,,"",""
+ball,1,5.3,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,0,0,,,,,,"",""
+ball,1,5.4,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,4,0,,,,,,"",""
+ball,1,5.5,Lumbini Lions,S Jora,RK Paudel,Bipin Khatri,1,0,,,,,,"",""
+ball,1,5.6,Lumbini Lions,RK Paudel,S Jora,Bipin Khatri,0,0,,,,,,"",""
+ball,1,6.1,Lumbini Lions,S Jora,RK Paudel,MJJ Critchley,0,0,,,,,,lbw,S Jora
+ball,1,6.2,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,0,0,,,,,,"",""
+ball,1,6.3,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,1,0,,,,,,"",""
+ball,1,6.4,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,0,0,,,,,,"",""
+ball,1,6.5,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,2,0,,,,,,"",""
+ball,1,6.6,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,1,0,,,,,,"",""
+ball,1,7.1,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,1,0,,,,,,"",""
+ball,1,7.2,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,0,0,,,,,,"",""
+ball,1,7.3,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,1,0,,,,,,"",""
+ball,1,7.4,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,0,,,,,,"",""
+ball,1,7.5,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,1,0,,,,,,"",""
+ball,1,7.6,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,2,0,,,,,,"",""
+ball,1,8.1,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,2,0,,,,,,"",""
+ball,1,8.2,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,1,0,,,,,,"",""
+ball,1,8.3,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,0,0,,,,,,"",""
+ball,1,8.4,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,0,0,,,,,,"",""
+ball,1,8.5,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,0,0,,,,,,"",""
+ball,1,8.6,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,0,0,,,,,,"",""
+ball,1,9.1,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,2,0,,,,,,"",""
+ball,1,9.2,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,0,,,,,,"",""
+ball,1,9.3,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,2,0,,,,,,"",""
+ball,1,9.4,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,0,,,,,,"",""
+ball,1,9.5,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,1,0,,,,,,"",""
+ball,1,9.6,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,1,0,,,,,,"",""
+ball,1,10.1,Lumbini Lions,TJ Moores,RK Paudel,S Dhakal,6,0,,,,,,"",""
+ball,1,10.2,Lumbini Lions,TJ Moores,RK Paudel,S Dhakal,1,0,,,,,,"",""
+ball,1,10.3,Lumbini Lions,RK Paudel,TJ Moores,S Dhakal,1,0,,,,,,"",""
+ball,1,10.4,Lumbini Lions,TJ Moores,RK Paudel,S Dhakal,0,0,,,,,,"",""
+ball,1,10.5,Lumbini Lions,TJ Moores,RK Paudel,S Dhakal,1,0,,,,,,"",""
+ball,1,10.6,Lumbini Lions,RK Paudel,TJ Moores,S Dhakal,1,0,,,,,,"",""
+ball,1,11.1,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,4,0,,,,,,"",""
+ball,1,11.2,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,0,,,,,,"",""
+ball,1,11.3,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,6,0,,,,,,"",""
+ball,1,11.4,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,1,0,,,,,,"",""
+ball,1,11.5,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,1,0,,,,,,"",""
+ball,1,11.6,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,0,,,,,,"",""
+ball,1,12.1,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,0,5,5,,,,,"",""
+ball,1,12.2,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,6,0,,,,,,"",""
+ball,1,12.3,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,2,0,,,,,,"",""
+ball,1,12.4,Lumbini Lions,TJ Moores,RK Paudel,MJJ Critchley,1,0,,,,,,"",""
+ball,1,12.5,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,0,0,,,,,,"",""
+ball,1,12.6,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,6,0,,,,,,"",""
+ball,1,12.7,Lumbini Lions,RK Paudel,TJ Moores,MJJ Critchley,2,0,,,,,,"",""
+ball,1,13.1,Lumbini Lions,TJ Moores,RK Paudel,Aakash Chand,0,0,,,,,,"",""
+ball,1,13.2,Lumbini Lions,TJ Moores,RK Paudel,Aakash Chand,1,0,,,,,,"",""
+ball,1,13.3,Lumbini Lions,RK Paudel,TJ Moores,Aakash Chand,0,0,,,,,,"",""
+ball,1,13.4,Lumbini Lions,RK Paudel,TJ Moores,Aakash Chand,0,0,,,,,,"",""
+ball,1,13.5,Lumbini Lions,RK Paudel,TJ Moores,Aakash Chand,1,0,,,,,,"",""
+ball,1,13.6,Lumbini Lions,TJ Moores,RK Paudel,Aakash Chand,1,0,,,,,,"",""
+ball,1,14.1,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,0,0,,,,,,"",""
+ball,1,14.2,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,1,0,,,,,,"",""
+ball,1,14.3,Lumbini Lions,RK Paudel,TJ Moores,RA Reifer,1,0,,,,,,"",""
+ball,1,14.4,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,1,0,,,,,,"",""
+ball,1,14.5,Lumbini Lions,RK Paudel,TJ Moores,RA Reifer,1,0,,,,,,"",""
+ball,1,14.6,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,1,0,,,,,,"",""
+ball,1,15.1,Lumbini Lions,TJ Moores,RK Paudel,Aakash Chand,0,0,,,,,,"",""
+ball,1,15.2,Lumbini Lions,TJ Moores,RK Paudel,Aakash Chand,0,0,,,,,,"",""
+ball,1,15.3,Lumbini Lions,TJ Moores,RK Paudel,Aakash Chand,1,0,,,,,,"",""
+ball,1,15.4,Lumbini Lions,RK Paudel,TJ Moores,Aakash Chand,0,0,,,,,,"",""
+ball,1,15.5,Lumbini Lions,RK Paudel,TJ Moores,Aakash Chand,4,0,,,,,,"",""
+ball,1,15.6,Lumbini Lions,RK Paudel,TJ Moores,Aakash Chand,4,0,,,,,,"",""
+ball,1,16.1,Lumbini Lions,TJ Moores,RK Paudel,S Dhakal,2,0,,,,,,"",""
+ball,1,16.2,Lumbini Lions,TJ Moores,RK Paudel,S Dhakal,1,0,,,,,,"",""
+ball,1,16.3,Lumbini Lions,RK Paudel,TJ Moores,S Dhakal,0,0,,,,,,"",""
+ball,1,16.4,Lumbini Lions,RK Paudel,TJ Moores,S Dhakal,4,0,,,,,,"",""
+ball,1,16.5,Lumbini Lions,RK Paudel,TJ Moores,S Dhakal,0,0,,,,,,"",""
+ball,1,16.6,Lumbini Lions,RK Paudel,TJ Moores,S Dhakal,6,0,,,,,,"",""
+ball,1,17.1,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,4,0,,,,,,"",""
+ball,1,17.2,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,1,0,,,,,,"",""
+ball,1,17.3,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,1,,,,1,,"",""
+ball,1,17.4,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,4,0,,,,,,"",""
+ball,1,17.5,Lumbini Lions,TJ Moores,RK Paudel,MA Leask,1,0,,,,,,"",""
+ball,1,17.6,Lumbini Lions,RK Paudel,TJ Moores,MA Leask,0,0,,,,,,"",""
+ball,1,18.1,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,0,1,1,,,,,"",""
+ball,1,18.2,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,0,1,,,,1,,"",""
+ball,1,18.3,Lumbini Lions,RK Paudel,TJ Moores,RA Reifer,1,0,,,,,,"",""
+ball,1,18.4,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,2,0,,,,,,"",""
+ball,1,18.5,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,1,0,,,,,,"",""
+ball,1,18.6,Lumbini Lions,RK Paudel,TJ Moores,RA Reifer,1,0,,,,,,"",""
+ball,1,18.7,Lumbini Lions,TJ Moores,RK Paudel,RA Reifer,0,0,,,,,,run out,TJ Moores
+ball,1,19.1,Lumbini Lions,RK Paudel,B Yadav,Aakash Chand,0,0,,,,,,"",""
+ball,1,19.2,Lumbini Lions,RK Paudel,B Yadav,Aakash Chand,6,0,,,,,,"",""
+ball,1,19.3,Lumbini Lions,RK Paudel,B Yadav,Aakash Chand,2,0,,,,,,"",""
+ball,1,19.4,Lumbini Lions,RK Paudel,B Yadav,Aakash Chand,0,1,1,,,,,"",""
+ball,1,19.5,Lumbini Lions,RK Paudel,B Yadav,Aakash Chand,2,0,,,,,,"",""
+ball,1,19.6,Lumbini Lions,RK Paudel,B Yadav,Aakash Chand,1,0,,,,,,"",""
+ball,1,19.7,Lumbini Lions,B Yadav,RK Paudel,Aakash Chand,2,0,,,,,,run out,RK Paudel
+ball,2,0.1,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,0,3,3,,,,,"",""
+ball,2,0.2,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,0,0,,,,,,"",""
+ball,2,0.3,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,1,0,,,,,,"",""
+ball,2,0.4,Pokhara Avengers,AGS Gous,D Kharel,RR Simmonds,4,0,,,,,,"",""
+ball,2,0.5,Pokhara Avengers,AGS Gous,D Kharel,RR Simmonds,4,0,,,,,,"",""
+ball,2,0.6,Pokhara Avengers,AGS Gous,D Kharel,RR Simmonds,3,0,,,,,,"",""
+ball,2,0.7,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,0,0,,,,,,"",""
+ball,2,1.1,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,0,0,,,,,,"",""
+ball,2,1.2,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,0,0,,,,,,"",""
+ball,2,1.3,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,0,0,,,,,,"",""
+ball,2,1.4,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,6,0,,,,,,"",""
+ball,2,1.5,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,0,0,,,,,,"",""
+ball,2,1.6,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,4,0,,,,,,"",""
+ball,2,2.1,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,0,5,5,,,,,"",""
+ball,2,2.2,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,4,0,,,,,,"",""
+ball,2,2.3,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,2.4,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,2.5,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,4,0,,,,,,"",""
+ball,2,2.6,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,2.7,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,3.1,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,1,0,,,,,,"",""
+ball,2,3.2,Pokhara Avengers,D Kharel,AGS Gous,D Gupta,1,0,,,,,,"",""
+ball,2,3.3,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,1,0,,,,,,"",""
+ball,2,3.4,Pokhara Avengers,D Kharel,AGS Gous,D Gupta,4,0,,,,,,"",""
+ball,2,3.5,Pokhara Avengers,D Kharel,AGS Gous,D Gupta,6,0,,,,,,"",""
+ball,2,3.6,Pokhara Avengers,D Kharel,AGS Gous,D Gupta,6,0,,,,,,"",""
+ball,2,4.1,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,2,0,,,,,,"",""
+ball,2,4.2,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,1,0,,,,,,"",""
+ball,2,4.3,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,0,0,,,,,,"",""
+ball,2,4.4,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,0,0,,,,,,"",""
+ball,2,4.5,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,0,0,,,,,,"",""
+ball,2,4.6,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,0,0,,,,,,"",""
+ball,2,5.1,Pokhara Avengers,AGS Gous,D Kharel,D Adhikari,0,0,,,,,,"",""
+ball,2,5.2,Pokhara Avengers,AGS Gous,D Kharel,D Adhikari,6,0,,,,,,"",""
+ball,2,5.3,Pokhara Avengers,AGS Gous,D Kharel,D Adhikari,0,0,,,,,,"",""
+ball,2,5.4,Pokhara Avengers,AGS Gous,D Kharel,D Adhikari,4,0,,,,,,"",""
+ball,2,5.5,Pokhara Avengers,AGS Gous,D Kharel,D Adhikari,4,0,,,,,,"",""
+ball,2,5.6,Pokhara Avengers,AGS Gous,D Kharel,D Adhikari,6,0,,,,,,"",""
+ball,2,6.1,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,1,0,,,,,,"",""
+ball,2,6.2,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,6,0,,,,,,"",""
+ball,2,6.3,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,1,0,,,,,,"",""
+ball,2,6.4,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,4,0,,,,,,"",""
+ball,2,6.5,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,0,0,,,,,,"",""
+ball,2,6.6,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,1,0,,,,,,"",""
+ball,2,7.1,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,1,0,,,,,,"",""
+ball,2,7.2,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,4,0,,,,,,"",""
+ball,2,7.3,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,1,0,,,,,,"",""
+ball,2,7.4,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,0,0,,,,,,"",""
+ball,2,7.5,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,0,0,,,,,,"",""
+ball,2,7.6,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,0,0,,,,,,"",""
+ball,2,8.1,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,4,0,,,,,,"",""
+ball,2,8.2,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,8.3,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,8.4,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,8.5,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,8.6,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,9.1,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,6,0,,,,,,"",""
+ball,2,9.2,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,0,0,,,,,,"",""
+ball,2,9.3,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,0,0,,,,,,"",""
+ball,2,9.4,Pokhara Avengers,D Kharel,AGS Gous,RK Paudel,1,0,,,,,,"",""
+ball,2,9.5,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,0,0,,,,,,"",""
+ball,2,9.6,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,1,0,,,,,,"",""
+ball,2,10.1,Pokhara Avengers,AGS Gous,D Kharel,RR Simmonds,0,0,,,,,,"",""
+ball,2,10.2,Pokhara Avengers,AGS Gous,D Kharel,RR Simmonds,1,0,,,,,,"",""
+ball,2,10.3,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,1,0,,,,,,"",""
+ball,2,10.4,Pokhara Avengers,AGS Gous,D Kharel,RR Simmonds,1,0,,,,,,"",""
+ball,2,10.5,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,0,0,,,,,,"",""
+ball,2,10.6,Pokhara Avengers,D Kharel,AGS Gous,RR Simmonds,2,0,,,,,,"",""
+ball,2,11.1,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,0,0,,,,,,"",""
+ball,2,11.2,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,4,0,,,,,,"",""
+ball,2,11.3,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,4,0,,,,,,"",""
+ball,2,11.4,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,0,0,,,,,,"",""
+ball,2,11.5,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,0,0,,,,,,"",""
+ball,2,11.6,Pokhara Avengers,AGS Gous,D Kharel,RK Paudel,1,0,,,,,,"",""
+ball,2,12.1,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,12.2,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,12.3,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,2,0,,,,,,"",""
+ball,2,12.4,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,0,1,,,,1,,"",""
+ball,2,12.5,Pokhara Avengers,D Kharel,AGS Gous,Saad Bin Zafar,1,0,,,,,,"",""
+ball,2,12.6,Pokhara Avengers,AGS Gous,D Kharel,Saad Bin Zafar,0,0,,,,,,"",""
+ball,2,13.1,Pokhara Avengers,D Kharel,AGS Gous,D Gupta,1,0,,,,,,"",""
+ball,2,13.2,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,4,0,,,,,,"",""
+ball,2,13.3,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,4,0,,,,,,"",""
+ball,2,13.4,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,1,0,,,,,,"",""
+ball,2,13.5,Pokhara Avengers,D Kharel,AGS Gous,D Gupta,1,0,,,,,,"",""
+ball,2,13.6,Pokhara Avengers,AGS Gous,D Kharel,D Gupta,1,0,,,,,,"",""
+ball,2,14.1,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,0,0,,,,,,"",""
+ball,2,14.2,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,2,0,,,,,,"",""
+ball,2,14.3,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,1,0,,,,,,"",""
+ball,2,14.4,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,1,0,,,,,,"",""
+ball,2,14.5,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,0,0,,,,,,"",""
+ball,2,14.6,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,0,0,,,,,,"",""
+ball,2,15.1,Pokhara Avengers,D Kharel,AGS Gous,B Yadav,0,0,,,,,,"",""
+ball,2,15.2,Pokhara Avengers,D Kharel,AGS Gous,B Yadav,1,0,,,,,,"",""
+ball,2,15.3,Pokhara Avengers,AGS Gous,D Kharel,B Yadav,1,0,,,,,,"",""
+ball,2,15.4,Pokhara Avengers,D Kharel,AGS Gous,B Yadav,1,0,,,,,,"",""
+ball,2,15.5,Pokhara Avengers,AGS Gous,D Kharel,B Yadav,6,0,,,,,,"",""
+ball,2,15.6,Pokhara Avengers,AGS Gous,D Kharel,B Yadav,4,0,,,,,,"",""
+ball,2,16.1,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,2,0,,,,,,"",""
+ball,2,16.2,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,1,0,,,,,,"",""
+ball,2,16.3,Pokhara Avengers,AGS Gous,D Kharel,Surya Tamang,1,0,,,,,,"",""
+ball,2,16.4,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,0,2,,,,2,,"",""
+ball,2,16.5,Pokhara Avengers,D Kharel,AGS Gous,Surya Tamang,6,0,,,,,,"",""

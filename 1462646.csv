@@ -1,0 +1,303 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pokhara Avengers
+info,team,Janakpur Bolts
+info,gender,male
+info,season,2024/25
+info,date,2024/12/05
+info,event,Nepal Premier League
+info,match_number,8
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Janakpur Bolts
+info,toss_decision,field
+info,player_of_match,JDS Neesham
+info,umpire,DN Subedi
+info,umpire,VK Jha
+info,reserve_umpire,U Regmi
+info,tv_umpire,BB Pradhan
+info,match_referee,Mohammed Shafique
+info,winner,Janakpur Bolts
+info,winner_wickets,7
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AGS Gous
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,D Nath
+info,player,Pokhara Avengers,MJJ Critchley
+info,player,Pokhara Avengers,RA Reifer
+info,player,Pokhara Avengers,MA Leask
+info,player,Pokhara Avengers,N Joshi
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,Aakash Chand
+info,player,Pokhara Avengers,S Dhakal
+info,player,Janakpur Bolts,AK Sah
+info,player,Janakpur Bolts,Aasif Sheikh
+info,player,Janakpur Bolts,BKEL Milantha
+info,player,Janakpur Bolts,H Thaker
+info,player,Janakpur Bolts,JDS Neesham
+info,player,Janakpur Bolts,Mohammad Mohsin
+info,player,Janakpur Bolts,S Kansakar
+info,player,Janakpur Bolts,TB Thapa
+info,player,Janakpur Bolts,LN Rajbanshi
+info,player,Janakpur Bolts,H Dhami
+info,player,Janakpur Bolts,K Mahato
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aakash Chand,279c51f0
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BKEL Milantha,dcabd6bc
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,D Nath,d019608b
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,H Dhami,bb20441f
+info,registry,people,H Thaker,c01d7726
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Mahato,d913103d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,MA Leask,28131839
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,N Joshi,58c71b70
+info,registry,people,RA Reifer,d7725664
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S Kansakar,fd0e5582
+info,registry,people,TB Thapa,752cd438
+info,registry,people,U Regmi,d1ce9fb5
+info,registry,people,VK Jha,5d46eb72
+ball,1,0.1,Pokhara Avengers,D Kharel,AGS Gous,K Mahato,1,0,,,,,,"",""
+ball,1,0.2,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,0.3,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,0.4,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,0.5,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,4,0,,,,,,"",""
+ball,1,0.6,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,1,0,,,,,,"",""
+ball,1,1.1,Pokhara Avengers,AGS Gous,D Kharel,JDS Neesham,1,0,,,,,,"",""
+ball,1,1.2,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,0,0,,,,,,"",""
+ball,1,1.3,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,0,1,1,,,,,"",""
+ball,1,1.4,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,6,0,,,,,,"",""
+ball,1,1.5,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,0,0,,,,,,"",""
+ball,1,1.6,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,0,1,1,,,,,"",""
+ball,1,1.7,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,0,0,,,,,,"",""
+ball,1,1.8,Pokhara Avengers,D Kharel,AGS Gous,JDS Neesham,0,0,,,,,,"",""
+ball,1,2.1,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,1,1,,,,,"",""
+ball,1,2.2,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,4,0,,,,,,"",""
+ball,1,2.3,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,2.4,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,2.5,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,2.6,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,4,0,,,,,,"",""
+ball,1,2.7,Pokhara Avengers,AGS Gous,D Kharel,K Mahato,0,0,,,,,,"",""
+ball,1,3.1,Pokhara Avengers,D Kharel,AGS Gous,H Thaker,0,0,,,,,,"",""
+ball,1,3.2,Pokhara Avengers,D Kharel,AGS Gous,H Thaker,0,0,,,,,,"",""
+ball,1,3.3,Pokhara Avengers,D Kharel,AGS Gous,H Thaker,0,0,,,,,,"",""
+ball,1,3.4,Pokhara Avengers,D Kharel,AGS Gous,H Thaker,0,0,,,,,,"",""
+ball,1,3.5,Pokhara Avengers,D Kharel,AGS Gous,H Thaker,1,0,,,,,,"",""
+ball,1,3.6,Pokhara Avengers,AGS Gous,D Kharel,H Thaker,0,0,,,,,,"",""
+ball,1,4.1,Pokhara Avengers,D Kharel,AGS Gous,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,4.2,Pokhara Avengers,D Kharel,AGS Gous,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,4.3,Pokhara Avengers,D Kharel,AGS Gous,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,4.4,Pokhara Avengers,AGS Gous,D Kharel,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,4.5,Pokhara Avengers,AGS Gous,D Kharel,LN Rajbanshi,6,0,,,,,,"",""
+ball,1,4.6,Pokhara Avengers,AGS Gous,D Kharel,LN Rajbanshi,0,0,,,,,,caught,AGS Gous
+ball,1,5.1,Pokhara Avengers,D Kharel,K Bhurtel,JDS Neesham,1,0,,,,,,"",""
+ball,1,5.2,Pokhara Avengers,K Bhurtel,D Kharel,JDS Neesham,0,0,,,,,,"",""
+ball,1,5.3,Pokhara Avengers,K Bhurtel,D Kharel,JDS Neesham,1,0,,,,,,"",""
+ball,1,5.4,Pokhara Avengers,D Kharel,K Bhurtel,JDS Neesham,0,0,,,,,,"",""
+ball,1,5.5,Pokhara Avengers,D Kharel,K Bhurtel,JDS Neesham,0,0,,,,,,caught,D Kharel
+ball,1,5.6,Pokhara Avengers,D Nath,K Bhurtel,JDS Neesham,1,0,,,,,,"",""
+ball,1,6.1,Pokhara Avengers,D Nath,K Bhurtel,LN Rajbanshi,0,3,,,3,,,"",""
+ball,1,6.2,Pokhara Avengers,K Bhurtel,D Nath,LN Rajbanshi,0,1,1,,,,,"",""
+ball,1,6.3,Pokhara Avengers,K Bhurtel,D Nath,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,6.4,Pokhara Avengers,D Nath,K Bhurtel,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,6.5,Pokhara Avengers,K Bhurtel,D Nath,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,6.6,Pokhara Avengers,K Bhurtel,D Nath,LN Rajbanshi,4,0,,,,,,"",""
+ball,1,6.7,Pokhara Avengers,K Bhurtel,D Nath,LN Rajbanshi,0,0,,,,,,stumped,K Bhurtel
+ball,1,7.1,Pokhara Avengers,D Nath,MJJ Critchley,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,7.2,Pokhara Avengers,MJJ Critchley,D Nath,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,7.3,Pokhara Avengers,D Nath,MJJ Critchley,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,7.4,Pokhara Avengers,MJJ Critchley,D Nath,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,7.5,Pokhara Avengers,D Nath,MJJ Critchley,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,7.6,Pokhara Avengers,MJJ Critchley,D Nath,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,8.1,Pokhara Avengers,MJJ Critchley,D Nath,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,8.2,Pokhara Avengers,D Nath,MJJ Critchley,LN Rajbanshi,4,0,,,,,,"",""
+ball,1,8.3,Pokhara Avengers,D Nath,MJJ Critchley,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,8.4,Pokhara Avengers,D Nath,MJJ Critchley,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,8.5,Pokhara Avengers,D Nath,MJJ Critchley,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,8.6,Pokhara Avengers,MJJ Critchley,D Nath,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,9.1,Pokhara Avengers,MJJ Critchley,D Nath,TB Thapa,0,0,,,,,,"",""
+ball,1,9.2,Pokhara Avengers,MJJ Critchley,D Nath,TB Thapa,0,0,,,,,,"",""
+ball,1,9.3,Pokhara Avengers,MJJ Critchley,D Nath,TB Thapa,4,0,,,,,,"",""
+ball,1,9.4,Pokhara Avengers,MJJ Critchley,D Nath,TB Thapa,6,0,,,,,,"",""
+ball,1,9.5,Pokhara Avengers,MJJ Critchley,D Nath,TB Thapa,1,0,,,,,,"",""
+ball,1,9.6,Pokhara Avengers,D Nath,MJJ Critchley,TB Thapa,1,0,,,,,,"",""
+ball,1,10.1,Pokhara Avengers,D Nath,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,10.2,Pokhara Avengers,D Nath,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,10.3,Pokhara Avengers,D Nath,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,lbw,D Nath
+ball,1,10.4,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,10.5,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,10.6,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,11.1,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,2,0,,,,,,"",""
+ball,1,11.2,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,0,0,,,,,,"",""
+ball,1,11.3,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,0,1,1,,,,,"",""
+ball,1,11.4,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,1,0,,,,,,"",""
+ball,1,11.5,Pokhara Avengers,RA Reifer,MJJ Critchley,H Thaker,1,0,,,,,,"",""
+ball,1,11.6,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,0,0,,,,,,"",""
+ball,1,11.7,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,4,0,,,,,,"",""
+ball,1,12.1,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,12.2,Pokhara Avengers,MJJ Critchley,RA Reifer,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,12.3,Pokhara Avengers,MJJ Critchley,RA Reifer,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,12.4,Pokhara Avengers,MJJ Critchley,RA Reifer,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,12.5,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,12.6,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,4,0,,,,,,"",""
+ball,1,13.1,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,1,0,,,,,,"",""
+ball,1,13.2,Pokhara Avengers,RA Reifer,MJJ Critchley,H Thaker,1,0,,,,,,"",""
+ball,1,13.3,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,0,0,,,,,,"",""
+ball,1,13.4,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,1,0,,,,,,"",""
+ball,1,13.5,Pokhara Avengers,RA Reifer,MJJ Critchley,H Thaker,1,0,,,,,,"",""
+ball,1,13.6,Pokhara Avengers,MJJ Critchley,RA Reifer,H Thaker,0,0,,,,,,"",""
+ball,1,14.1,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,14.2,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,14.3,Pokhara Avengers,RA Reifer,MJJ Critchley,Mohammad Mohsin,1,0,,,,,,"",""
+ball,1,14.4,Pokhara Avengers,MJJ Critchley,RA Reifer,Mohammad Mohsin,4,0,,,,,,"",""
+ball,1,14.5,Pokhara Avengers,MJJ Critchley,RA Reifer,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,14.6,Pokhara Avengers,MJJ Critchley,RA Reifer,Mohammad Mohsin,0,0,,,,,,"",""
+ball,1,15.1,Pokhara Avengers,RA Reifer,MJJ Critchley,JDS Neesham,1,0,,,,,,"",""
+ball,1,15.2,Pokhara Avengers,MJJ Critchley,RA Reifer,JDS Neesham,0,0,,,,,,"",""
+ball,1,15.3,Pokhara Avengers,MJJ Critchley,RA Reifer,JDS Neesham,1,0,,,,,,"",""
+ball,1,15.4,Pokhara Avengers,RA Reifer,MJJ Critchley,JDS Neesham,1,0,,,,,,"",""
+ball,1,15.5,Pokhara Avengers,MJJ Critchley,RA Reifer,JDS Neesham,1,0,,,,,,"",""
+ball,1,15.6,Pokhara Avengers,RA Reifer,MJJ Critchley,JDS Neesham,0,0,,,,,,"",""
+ball,1,16.1,Pokhara Avengers,MJJ Critchley,RA Reifer,LN Rajbanshi,3,0,,,,,,"",""
+ball,1,16.2,Pokhara Avengers,RA Reifer,MJJ Critchley,LN Rajbanshi,1,0,,,,,,"",""
+ball,1,16.3,Pokhara Avengers,MJJ Critchley,RA Reifer,LN Rajbanshi,0,0,,,,,,caught,MJJ Critchley
+ball,1,16.4,Pokhara Avengers,MA Leask,RA Reifer,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,16.5,Pokhara Avengers,MA Leask,RA Reifer,LN Rajbanshi,0,0,,,,,,"",""
+ball,1,16.6,Pokhara Avengers,MA Leask,RA Reifer,LN Rajbanshi,6,0,,,,,,"",""
+ball,1,17.1,Pokhara Avengers,RA Reifer,MA Leask,K Mahato,1,0,,,,,,"",""
+ball,1,17.2,Pokhara Avengers,MA Leask,RA Reifer,K Mahato,2,0,,,,,,"",""
+ball,1,17.3,Pokhara Avengers,MA Leask,RA Reifer,K Mahato,6,0,,,,,,"",""
+ball,1,17.4,Pokhara Avengers,MA Leask,RA Reifer,K Mahato,1,0,,,,,,"",""
+ball,1,17.5,Pokhara Avengers,RA Reifer,MA Leask,K Mahato,2,0,,,,,,"",""
+ball,1,17.6,Pokhara Avengers,RA Reifer,MA Leask,K Mahato,2,0,,,,,,"",""
+ball,1,18.1,Pokhara Avengers,MA Leask,RA Reifer,JDS Neesham,6,0,,,,,,"",""
+ball,1,18.2,Pokhara Avengers,MA Leask,RA Reifer,JDS Neesham,3,0,,,,,,"",""
+ball,1,18.3,Pokhara Avengers,RA Reifer,MA Leask,JDS Neesham,0,0,,,,,,caught,RA Reifer
+ball,1,18.4,Pokhara Avengers,N Joshi,MA Leask,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.5,Pokhara Avengers,MA Leask,N Joshi,JDS Neesham,1,0,,,,,,"",""
+ball,1,18.6,Pokhara Avengers,N Joshi,MA Leask,JDS Neesham,2,0,,,,,,"",""
+ball,1,19.1,Pokhara Avengers,MA Leask,N Joshi,K Mahato,0,0,,,,,,"",""
+ball,1,19.2,Pokhara Avengers,MA Leask,N Joshi,K Mahato,0,0,,,,,,"",""
+ball,1,19.3,Pokhara Avengers,MA Leask,N Joshi,K Mahato,0,0,,,,,,"",""
+ball,1,19.4,Pokhara Avengers,MA Leask,N Joshi,K Mahato,0,0,,,,,,caught,MA Leask
+ball,1,19.5,Pokhara Avengers,Bipin Khatri,N Joshi,K Mahato,1,0,,,,,,"",""
+ball,1,19.6,Pokhara Avengers,N Joshi,Bipin Khatri,K Mahato,2,0,,,,,,"",""
+ball,2,0.1,Janakpur Bolts,AK Sah,Aasif Sheikh,Aakash Chand,1,0,,,,,,"",""
+ball,2,0.2,Janakpur Bolts,Aasif Sheikh,AK Sah,Aakash Chand,0,0,,,,,,"",""
+ball,2,0.3,Janakpur Bolts,Aasif Sheikh,AK Sah,Aakash Chand,0,0,,,,,,"",""
+ball,2,0.4,Janakpur Bolts,Aasif Sheikh,AK Sah,Aakash Chand,0,5,5,,,,,"",""
+ball,2,0.5,Janakpur Bolts,Aasif Sheikh,AK Sah,Aakash Chand,4,0,,,,,,"",""
+ball,2,0.6,Janakpur Bolts,Aasif Sheikh,AK Sah,Aakash Chand,0,0,,,,,,"",""
+ball,2,0.7,Janakpur Bolts,Aasif Sheikh,AK Sah,Aakash Chand,0,0,,,,,,"",""
+ball,2,1.1,Janakpur Bolts,AK Sah,Aasif Sheikh,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.2,Janakpur Bolts,AK Sah,Aasif Sheikh,Bipin Khatri,0,0,,,,,,lbw,AK Sah
+ball,2,1.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Bipin Khatri,2,0,,,,,,"",""
+ball,2,1.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Bipin Khatri,4,0,,,,,,"",""
+ball,2,2.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Aakash Chand,0,0,,,,,,"",""
+ball,2,2.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Aakash Chand,4,0,,,,,,"",""
+ball,2,2.3,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Aakash Chand,0,2,2,,,,,"",""
+ball,2,2.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Aakash Chand,0,0,,,,,,"",""
+ball,2,2.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Aakash Chand,4,0,,,,,,"",""
+ball,2,2.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Aakash Chand,0,0,,,,,,"",""
+ball,2,2.7,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Aakash Chand,1,0,,,,,,"",""
+ball,2,3.1,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,2,3.2,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,2,3.3,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,0,0,,,,,,"",""
+ball,2,3.4,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,0,0,,,,,,"",""
+ball,2,3.5,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,1,0,,,,,,"",""
+ball,2,3.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,2,4.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,RA Reifer,1,0,,,,,,"",""
+ball,2,4.2,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,RA Reifer,4,0,,,,,,"",""
+ball,2,4.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,RA Reifer,4,0,,,,,,"",""
+ball,2,4.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,RA Reifer,0,0,,,,,,"",""
+ball,2,4.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,RA Reifer,1,0,,,,,,"",""
+ball,2,4.6,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,RA Reifer,2,0,,,,,,"",""
+ball,2,5.1,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,0,1,1,,,,,"",""
+ball,2,5.2,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,4,0,,,,,,"",""
+ball,2,5.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,0,1,1,,,,,"",""
+ball,2,5.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,0,1,1,,,,,"",""
+ball,2,5.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,0,0,,,,,,"",""
+ball,2,5.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,4,0,,,,,,"",""
+ball,2,5.7,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,4,0,,,,,,"",""
+ball,2,5.8,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,4,0,,,,,,"",""
+ball,2,5.9,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,N Joshi,2,0,,,,,,"",""
+ball,2,6.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,1,0,,,,,,"",""
+ball,2,6.2,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,2,6.3,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,0,0,,,,,,"",""
+ball,2,6.4,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,1,0,,,,,,"",""
+ball,2,6.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,S Dhakal,0,0,,,,,,"",""
+ball,2,6.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,2,7.1,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,2,7.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,1,0,,,,,,"",""
+ball,2,7.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,2,7.4,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,1,0,,,,,,"",""
+ball,2,7.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,2,7.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,2,8.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,0,0,,,,,,"",""
+ball,2,8.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,1,0,,,,,,"",""
+ball,2,8.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,S Dhakal,0,0,,,,,,"",""
+ball,2,8.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,2,8.5,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,2,0,,,,,,"",""
+ball,2,8.6,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,S Dhakal,1,0,,,,,,"",""
+ball,2,9.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,4,0,,,,,,"",""
+ball,2,9.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,1,0,,,,,,"",""
+ball,2,9.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,2,9.4,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,MA Leask,0,1,,,,1,,"",""
+ball,2,9.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,MA Leask,0,0,,,,,,caught,BKEL Milantha
+ball,2,9.6,Janakpur Bolts,H Thaker,Aasif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,2,10.1,Janakpur Bolts,Aasif Sheikh,H Thaker,S Dhakal,0,0,,,,,,"",""
+ball,2,10.2,Janakpur Bolts,Aasif Sheikh,H Thaker,S Dhakal,1,0,,,,,,"",""
+ball,2,10.3,Janakpur Bolts,H Thaker,Aasif Sheikh,S Dhakal,0,0,,,,,,"",""
+ball,2,10.4,Janakpur Bolts,H Thaker,Aasif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,2,10.5,Janakpur Bolts,Aasif Sheikh,H Thaker,S Dhakal,1,0,,,,,,"",""
+ball,2,10.6,Janakpur Bolts,H Thaker,Aasif Sheikh,S Dhakal,0,0,,,,,,"",""
+ball,2,11.1,Janakpur Bolts,Aasif Sheikh,H Thaker,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.2,Janakpur Bolts,H Thaker,Aasif Sheikh,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.3,Janakpur Bolts,Aasif Sheikh,H Thaker,MJJ Critchley,2,0,,,,,,"",""
+ball,2,11.4,Janakpur Bolts,Aasif Sheikh,H Thaker,MJJ Critchley,2,0,,,,,,"",""
+ball,2,11.5,Janakpur Bolts,Aasif Sheikh,H Thaker,MJJ Critchley,1,0,,,,,,"",""
+ball,2,11.6,Janakpur Bolts,H Thaker,Aasif Sheikh,MJJ Critchley,0,0,,,,,,"",""
+ball,2,12.1,Janakpur Bolts,Aasif Sheikh,H Thaker,K Bhurtel,0,0,,,,,,"",""
+ball,2,12.2,Janakpur Bolts,Aasif Sheikh,H Thaker,K Bhurtel,0,0,,,,,,"",""
+ball,2,12.3,Janakpur Bolts,Aasif Sheikh,H Thaker,K Bhurtel,0,0,,,,,,caught,Aasif Sheikh
+ball,2,12.4,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,0,0,,,,,,"",""
+ball,2,12.5,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,0,0,,,,,,"",""
+ball,2,12.6,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,1,0,,,,,,"",""
+ball,2,13.1,Janakpur Bolts,JDS Neesham,H Thaker,MA Leask,1,0,,,,,,"",""
+ball,2,13.2,Janakpur Bolts,H Thaker,JDS Neesham,MA Leask,1,0,,,,,,"",""
+ball,2,13.3,Janakpur Bolts,JDS Neesham,H Thaker,MA Leask,0,0,,,,,,"",""
+ball,2,13.4,Janakpur Bolts,JDS Neesham,H Thaker,MA Leask,0,0,,,,,,"",""
+ball,2,13.5,Janakpur Bolts,JDS Neesham,H Thaker,MA Leask,1,0,,,,,,"",""
+ball,2,13.6,Janakpur Bolts,H Thaker,JDS Neesham,MA Leask,2,0,,,,,,"",""
+ball,2,14.1,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,1,0,,,,,,"",""
+ball,2,14.2,Janakpur Bolts,H Thaker,JDS Neesham,K Bhurtel,1,0,,,,,,"",""
+ball,2,14.3,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,2,0,,,,,,"",""
+ball,2,14.4,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,0,0,,,,,,"",""
+ball,2,14.5,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,6,0,,,,,,"",""
+ball,2,14.6,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,1,0,,,,,,"",""
+ball,2,15.1,Janakpur Bolts,JDS Neesham,H Thaker,MJJ Critchley,0,0,,,,,,"",""
+ball,2,15.2,Janakpur Bolts,JDS Neesham,H Thaker,MJJ Critchley,6,0,,,,,,"",""
+ball,2,15.3,Janakpur Bolts,JDS Neesham,H Thaker,MJJ Critchley,0,0,,,,,,"",""
+ball,2,15.4,Janakpur Bolts,JDS Neesham,H Thaker,MJJ Critchley,6,0,,,,,,"",""
+ball,2,15.5,Janakpur Bolts,JDS Neesham,H Thaker,MJJ Critchley,2,0,,,,,,"",""
+ball,2,15.6,Janakpur Bolts,JDS Neesham,H Thaker,MJJ Critchley,6,0,,,,,,"",""
+ball,2,16.1,Janakpur Bolts,H Thaker,JDS Neesham,S Dhakal,4,0,,,,,,"",""
+ball,2,16.2,Janakpur Bolts,H Thaker,JDS Neesham,S Dhakal,0,0,,,,,,"",""
+ball,2,16.3,Janakpur Bolts,H Thaker,JDS Neesham,S Dhakal,2,0,,,,,,"",""
+ball,2,16.4,Janakpur Bolts,H Thaker,JDS Neesham,S Dhakal,0,0,,,,,,"",""
+ball,2,16.5,Janakpur Bolts,H Thaker,JDS Neesham,S Dhakal,1,0,,,,,,"",""
+ball,2,16.6,Janakpur Bolts,JDS Neesham,H Thaker,S Dhakal,1,0,,,,,,"",""
+ball,2,17.1,Janakpur Bolts,JDS Neesham,H Thaker,K Bhurtel,6,0,,,,,,"",""

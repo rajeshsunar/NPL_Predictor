@@ -1,0 +1,301 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Janakpur Bolts
+info,team,Sudur Paschim Royals
+info,gender,male
+info,season,2025/26
+info,date,2025/11/29
+info,event,Nepal Premier League
+info,match_number,18
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Janakpur Bolts
+info,toss_decision,bat
+info,player_of_match,I Pandey
+info,umpire,DN Subedi
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Hiralal Raut
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,Mohammed Shafique
+info,winner,Sudur Paschim Royals
+info,winner_wickets,6
+info,player,Janakpur Bolts,Maaz Sadaqat
+info,player,Janakpur Bolts,Aasif Sheikh
+info,player,Janakpur Bolts,Mayan Yadav
+info,player,Janakpur Bolts,JN Loftie-Eaton
+info,player,Janakpur Bolts,SP Krishnamurthi
+info,player,Janakpur Bolts,A Mahata
+info,player,Janakpur Bolts,S Kansakar
+info,player,Janakpur Bolts,WD Parnell
+info,player,Janakpur Bolts,Rupesh Singh
+info,player,Janakpur Bolts,LN Rajbanshi
+info,player,Janakpur Bolts,K Mahato
+info,player,Sudur Paschim Royals,J Brown
+info,player,Sudur Paschim Royals,B Bhandari
+info,player,Sudur Paschim Royals,CA Lynn
+info,player,Sudur Paschim Royals,I Pandey
+info,player,Sudur Paschim Royals,DS Airee
+info,player,Sudur Paschim Royals,Harmeet Singh
+info,player,Sudur Paschim Royals,Aarif Sheikh
+info,player,Sudur Paschim Royals,SC Kuggeleijn
+info,player,Sudur Paschim Royals,Milan Bohara
+info,player,Sudur Paschim Royals,H Dhami
+info,player,Sudur Paschim Royals,A Bohara
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,A Mahata,83fddc3f
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,B Bhandari,82342b13
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,H Dhami,bb20441f
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Hiralal Raut,f9e21b08
+info,registry,people,I Pandey,ed547c49
+info,registry,people,J Brown,647e7d44
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,K Mahato,d913103d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Maaz Sadaqat,6d9560f3
+info,registry,people,Mayan Yadav,c6355538
+info,registry,people,Milan Bohara,4546e17e
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rupesh Singh,30b93df1
+info,registry,people,S Kansakar,fd0e5582
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,WD Parnell,3a60e0b5
+ball,1,0.1,Janakpur Bolts,Maaz Sadaqat,Aasif Sheikh,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,0.2,Janakpur Bolts,Maaz Sadaqat,Aasif Sheikh,SC Kuggeleijn,0,1,,,,1,,"",""
+ball,1,0.3,Janakpur Bolts,Aasif Sheikh,Maaz Sadaqat,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,0.4,Janakpur Bolts,Aasif Sheikh,Maaz Sadaqat,SC Kuggeleijn,0,0,,,,,,bowled,Aasif Sheikh
+ball,1,0.5,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,0.6,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,1.1,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,Harmeet Singh,0,0,,,,,,"",""
+ball,1,1.2,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,Harmeet Singh,0,0,,,,,,"",""
+ball,1,1.3,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,Harmeet Singh,4,0,,,,,,"",""
+ball,1,1.4,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,Harmeet Singh,0,0,,,,,,"",""
+ball,1,1.5,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,Harmeet Singh,0,0,,,,,,"",""
+ball,1,1.6,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,Harmeet Singh,1,0,,,,,,"",""
+ball,1,2.1,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,2.2,Janakpur Bolts,Mayan Yadav,Maaz Sadaqat,SC Kuggeleijn,0,0,,,,,,lbw,Mayan Yadav
+ball,1,2.3,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,2.4,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,2.5,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,2.6,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,3.1,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,DS Airee,0,0,,,,,,"",""
+ball,1,3.2,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,DS Airee,1,0,,,,,,"",""
+ball,1,3.3,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,DS Airee,4,0,,,,,,"",""
+ball,1,3.4,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,DS Airee,1,0,,,,,,"",""
+ball,1,3.5,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,DS Airee,1,0,,,,,,"",""
+ball,1,3.6,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,DS Airee,0,0,,,,,,"",""
+ball,1,4.1,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,H Dhami,0,0,,,,,,"",""
+ball,1,4.2,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,H Dhami,0,0,,,,,,"",""
+ball,1,4.3,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,H Dhami,6,0,,,,,,"",""
+ball,1,4.4,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,H Dhami,0,0,,,,,,"",""
+ball,1,4.5,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,H Dhami,4,0,,,,,,"",""
+ball,1,4.6,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,H Dhami,1,0,,,,,,"",""
+ball,1,5.1,Janakpur Bolts,JN Loftie-Eaton,Maaz Sadaqat,DS Airee,1,0,,,,,,"",""
+ball,1,5.2,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,DS Airee,2,0,,,,,,"",""
+ball,1,5.3,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,DS Airee,0,0,,,,,,"",""
+ball,1,5.4,Janakpur Bolts,Maaz Sadaqat,JN Loftie-Eaton,DS Airee,0,0,,,,,,bowled,Maaz Sadaqat
+ball,1,5.5,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,DS Airee,0,0,,,,,,"",""
+ball,1,5.6,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,DS Airee,0,0,,,,,,"",""
+ball,1,6.1,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,0,0,,,,,,"",""
+ball,1,6.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,0,0,,,,,,"",""
+ball,1,6.3,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,1,0,,,,,,"",""
+ball,1,6.4,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,I Pandey,0,1,1,,,,,"",""
+ball,1,6.5,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,I Pandey,1,0,,,,,,"",""
+ball,1,6.6,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,1,0,,,,,,"",""
+ball,1,6.7,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,I Pandey,1,0,,,,,,"",""
+ball,1,7.1,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,1,0,,,,,,"",""
+ball,1,7.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,Harmeet Singh,1,0,,,,,,"",""
+ball,1,7.3,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,0,0,,,,,,"",""
+ball,1,7.4,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,0,0,,,,,,"",""
+ball,1,7.5,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,0,0,,,,,,"",""
+ball,1,7.6,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,0,0,,,,,,"",""
+ball,1,8.1,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,0,0,,,,,,"",""
+ball,1,8.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,1,0,,,,,,"",""
+ball,1,8.3,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,I Pandey,4,0,,,,,,"",""
+ball,1,8.4,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,I Pandey,1,0,,,,,,"",""
+ball,1,8.5,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,I Pandey,1,0,,,,,,"",""
+ball,1,8.6,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,I Pandey,1,0,,,,,,"",""
+ball,1,9.1,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,1,0,,,,,,"",""
+ball,1,9.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,Harmeet Singh,1,0,,,,,,"",""
+ball,1,9.3,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,1,0,,,,,,"",""
+ball,1,9.4,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,Harmeet Singh,1,0,,,,,,"",""
+ball,1,9.5,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,0,0,,,,,,"",""
+ball,1,9.6,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,Harmeet Singh,1,0,,,,,,"",""
+ball,1,10.1,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,A Bohara,1,0,,,,,,"",""
+ball,1,10.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,A Bohara,0,0,,,,,,"",""
+ball,1,10.3,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,A Bohara,1,0,,,,,,"",""
+ball,1,10.4,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,A Bohara,1,0,,,,,,"",""
+ball,1,10.5,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,A Bohara,4,0,,,,,,"",""
+ball,1,10.6,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,A Bohara,1,0,,,,,,"",""
+ball,1,11.1,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,H Dhami,2,0,,,,,,"",""
+ball,1,11.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,H Dhami,0,0,,,,,,"",""
+ball,1,11.3,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,H Dhami,1,0,,,,,,"",""
+ball,1,11.4,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,H Dhami,1,0,,,,,,"",""
+ball,1,11.5,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,H Dhami,1,0,,,,,,"",""
+ball,1,11.6,Janakpur Bolts,SP Krishnamurthi,JN Loftie-Eaton,H Dhami,0,0,,,,,,"",""
+ball,1,12.1,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,A Bohara,6,0,,,,,,"",""
+ball,1,12.2,Janakpur Bolts,JN Loftie-Eaton,SP Krishnamurthi,A Bohara,0,0,,,,,,caught,JN Loftie-Eaton
+ball,1,12.3,Janakpur Bolts,A Mahata,SP Krishnamurthi,A Bohara,0,0,,,,,,"",""
+ball,1,12.4,Janakpur Bolts,A Mahata,SP Krishnamurthi,A Bohara,1,0,,,,,,"",""
+ball,1,12.5,Janakpur Bolts,SP Krishnamurthi,A Mahata,A Bohara,4,0,,,,,,"",""
+ball,1,12.6,Janakpur Bolts,SP Krishnamurthi,A Mahata,A Bohara,1,0,,,,,,"",""
+ball,1,13.1,Janakpur Bolts,SP Krishnamurthi,A Mahata,Harmeet Singh,1,0,,,,,,"",""
+ball,1,13.2,Janakpur Bolts,A Mahata,SP Krishnamurthi,Harmeet Singh,1,0,,,,,,"",""
+ball,1,13.3,Janakpur Bolts,SP Krishnamurthi,A Mahata,Harmeet Singh,1,0,,,,,,"",""
+ball,1,13.4,Janakpur Bolts,A Mahata,SP Krishnamurthi,Harmeet Singh,0,0,,,,,,"",""
+ball,1,13.5,Janakpur Bolts,A Mahata,SP Krishnamurthi,Harmeet Singh,0,5,5,,,,,"",""
+ball,1,13.6,Janakpur Bolts,A Mahata,SP Krishnamurthi,Harmeet Singh,4,0,,,,,,"",""
+ball,1,13.7,Janakpur Bolts,A Mahata,SP Krishnamurthi,Harmeet Singh,0,0,,,,,,"",""
+ball,1,14.1,Janakpur Bolts,SP Krishnamurthi,A Mahata,DS Airee,2,0,,,,,,"",""
+ball,1,14.2,Janakpur Bolts,SP Krishnamurthi,A Mahata,DS Airee,2,0,,,,,,"",""
+ball,1,14.3,Janakpur Bolts,SP Krishnamurthi,A Mahata,DS Airee,6,0,,,,,,"",""
+ball,1,14.4,Janakpur Bolts,SP Krishnamurthi,A Mahata,DS Airee,4,0,,,,,,"",""
+ball,1,14.5,Janakpur Bolts,SP Krishnamurthi,A Mahata,DS Airee,6,0,,,,,,"",""
+ball,1,14.6,Janakpur Bolts,SP Krishnamurthi,A Mahata,DS Airee,0,0,,,,,,"",""
+ball,1,15.1,Janakpur Bolts,A Mahata,SP Krishnamurthi,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,15.2,Janakpur Bolts,SP Krishnamurthi,A Mahata,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,15.3,Janakpur Bolts,A Mahata,SP Krishnamurthi,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,15.4,Janakpur Bolts,SP Krishnamurthi,A Mahata,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,15.5,Janakpur Bolts,SP Krishnamurthi,A Mahata,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,15.6,Janakpur Bolts,SP Krishnamurthi,A Mahata,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,16.1,Janakpur Bolts,SP Krishnamurthi,A Mahata,H Dhami,1,0,,,,,,"",""
+ball,1,16.2,Janakpur Bolts,A Mahata,SP Krishnamurthi,H Dhami,1,0,,,,,,"",""
+ball,1,16.3,Janakpur Bolts,SP Krishnamurthi,A Mahata,H Dhami,0,0,,,,,,"",""
+ball,1,16.4,Janakpur Bolts,SP Krishnamurthi,A Mahata,H Dhami,1,0,,,,,,"",""
+ball,1,16.5,Janakpur Bolts,A Mahata,SP Krishnamurthi,H Dhami,4,0,,,,,,"",""
+ball,1,16.6,Janakpur Bolts,A Mahata,SP Krishnamurthi,H Dhami,1,0,,,,,,"",""
+ball,1,17.1,Janakpur Bolts,A Mahata,SP Krishnamurthi,A Bohara,1,0,,,,,,"",""
+ball,1,17.2,Janakpur Bolts,SP Krishnamurthi,A Mahata,A Bohara,0,0,,,,,,bowled,SP Krishnamurthi
+ball,1,17.3,Janakpur Bolts,S Kansakar,A Mahata,A Bohara,0,0,,,,,,caught,S Kansakar
+ball,1,17.4,Janakpur Bolts,WD Parnell,A Mahata,A Bohara,0,0,,,,,,"",""
+ball,1,17.5,Janakpur Bolts,WD Parnell,A Mahata,A Bohara,0,0,,,,,,"",""
+ball,1,17.6,Janakpur Bolts,WD Parnell,A Mahata,A Bohara,1,0,,,,,,"",""
+ball,1,18.1,Janakpur Bolts,WD Parnell,A Mahata,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,18.2,Janakpur Bolts,A Mahata,WD Parnell,SC Kuggeleijn,0,0,,,,,,caught,A Mahata
+ball,1,18.3,Janakpur Bolts,Rupesh Singh,WD Parnell,SC Kuggeleijn,0,1,,,,1,,"",""
+ball,1,18.4,Janakpur Bolts,WD Parnell,Rupesh Singh,SC Kuggeleijn,4,0,,,,,,"",""
+ball,1,18.5,Janakpur Bolts,WD Parnell,Rupesh Singh,SC Kuggeleijn,0,0,,,,,,"",""
+ball,1,18.6,Janakpur Bolts,WD Parnell,Rupesh Singh,SC Kuggeleijn,1,0,,,,,,"",""
+ball,1,19.1,Janakpur Bolts,WD Parnell,Rupesh Singh,A Bohara,6,0,,,,,,"",""
+ball,1,19.2,Janakpur Bolts,WD Parnell,Rupesh Singh,A Bohara,0,0,,,,,,"",""
+ball,1,19.3,Janakpur Bolts,WD Parnell,Rupesh Singh,A Bohara,0,0,,,,,,"",""
+ball,1,19.4,Janakpur Bolts,WD Parnell,Rupesh Singh,A Bohara,1,0,,,,,,"",""
+ball,1,19.5,Janakpur Bolts,Rupesh Singh,WD Parnell,A Bohara,1,0,,,,,,"",""
+ball,1,19.6,Janakpur Bolts,WD Parnell,Rupesh Singh,A Bohara,0,0,,,,,,caught,WD Parnell
+ball,2,0.1,Sudur Paschim Royals,J Brown,B Bhandari,Maaz Sadaqat,0,0,,,,,,bowled,J Brown
+ball,2,0.2,Sudur Paschim Royals,CA Lynn,B Bhandari,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,0.3,Sudur Paschim Royals,CA Lynn,B Bhandari,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,0.4,Sudur Paschim Royals,B Bhandari,CA Lynn,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,0.5,Sudur Paschim Royals,B Bhandari,CA Lynn,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,0.6,Sudur Paschim Royals,B Bhandari,CA Lynn,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,1.1,Sudur Paschim Royals,CA Lynn,B Bhandari,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,1.2,Sudur Paschim Royals,CA Lynn,B Bhandari,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,1.3,Sudur Paschim Royals,CA Lynn,B Bhandari,SP Krishnamurthi,0,0,,,,,,caught,CA Lynn
+ball,2,1.4,Sudur Paschim Royals,I Pandey,B Bhandari,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,1.5,Sudur Paschim Royals,I Pandey,B Bhandari,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,1.6,Sudur Paschim Royals,B Bhandari,I Pandey,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,2.1,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,2.2,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,2.3,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,2.4,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,6,0,,,,,,"",""
+ball,2,2.5,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,2.6,Sudur Paschim Royals,I Pandey,B Bhandari,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,3.1,Sudur Paschim Royals,I Pandey,B Bhandari,SP Krishnamurthi,4,0,,,,,,"",""
+ball,2,3.2,Sudur Paschim Royals,I Pandey,B Bhandari,SP Krishnamurthi,0,1,,,,1,,"",""
+ball,2,3.3,Sudur Paschim Royals,B Bhandari,I Pandey,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,3.4,Sudur Paschim Royals,B Bhandari,I Pandey,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,3.5,Sudur Paschim Royals,B Bhandari,I Pandey,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,3.6,Sudur Paschim Royals,I Pandey,B Bhandari,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,4.1,Sudur Paschim Royals,I Pandey,B Bhandari,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,4.2,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,4.3,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,4.4,Sudur Paschim Royals,I Pandey,B Bhandari,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,4.5,Sudur Paschim Royals,I Pandey,B Bhandari,Maaz Sadaqat,4,0,,,,,,"",""
+ball,2,4.6,Sudur Paschim Royals,I Pandey,B Bhandari,Maaz Sadaqat,4,0,,,,,,"",""
+ball,2,5.1,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,5.2,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,5.3,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,5.4,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,5.5,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,5.6,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.1,Sudur Paschim Royals,B Bhandari,I Pandey,K Mahato,0,1,,1,,,,"",""
+ball,2,6.2,Sudur Paschim Royals,B Bhandari,I Pandey,K Mahato,4,0,,,,,,"",""
+ball,2,6.3,Sudur Paschim Royals,B Bhandari,I Pandey,K Mahato,1,0,,,,,,"",""
+ball,2,6.4,Sudur Paschim Royals,I Pandey,B Bhandari,K Mahato,0,1,,,,1,,"",""
+ball,2,6.5,Sudur Paschim Royals,B Bhandari,I Pandey,K Mahato,1,0,,,,,,"",""
+ball,2,6.6,Sudur Paschim Royals,I Pandey,B Bhandari,K Mahato,0,0,,,,,,"",""
+ball,2,6.7,Sudur Paschim Royals,I Pandey,B Bhandari,K Mahato,6,0,,,,,,"",""
+ball,2,7.1,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,7.2,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,7.3,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,7.4,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,7.5,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,7.6,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,8.1,Sudur Paschim Royals,B Bhandari,I Pandey,Mayan Yadav,0,0,,,,,,"",""
+ball,2,8.2,Sudur Paschim Royals,B Bhandari,I Pandey,Mayan Yadav,4,0,,,,,,"",""
+ball,2,8.3,Sudur Paschim Royals,B Bhandari,I Pandey,Mayan Yadav,0,0,,,,,,"",""
+ball,2,8.4,Sudur Paschim Royals,B Bhandari,I Pandey,Mayan Yadav,1,0,,,,,,"",""
+ball,2,8.5,Sudur Paschim Royals,I Pandey,B Bhandari,Mayan Yadav,1,0,,,,,,"",""
+ball,2,8.6,Sudur Paschim Royals,B Bhandari,I Pandey,Mayan Yadav,1,0,,,,,,"",""
+ball,2,9.1,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.2,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.3,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,9.4,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,2,0,,,,,,"",""
+ball,2,9.5,Sudur Paschim Royals,B Bhandari,I Pandey,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.6,Sudur Paschim Royals,I Pandey,B Bhandari,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,10.1,Sudur Paschim Royals,I Pandey,B Bhandari,Rupesh Singh,1,0,,,,,,"",""
+ball,2,10.2,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,0,4,,,,4,,"",""
+ball,2,10.3,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,0,0,,,,,,"",""
+ball,2,10.4,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,0,0,,,,,,"",""
+ball,2,10.5,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,0,0,,,,,,"",""
+ball,2,10.6,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,1,0,,,,,,"",""
+ball,2,11.1,Sudur Paschim Royals,B Bhandari,I Pandey,A Mahata,0,0,,,,,,"",""
+ball,2,11.2,Sudur Paschim Royals,B Bhandari,I Pandey,A Mahata,1,0,,,,,,"",""
+ball,2,11.3,Sudur Paschim Royals,I Pandey,B Bhandari,A Mahata,4,0,,,,,,"",""
+ball,2,11.4,Sudur Paschim Royals,I Pandey,B Bhandari,A Mahata,4,0,,,,,,"",""
+ball,2,11.5,Sudur Paschim Royals,I Pandey,B Bhandari,A Mahata,1,0,,,,,,"",""
+ball,2,11.6,Sudur Paschim Royals,B Bhandari,I Pandey,A Mahata,0,0,,,,,,"",""
+ball,2,12.1,Sudur Paschim Royals,I Pandey,B Bhandari,Rupesh Singh,1,0,,,,,,"",""
+ball,2,12.2,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,2,0,,,,,,"",""
+ball,2,12.3,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,1,0,,,,,,"",""
+ball,2,12.4,Sudur Paschim Royals,I Pandey,B Bhandari,Rupesh Singh,2,0,,,,,,"",""
+ball,2,12.5,Sudur Paschim Royals,I Pandey,B Bhandari,Rupesh Singh,1,0,,,,,,"",""
+ball,2,12.6,Sudur Paschim Royals,B Bhandari,I Pandey,Rupesh Singh,1,0,,,,,,"",""
+ball,2,13.1,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,0,0,,,,,,"",""
+ball,2,13.2,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,13.3,Sudur Paschim Royals,I Pandey,B Bhandari,Maaz Sadaqat,0,1,,,,1,,"",""
+ball,2,13.4,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,4,0,,,,,,"",""
+ball,2,13.5,Sudur Paschim Royals,B Bhandari,I Pandey,Maaz Sadaqat,0,0,,,,,,caught,B Bhandari
+ball,2,13.6,Sudur Paschim Royals,DS Airee,I Pandey,Maaz Sadaqat,1,0,,,,,,"",""
+ball,2,14.1,Sudur Paschim Royals,DS Airee,I Pandey,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,14.2,Sudur Paschim Royals,I Pandey,DS Airee,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,14.3,Sudur Paschim Royals,DS Airee,I Pandey,SP Krishnamurthi,2,0,,,,,,"",""
+ball,2,14.4,Sudur Paschim Royals,DS Airee,I Pandey,SP Krishnamurthi,0,1,1,,,,,"",""
+ball,2,14.5,Sudur Paschim Royals,DS Airee,I Pandey,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,14.6,Sudur Paschim Royals,I Pandey,DS Airee,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,14.7,Sudur Paschim Royals,DS Airee,I Pandey,SP Krishnamurthi,2,0,,,,,,"",""
+ball,2,15.1,Sudur Paschim Royals,I Pandey,DS Airee,A Mahata,4,0,,,,,,"",""
+ball,2,15.2,Sudur Paschim Royals,I Pandey,DS Airee,A Mahata,4,0,,,,,,"",""
+ball,2,15.3,Sudur Paschim Royals,I Pandey,DS Airee,A Mahata,4,0,,,,,,"",""
+ball,2,15.4,Sudur Paschim Royals,I Pandey,DS Airee,A Mahata,0,0,,,,,,caught,I Pandey
+ball,2,15.5,Sudur Paschim Royals,Harmeet Singh,DS Airee,A Mahata,0,0,,,,,,"",""
+ball,2,15.6,Sudur Paschim Royals,Harmeet Singh,DS Airee,A Mahata,1,0,,,,,,"",""
+ball,2,16.1,Sudur Paschim Royals,Harmeet Singh,DS Airee,Rupesh Singh,4,0,,,,,,"",""
+ball,2,16.2,Sudur Paschim Royals,Harmeet Singh,DS Airee,Rupesh Singh,1,0,,,,,,"",""
+ball,2,16.3,Sudur Paschim Royals,DS Airee,Harmeet Singh,Rupesh Singh,2,0,,,,,,"",""
+ball,2,16.4,Sudur Paschim Royals,DS Airee,Harmeet Singh,Rupesh Singh,1,0,,,,,,"",""
+ball,2,16.5,Sudur Paschim Royals,Harmeet Singh,DS Airee,Rupesh Singh,0,4,,,,4,,"",""
+ball,2,16.6,Sudur Paschim Royals,Harmeet Singh,DS Airee,Rupesh Singh,0,1,1,,,,,"",""
+ball,2,16.7,Sudur Paschim Royals,Harmeet Singh,DS Airee,Rupesh Singh,1,0,,,,,,"",""
+ball,2,17.1,Sudur Paschim Royals,Harmeet Singh,DS Airee,LN Rajbanshi,6,0,,,,,,"",""
+ball,2,17.2,Sudur Paschim Royals,Harmeet Singh,DS Airee,LN Rajbanshi,6,0,,,,,,"",""
+ball,2,17.3,Sudur Paschim Royals,Harmeet Singh,DS Airee,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,17.4,Sudur Paschim Royals,Harmeet Singh,DS Airee,LN Rajbanshi,6,0,,,,,,"",""

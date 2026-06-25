@@ -1,0 +1,265 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sudur Paschim Royals
+info,team,Biratnagar Kings
+info,gender,male
+info,season,2025/26
+info,date,2025/12/06
+info,event,Nepal Premier League
+info,match_number,26
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Biratnagar Kings
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,LE Hannibal
+info,umpire,RR Wimalasiri
+info,reserve_umpire,RC Pandey
+info,tv_umpire,VK Jha
+info,match_referee,M Nayyar
+info,winner,Biratnagar Kings
+info,winner_wickets,6
+info,player,Sudur Paschim Royals,B Bhandari
+info,player,Sudur Paschim Royals,J Brown
+info,player,Sudur Paschim Royals,I Pandey
+info,player,Sudur Paschim Royals,Aarif Sheikh
+info,player,Sudur Paschim Royals,Harmeet Singh
+info,player,Sudur Paschim Royals,DS Airee
+info,player,Sudur Paschim Royals,D Bohara
+info,player,Sudur Paschim Royals,D Parashar
+info,player,Sudur Paschim Royals,P Mehra
+info,player,Sudur Paschim Royals,H Mahara
+info,player,Sudur Paschim Royals,A Bohara
+info,player,Biratnagar Kings,SD Heazlett
+info,player,Biratnagar Kings,F du Plessis
+info,player,Biratnagar Kings,MJ Guptill
+info,player,Biratnagar Kings,Basir Ahamad
+info,player,Biratnagar Kings,Lokesh Bam
+info,player,Biratnagar Kings,Pratis GC
+info,player,Biratnagar Kings,Shankar Rana
+info,player,Biratnagar Kings,M de Lange
+info,player,Biratnagar Kings,N Bhatta
+info,player,Biratnagar Kings,S Lamichhane
+info,player,Biratnagar Kings,Surya Tamang
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,B Bhandari,82342b13
+info,registry,people,Basir Ahamad,218c7eab
+info,registry,people,D Bohara,7e46794e
+info,registry,people,D Parashar,395179e8
+info,registry,people,DS Airee,1747ea18
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Mahara,28b1c40e
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,I Pandey,ed547c49
+info,registry,people,J Brown,647e7d44
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,N Bhatta,f67dd650
+info,registry,people,P Mehra,4a43b73c
+info,registry,people,Pratis GC,c1077ba3
+info,registry,people,RC Pandey,1b807976
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SD Heazlett,e00a9155
+info,registry,people,Shankar Rana,3a61496b
+info,registry,people,Surya Tamang,579f2447
+info,registry,people,VK Jha,5d46eb72
+ball,1,0.1,Sudur Paschim Royals,B Bhandari,J Brown,Surya Tamang,0,0,,,,,,"",""
+ball,1,0.2,Sudur Paschim Royals,B Bhandari,J Brown,Surya Tamang,1,0,,,,,,"",""
+ball,1,0.3,Sudur Paschim Royals,J Brown,B Bhandari,Surya Tamang,1,0,,,,,,"",""
+ball,1,0.4,Sudur Paschim Royals,B Bhandari,J Brown,Surya Tamang,4,0,,,,,,"",""
+ball,1,0.5,Sudur Paschim Royals,B Bhandari,J Brown,Surya Tamang,4,0,,,,,,"",""
+ball,1,0.6,Sudur Paschim Royals,B Bhandari,J Brown,Surya Tamang,0,0,,,,,,"",""
+ball,1,1.1,Sudur Paschim Royals,J Brown,B Bhandari,Basir Ahamad,0,0,,,,,,"",""
+ball,1,1.2,Sudur Paschim Royals,J Brown,B Bhandari,Basir Ahamad,0,0,,,,,,"",""
+ball,1,1.3,Sudur Paschim Royals,J Brown,B Bhandari,Basir Ahamad,1,0,,,,,,"",""
+ball,1,1.4,Sudur Paschim Royals,B Bhandari,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,1.5,Sudur Paschim Royals,B Bhandari,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,1.6,Sudur Paschim Royals,B Bhandari,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,2.1,Sudur Paschim Royals,J Brown,B Bhandari,M de Lange,1,0,,,,,,"",""
+ball,1,2.2,Sudur Paschim Royals,B Bhandari,J Brown,M de Lange,0,0,,,,,,"",""
+ball,1,2.3,Sudur Paschim Royals,B Bhandari,J Brown,M de Lange,4,0,,,,,,"",""
+ball,1,2.4,Sudur Paschim Royals,B Bhandari,J Brown,M de Lange,1,0,,,,,,"",""
+ball,1,2.5,Sudur Paschim Royals,J Brown,B Bhandari,M de Lange,0,0,,,,,,"",""
+ball,1,2.6,Sudur Paschim Royals,J Brown,B Bhandari,M de Lange,6,0,,,,,,"",""
+ball,1,3.1,Sudur Paschim Royals,B Bhandari,J Brown,Basir Ahamad,1,0,,,,,,"",""
+ball,1,3.2,Sudur Paschim Royals,J Brown,B Bhandari,Basir Ahamad,0,0,,,,,,"",""
+ball,1,3.3,Sudur Paschim Royals,J Brown,B Bhandari,Basir Ahamad,1,0,,,,,,"",""
+ball,1,3.4,Sudur Paschim Royals,B Bhandari,J Brown,Basir Ahamad,0,0,,,,,,bowled,B Bhandari
+ball,1,3.5,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,3.6,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,4.1,Sudur Paschim Royals,J Brown,I Pandey,Surya Tamang,0,0,,,,,,"",""
+ball,1,4.2,Sudur Paschim Royals,J Brown,I Pandey,Surya Tamang,0,0,,,,,,"",""
+ball,1,4.3,Sudur Paschim Royals,J Brown,I Pandey,Surya Tamang,0,0,,,,,,"",""
+ball,1,4.4,Sudur Paschim Royals,J Brown,I Pandey,Surya Tamang,0,0,,,,,,"",""
+ball,1,4.5,Sudur Paschim Royals,J Brown,I Pandey,Surya Tamang,4,0,,,,,,"",""
+ball,1,4.6,Sudur Paschim Royals,J Brown,I Pandey,Surya Tamang,0,0,,,,,,"",""
+ball,1,5.1,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,5.2,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,5.3,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,5.4,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,0,0,,,,,,"",""
+ball,1,5.5,Sudur Paschim Royals,I Pandey,J Brown,Basir Ahamad,1,0,,,,,,"",""
+ball,1,5.6,Sudur Paschim Royals,J Brown,I Pandey,Basir Ahamad,6,0,,,,,,"",""
+ball,1,6.1,Sudur Paschim Royals,I Pandey,J Brown,N Bhatta,1,0,,,,,,"",""
+ball,1,6.2,Sudur Paschim Royals,J Brown,I Pandey,N Bhatta,0,0,,,,,,"",""
+ball,1,6.3,Sudur Paschim Royals,J Brown,I Pandey,N Bhatta,2,0,,,,,,"",""
+ball,1,6.4,Sudur Paschim Royals,J Brown,I Pandey,N Bhatta,0,0,,,,,,"",""
+ball,1,6.5,Sudur Paschim Royals,J Brown,I Pandey,N Bhatta,1,0,,,,,,"",""
+ball,1,6.6,Sudur Paschim Royals,I Pandey,J Brown,N Bhatta,0,0,,,,,,"",""
+ball,1,7.1,Sudur Paschim Royals,J Brown,I Pandey,S Lamichhane,0,0,,,,,,"",""
+ball,1,7.2,Sudur Paschim Royals,J Brown,I Pandey,S Lamichhane,0,0,,,,,,"",""
+ball,1,7.3,Sudur Paschim Royals,J Brown,I Pandey,S Lamichhane,1,0,,,,,,"",""
+ball,1,7.4,Sudur Paschim Royals,I Pandey,J Brown,S Lamichhane,1,0,,,,,,"",""
+ball,1,7.5,Sudur Paschim Royals,J Brown,I Pandey,S Lamichhane,0,0,,,,,,"",""
+ball,1,7.6,Sudur Paschim Royals,J Brown,I Pandey,S Lamichhane,0,0,,,,,,caught,J Brown
+ball,1,8.1,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,0,0,,,,,,"",""
+ball,1,8.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,1,0,,,,,,"",""
+ball,1,8.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,N Bhatta,1,0,,,,,,"",""
+ball,1,8.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,1,0,,,,,,"",""
+ball,1,8.5,Sudur Paschim Royals,Aarif Sheikh,I Pandey,N Bhatta,1,0,,,,,,"",""
+ball,1,8.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,1,0,,,,,,"",""
+ball,1,9.1,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,2,0,,,,,,"",""
+ball,1,9.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,4,0,,,,,,"",""
+ball,1,9.3,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,0,0,,,,,,"",""
+ball,1,9.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,1,0,,,,,,"",""
+ball,1,9.5,Sudur Paschim Royals,Aarif Sheikh,I Pandey,S Lamichhane,0,0,,,,,,"",""
+ball,1,9.6,Sudur Paschim Royals,Aarif Sheikh,I Pandey,S Lamichhane,0,0,,,,,,"",""
+ball,1,10.1,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,1,0,,,,,,"",""
+ball,1,10.2,Sudur Paschim Royals,Aarif Sheikh,I Pandey,N Bhatta,1,0,,,,,,"",""
+ball,1,10.3,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,1,0,,,,,,"",""
+ball,1,10.4,Sudur Paschim Royals,Aarif Sheikh,I Pandey,N Bhatta,1,0,,,,,,"",""
+ball,1,10.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,2,0,,,,,,"",""
+ball,1,10.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,N Bhatta,4,0,,,,,,"",""
+ball,1,11.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Shankar Rana,0,1,1,,,,,"",""
+ball,1,11.2,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Shankar Rana,1,0,,,,,,"",""
+ball,1,11.3,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Shankar Rana,0,1,1,,,,,"",""
+ball,1,11.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Shankar Rana,0,0,,,,,,"",""
+ball,1,11.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Shankar Rana,0,0,,,,,,"",""
+ball,1,11.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Shankar Rana,1,0,,,,,,"",""
+ball,1,11.7,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Shankar Rana,2,0,,,,,,"",""
+ball,1,11.8,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Shankar Rana,1,0,,,,,,"",""
+ball,1,12.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Surya Tamang,1,0,,,,,,"",""
+ball,1,12.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Surya Tamang,1,0,,,,,,"",""
+ball,1,12.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Surya Tamang,6,0,,,,,,"",""
+ball,1,12.4,Sudur Paschim Royals,Aarif Sheikh,I Pandey,Surya Tamang,1,0,,,,,,"",""
+ball,1,12.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Surya Tamang,6,0,,,,,,"",""
+ball,1,12.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,Surya Tamang,0,0,,,,,,"",""
+ball,1,13.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,S Lamichhane,1,0,,,,,,"",""
+ball,1,13.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,1,0,,,,,,"",""
+ball,1,13.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,S Lamichhane,1,0,,,,,,"",""
+ball,1,13.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,6,0,,,,,,"",""
+ball,1,13.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,0,0,,,,,,"",""
+ball,1,13.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,0,0,,,,,,"",""
+ball,1,14.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,SD Heazlett,0,0,,,,,,"",""
+ball,1,14.2,Sudur Paschim Royals,Aarif Sheikh,I Pandey,SD Heazlett,4,0,,,,,,"",""
+ball,1,14.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,SD Heazlett,0,0,,,,,,"",""
+ball,1,14.4,Sudur Paschim Royals,Aarif Sheikh,I Pandey,SD Heazlett,1,0,,,,,,"",""
+ball,1,14.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,SD Heazlett,1,0,,,,,,"",""
+ball,1,14.6,Sudur Paschim Royals,Aarif Sheikh,I Pandey,SD Heazlett,1,0,,,,,,"",""
+ball,1,15.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,M de Lange,0,0,,,,,,"",""
+ball,1,15.2,Sudur Paschim Royals,Aarif Sheikh,I Pandey,M de Lange,6,0,,,,,,"",""
+ball,1,15.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,M de Lange,1,0,,,,,,"",""
+ball,1,15.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,M de Lange,1,0,,,,,,"",""
+ball,1,15.5,Sudur Paschim Royals,Aarif Sheikh,I Pandey,M de Lange,2,0,,,,,,"",""
+ball,1,15.6,Sudur Paschim Royals,Aarif Sheikh,I Pandey,M de Lange,1,0,,,,,,"",""
+ball,1,16.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,S Lamichhane,0,1,,,,1,,"",""
+ball,1,16.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Lamichhane,0,0,,,,,,caught,I Pandey
+ball,1,16.3,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,S Lamichhane,0,0,,,,,,caught,Harmeet Singh
+ball,1,16.4,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Lamichhane,1,0,,,,,,"",""
+ball,1,16.5,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Lamichhane,1,0,,,,,,"",""
+ball,1,16.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Lamichhane,0,0,,,,,,"",""
+ball,1,17.1,Sudur Paschim Royals,Aarif Sheikh,DS Airee,Basir Ahamad,1,0,,,,,,"",""
+ball,1,17.2,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Basir Ahamad,2,0,,,,,,"",""
+ball,1,17.3,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Basir Ahamad,6,0,,,,,,"",""
+ball,1,17.4,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Basir Ahamad,2,0,,,,,,"",""
+ball,1,17.5,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Basir Ahamad,0,0,,,,,,"",""
+ball,1,17.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Basir Ahamad,6,0,,,,,,"",""
+ball,1,18.1,Sudur Paschim Royals,Aarif Sheikh,DS Airee,M de Lange,6,0,,,,,,"",""
+ball,1,18.2,Sudur Paschim Royals,Aarif Sheikh,DS Airee,M de Lange,1,0,,,,,,"",""
+ball,1,18.3,Sudur Paschim Royals,DS Airee,Aarif Sheikh,M de Lange,1,0,,,,,,"",""
+ball,1,18.4,Sudur Paschim Royals,Aarif Sheikh,DS Airee,M de Lange,1,0,,,,,,"",""
+ball,1,18.5,Sudur Paschim Royals,DS Airee,Aarif Sheikh,M de Lange,0,0,,,,,,"",""
+ball,1,18.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,M de Lange,1,0,,,,,,"",""
+ball,1,19.1,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Pratis GC,0,0,,,,,,caught,DS Airee
+ball,1,19.2,Sudur Paschim Royals,D Bohara,Aarif Sheikh,Pratis GC,1,0,,,,,,"",""
+ball,1,19.3,Sudur Paschim Royals,Aarif Sheikh,D Bohara,Pratis GC,0,0,,,,,,"",""
+ball,1,19.4,Sudur Paschim Royals,Aarif Sheikh,D Bohara,Pratis GC,1,0,,,,,,"",""
+ball,1,19.5,Sudur Paschim Royals,D Bohara,Aarif Sheikh,Pratis GC,2,0,,,,,,"",""
+ball,1,19.6,Sudur Paschim Royals,D Bohara,Aarif Sheikh,Pratis GC,0,0,,,,,,bowled,D Bohara
+ball,2,0.1,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,0,0,,,,,,"",""
+ball,2,0.2,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,1,0,,,,,,"",""
+ball,2,0.3,Biratnagar Kings,F du Plessis,SD Heazlett,Harmeet Singh,1,0,,,,,,"",""
+ball,2,0.4,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,6,0,,,,,,"",""
+ball,2,0.5,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,2,0,,,,,,"",""
+ball,2,0.6,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,0,1,1,,,,,"",""
+ball,2,0.7,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,0,0,,,,,,"",""
+ball,2,1.1,Biratnagar Kings,F du Plessis,SD Heazlett,D Parashar,0,0,,,,,,"",""
+ball,2,1.2,Biratnagar Kings,F du Plessis,SD Heazlett,D Parashar,1,0,,,,,,"",""
+ball,2,1.3,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,2,0,,,,,,"",""
+ball,2,1.4,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,1,0,,,,,,"",""
+ball,2,1.5,Biratnagar Kings,F du Plessis,SD Heazlett,D Parashar,4,0,,,,,,"",""
+ball,2,1.6,Biratnagar Kings,F du Plessis,SD Heazlett,D Parashar,0,0,,,,,,"",""
+ball,2,2.1,Biratnagar Kings,SD Heazlett,F du Plessis,DS Airee,0,0,,,,,,"",""
+ball,2,2.2,Biratnagar Kings,SD Heazlett,F du Plessis,DS Airee,4,0,,,,,,"",""
+ball,2,2.3,Biratnagar Kings,SD Heazlett,F du Plessis,DS Airee,0,0,,,,,,"",""
+ball,2,2.4,Biratnagar Kings,SD Heazlett,F du Plessis,DS Airee,6,0,,,,,,"",""
+ball,2,2.5,Biratnagar Kings,SD Heazlett,F du Plessis,DS Airee,0,1,,,1,,,"",""
+ball,2,2.6,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,6,0,,,,,,"",""
+ball,2,3.1,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,0,0,,,,,,"",""
+ball,2,3.2,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,1,0,,,,,,"",""
+ball,2,3.3,Biratnagar Kings,F du Plessis,SD Heazlett,D Parashar,1,0,,,,,,"",""
+ball,2,3.4,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,0,0,,,,,,"",""
+ball,2,3.5,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,6,0,,,,,,"",""
+ball,2,3.6,Biratnagar Kings,SD Heazlett,F du Plessis,D Parashar,1,0,,,,,,"",""
+ball,2,4.1,Biratnagar Kings,SD Heazlett,F du Plessis,H Mahara,1,0,,,,,,"",""
+ball,2,4.2,Biratnagar Kings,F du Plessis,SD Heazlett,H Mahara,0,0,,,,,,"",""
+ball,2,4.3,Biratnagar Kings,F du Plessis,SD Heazlett,H Mahara,6,0,,,,,,"",""
+ball,2,4.4,Biratnagar Kings,F du Plessis,SD Heazlett,H Mahara,6,0,,,,,,"",""
+ball,2,4.5,Biratnagar Kings,F du Plessis,SD Heazlett,H Mahara,1,0,,,,,,"",""
+ball,2,4.6,Biratnagar Kings,SD Heazlett,F du Plessis,H Mahara,6,0,,,,,,"",""
+ball,2,5.1,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,4,0,,,,,,"",""
+ball,2,5.2,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,4,0,,,,,,"",""
+ball,2,5.3,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,6,0,,,,,,"",""
+ball,2,5.4,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,0,0,,,,,,"",""
+ball,2,5.5,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,4,0,,,,,,"",""
+ball,2,5.6,Biratnagar Kings,F du Plessis,SD Heazlett,DS Airee,4,0,,,,,,"",""
+ball,2,6.1,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,1,0,,,,,,"",""
+ball,2,6.2,Biratnagar Kings,F du Plessis,SD Heazlett,Harmeet Singh,1,0,,,,,,"",""
+ball,2,6.3,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,2,0,,,,,,"",""
+ball,2,6.4,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,4,0,,,,,,"",""
+ball,2,6.5,Biratnagar Kings,SD Heazlett,F du Plessis,Harmeet Singh,1,0,,,,,,"",""
+ball,2,6.6,Biratnagar Kings,F du Plessis,SD Heazlett,Harmeet Singh,1,0,,,,,,"",""
+ball,2,7.1,Biratnagar Kings,F du Plessis,SD Heazlett,A Bohara,0,0,,,,,,bowled,F du Plessis
+ball,2,7.2,Biratnagar Kings,MJ Guptill,SD Heazlett,A Bohara,1,0,,,,,,"",""
+ball,2,7.3,Biratnagar Kings,SD Heazlett,MJ Guptill,A Bohara,1,0,,,,,,"",""
+ball,2,7.4,Biratnagar Kings,MJ Guptill,SD Heazlett,A Bohara,1,0,,,,,,"",""
+ball,2,7.5,Biratnagar Kings,SD Heazlett,MJ Guptill,A Bohara,1,0,,,,,,"",""
+ball,2,7.6,Biratnagar Kings,MJ Guptill,SD Heazlett,A Bohara,6,0,,,,,,"",""
+ball,2,8.1,Biratnagar Kings,SD Heazlett,MJ Guptill,Harmeet Singh,4,0,,,,,,"",""
+ball,2,8.2,Biratnagar Kings,SD Heazlett,MJ Guptill,Harmeet Singh,0,0,,,,,,caught,SD Heazlett
+ball,2,8.3,Biratnagar Kings,Basir Ahamad,MJ Guptill,Harmeet Singh,1,0,,,,,,"",""
+ball,2,8.4,Biratnagar Kings,MJ Guptill,Basir Ahamad,Harmeet Singh,0,0,,,,,,"",""
+ball,2,8.5,Biratnagar Kings,MJ Guptill,Basir Ahamad,Harmeet Singh,1,0,,,,,,"",""
+ball,2,8.6,Biratnagar Kings,Basir Ahamad,MJ Guptill,Harmeet Singh,0,0,,,,,,"",""
+ball,2,9.1,Biratnagar Kings,MJ Guptill,Basir Ahamad,A Bohara,6,0,,,,,,"",""
+ball,2,9.2,Biratnagar Kings,MJ Guptill,Basir Ahamad,A Bohara,0,0,,,,,,"",""
+ball,2,9.3,Biratnagar Kings,MJ Guptill,Basir Ahamad,A Bohara,6,0,,,,,,"",""
+ball,2,9.4,Biratnagar Kings,MJ Guptill,Basir Ahamad,A Bohara,1,0,,,,,,"",""
+ball,2,9.5,Biratnagar Kings,Basir Ahamad,MJ Guptill,A Bohara,0,0,,,,,,"",""
+ball,2,9.6,Biratnagar Kings,Basir Ahamad,MJ Guptill,A Bohara,1,0,,,,,,"",""
+ball,2,10.1,Biratnagar Kings,Basir Ahamad,MJ Guptill,P Mehra,4,0,,,,,,"",""
+ball,2,10.2,Biratnagar Kings,Basir Ahamad,MJ Guptill,P Mehra,0,1,,1,,,,run out,MJ Guptill
+ball,2,10.3,Biratnagar Kings,Lokesh Bam,Basir Ahamad,P Mehra,0,0,,,,,,"",""
+ball,2,10.4,Biratnagar Kings,Lokesh Bam,Basir Ahamad,P Mehra,1,0,,,,,,"",""
+ball,2,10.5,Biratnagar Kings,Basir Ahamad,Lokesh Bam,P Mehra,1,0,,,,,,"",""
+ball,2,10.6,Biratnagar Kings,Lokesh Bam,Basir Ahamad,P Mehra,1,0,,,,,,"",""
+ball,2,10.7,Biratnagar Kings,Basir Ahamad,Lokesh Bam,P Mehra,1,0,,,,,,"",""
+ball,2,11.1,Biratnagar Kings,Basir Ahamad,Lokesh Bam,A Bohara,0,0,,,,,,caught,Basir Ahamad
+ball,2,11.2,Biratnagar Kings,Pratis GC,Lokesh Bam,A Bohara,1,0,,,,,,"",""
+ball,2,11.3,Biratnagar Kings,Lokesh Bam,Pratis GC,A Bohara,1,0,,,,,,"",""
+ball,2,11.4,Biratnagar Kings,Pratis GC,Lokesh Bam,A Bohara,6,0,,,,,,"",""
+ball,2,11.5,Biratnagar Kings,Pratis GC,Lokesh Bam,A Bohara,6,0,,,,,,"",""

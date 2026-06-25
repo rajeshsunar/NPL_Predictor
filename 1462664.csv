@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Biratnagar Kings
+info,team,Kathmandu Gurkhas
+info,gender,male
+info,season,2024/25
+info,date,2024/12/15
+info,event,Nepal Premier League
+info,match_number,26
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Kathmandu Gurkhas
+info,toss_decision,field
+info,player_of_match,D Kandel
+info,umpire,BB Pradhan
+info,umpire,DN Subedi
+info,reserve_umpire,SK Sigdel
+info,tv_umpire,VK Jha
+info,match_referee,M Nayyar
+info,winner,Kathmandu Gurkhas
+info,winner_wickets,1
+info,player,Biratnagar Kings,Lokesh Bam
+info,player,Biratnagar Kings,D Bohara
+info,player,Biratnagar Kings,NR Kirton
+info,player,Biratnagar Kings,SA Edwards
+info,player,Biratnagar Kings,Basir Ahamad
+info,player,Biratnagar Kings,Ismat Alam
+info,player,Biratnagar Kings,RP Magar
+info,player,Biratnagar Kings,CB Sole
+info,player,Biratnagar Kings,S Lamichhane
+info,player,Biratnagar Kings,Subash Bhandari
+info,player,Biratnagar Kings,A Kharel
+info,player,Kathmandu Gurkhas,SS Eskinazi
+info,player,Kathmandu Gurkhas,M Levitt
+info,player,Kathmandu Gurkhas,MG Erasmus
+info,player,Kathmandu Gurkhas,B Sharki
+info,player,Kathmandu Gurkhas,P Shrestha
+info,player,Kathmandu Gurkhas,DA Douthwaite
+info,player,Kathmandu Gurkhas,Rashid Khan
+info,player,Kathmandu Gurkhas,Shankar Rana
+info,player,Kathmandu Gurkhas,Karan KC
+info,player,Kathmandu Gurkhas,Shahab Alam
+info,player,Kathmandu Gurkhas,D Kandel
+info,registry,people,A Kharel,08b15b9e
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Basir Ahamad,218c7eab
+info,registry,people,CB Sole,469ccead
+info,registry,people,D Bohara,7e46794e
+info,registry,people,D Kandel,2e80c353
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,Ismat Alam,7c8a1fd7
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,P Shrestha,534c4b03
+info,registry,people,RP Magar,95bcba19
+info,registry,people,Rashid Khan,69cccff3
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SK Sigdel,e34ab986
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,Shahab Alam,cdd9fa95
+info,registry,people,Shankar Rana,3a61496b
+info,registry,people,Subash Bhandari,1519bdeb
+info,registry,people,VK Jha,5d46eb72
+ball,1,0.1,Biratnagar Kings,Lokesh Bam,D Bohara,Shahab Alam,0,0,,,,,,"",""
+ball,1,0.2,Biratnagar Kings,Lokesh Bam,D Bohara,Shahab Alam,1,0,,,,,,"",""
+ball,1,0.3,Biratnagar Kings,D Bohara,Lokesh Bam,Shahab Alam,4,0,,,,,,"",""
+ball,1,0.4,Biratnagar Kings,D Bohara,Lokesh Bam,Shahab Alam,1,0,,,,,,"",""
+ball,1,0.5,Biratnagar Kings,Lokesh Bam,D Bohara,Shahab Alam,1,0,,,,,,"",""
+ball,1,0.6,Biratnagar Kings,D Bohara,Lokesh Bam,Shahab Alam,1,0,,,,,,"",""
+ball,1,1.1,Biratnagar Kings,D Bohara,Lokesh Bam,Karan KC,0,1,,,,1,,"",""
+ball,1,1.2,Biratnagar Kings,Lokesh Bam,D Bohara,Karan KC,4,0,,,,,,"",""
+ball,1,1.3,Biratnagar Kings,Lokesh Bam,D Bohara,Karan KC,0,0,,,,,,"",""
+ball,1,1.4,Biratnagar Kings,Lokesh Bam,D Bohara,Karan KC,0,1,1,,,,,"",""
+ball,1,1.5,Biratnagar Kings,Lokesh Bam,D Bohara,Karan KC,1,0,,,,,,"",""
+ball,1,1.6,Biratnagar Kings,D Bohara,Lokesh Bam,Karan KC,0,0,,,,,,"",""
+ball,1,1.7,Biratnagar Kings,D Bohara,Lokesh Bam,Karan KC,0,0,,,,,,"",""
+ball,1,2.1,Biratnagar Kings,Lokesh Bam,D Bohara,DA Douthwaite,1,0,,,,,,"",""
+ball,1,2.2,Biratnagar Kings,D Bohara,Lokesh Bam,DA Douthwaite,1,0,,,,,,"",""
+ball,1,2.3,Biratnagar Kings,Lokesh Bam,D Bohara,DA Douthwaite,0,0,,,,,,"",""
+ball,1,2.4,Biratnagar Kings,Lokesh Bam,D Bohara,DA Douthwaite,0,0,,,,,,lbw,Lokesh Bam
+ball,1,2.5,Biratnagar Kings,NR Kirton,D Bohara,DA Douthwaite,1,1,,1,,,,"",""
+ball,1,2.6,Biratnagar Kings,D Bohara,NR Kirton,DA Douthwaite,1,0,,,,,,"",""
+ball,1,2.7,Biratnagar Kings,NR Kirton,D Bohara,DA Douthwaite,0,0,,,,,,"",""
+ball,1,3.1,Biratnagar Kings,D Bohara,NR Kirton,Karan KC,4,0,,,,,,"",""
+ball,1,3.2,Biratnagar Kings,D Bohara,NR Kirton,Karan KC,0,0,,,,,,"",""
+ball,1,3.3,Biratnagar Kings,D Bohara,NR Kirton,Karan KC,1,0,,,,,,"",""
+ball,1,3.4,Biratnagar Kings,NR Kirton,D Bohara,Karan KC,1,0,,,,,,"",""
+ball,1,3.5,Biratnagar Kings,D Bohara,NR Kirton,Karan KC,1,0,,,,,,"",""
+ball,1,3.6,Biratnagar Kings,NR Kirton,D Bohara,Karan KC,0,1,,,,1,,"",""
+ball,1,4.1,Biratnagar Kings,NR Kirton,D Bohara,DA Douthwaite,4,0,,,,,,"",""
+ball,1,4.2,Biratnagar Kings,NR Kirton,D Bohara,DA Douthwaite,0,0,,,,,,"",""
+ball,1,4.3,Biratnagar Kings,NR Kirton,D Bohara,DA Douthwaite,4,0,,,,,,"",""
+ball,1,4.4,Biratnagar Kings,NR Kirton,D Bohara,DA Douthwaite,1,0,,,,,,"",""
+ball,1,4.5,Biratnagar Kings,D Bohara,NR Kirton,DA Douthwaite,0,0,,,,,,"",""
+ball,1,4.6,Biratnagar Kings,D Bohara,NR Kirton,DA Douthwaite,0,0,,,,,,"",""
+ball,1,5.1,Biratnagar Kings,NR Kirton,D Bohara,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.2,Biratnagar Kings,NR Kirton,D Bohara,Rashid Khan,1,0,,,,,,run out,NR Kirton
+ball,1,5.3,Biratnagar Kings,D Bohara,SA Edwards,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.4,Biratnagar Kings,SA Edwards,D Bohara,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.5,Biratnagar Kings,SA Edwards,D Bohara,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.6,Biratnagar Kings,D Bohara,SA Edwards,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.1,Biratnagar Kings,D Bohara,SA Edwards,D Kandel,1,0,,,,,,"",""
+ball,1,6.2,Biratnagar Kings,SA Edwards,D Bohara,D Kandel,2,0,,,,,,"",""
+ball,1,6.3,Biratnagar Kings,SA Edwards,D Bohara,D Kandel,1,0,,,,,,"",""
+ball,1,6.4,Biratnagar Kings,D Bohara,SA Edwards,D Kandel,1,0,,,,,,"",""
+ball,1,6.5,Biratnagar Kings,SA Edwards,D Bohara,D Kandel,0,0,,,,,,"",""
+ball,1,6.6,Biratnagar Kings,SA Edwards,D Bohara,D Kandel,2,0,,,,,,"",""
+ball,1,7.1,Biratnagar Kings,D Bohara,SA Edwards,Shahab Alam,0,0,,,,,,"",""
+ball,1,7.2,Biratnagar Kings,D Bohara,SA Edwards,Shahab Alam,1,0,,,,,,"",""
+ball,1,7.3,Biratnagar Kings,SA Edwards,D Bohara,Shahab Alam,0,0,,,,,,"",""
+ball,1,7.4,Biratnagar Kings,SA Edwards,D Bohara,Shahab Alam,2,0,,,,,,"",""
+ball,1,7.5,Biratnagar Kings,SA Edwards,D Bohara,Shahab Alam,0,0,,,,,,"",""
+ball,1,7.6,Biratnagar Kings,SA Edwards,D Bohara,Shahab Alam,1,0,,,,,,"",""
+ball,1,8.1,Biratnagar Kings,SA Edwards,D Bohara,D Kandel,1,0,,,,,,"",""
+ball,1,8.2,Biratnagar Kings,D Bohara,SA Edwards,D Kandel,0,0,,,,,,"",""
+ball,1,8.3,Biratnagar Kings,D Bohara,SA Edwards,D Kandel,0,0,,,,,,"",""
+ball,1,8.4,Biratnagar Kings,D Bohara,SA Edwards,D Kandel,1,0,,,,,,"",""
+ball,1,8.5,Biratnagar Kings,SA Edwards,D Bohara,D Kandel,1,0,,,,,,"",""
+ball,1,8.6,Biratnagar Kings,D Bohara,SA Edwards,D Kandel,0,0,,,,,,lbw,D Bohara
+ball,1,9.1,Biratnagar Kings,SA Edwards,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,9.2,Biratnagar Kings,SA Edwards,Basir Ahamad,MG Erasmus,0,0,,,,,,bowled,SA Edwards
+ball,1,9.3,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,9.4,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,1,0,,,,,,"",""
+ball,1,9.5,Biratnagar Kings,Basir Ahamad,Ismat Alam,MG Erasmus,1,0,,,,,,"",""
+ball,1,9.6,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,10.1,Biratnagar Kings,Basir Ahamad,Ismat Alam,D Kandel,0,0,,,,,,"",""
+ball,1,10.2,Biratnagar Kings,Basir Ahamad,Ismat Alam,D Kandel,1,0,,,,,,"",""
+ball,1,10.3,Biratnagar Kings,Ismat Alam,Basir Ahamad,D Kandel,0,0,,,,,,"",""
+ball,1,10.4,Biratnagar Kings,Ismat Alam,Basir Ahamad,D Kandel,0,0,,,,,,"",""
+ball,1,10.5,Biratnagar Kings,Ismat Alam,Basir Ahamad,D Kandel,1,0,,,,,,"",""
+ball,1,10.6,Biratnagar Kings,Basir Ahamad,Ismat Alam,D Kandel,0,0,,,,,,"",""
+ball,1,11.1,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,1,0,,,,,,"",""
+ball,1,11.2,Biratnagar Kings,Basir Ahamad,Ismat Alam,MG Erasmus,1,0,,,,,,"",""
+ball,1,11.3,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,11.4,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,11.5,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,11.6,Biratnagar Kings,Ismat Alam,Basir Ahamad,MG Erasmus,1,0,,,,,,"",""
+ball,1,12.1,Biratnagar Kings,Ismat Alam,Basir Ahamad,D Kandel,1,0,,,,,,"",""
+ball,1,12.2,Biratnagar Kings,Basir Ahamad,Ismat Alam,D Kandel,1,0,,,,,,"",""
+ball,1,12.3,Biratnagar Kings,Ismat Alam,Basir Ahamad,D Kandel,0,0,,,,,,bowled,Ismat Alam
+ball,1,12.4,Biratnagar Kings,RP Magar,Basir Ahamad,D Kandel,1,0,,,,,,"",""
+ball,1,12.5,Biratnagar Kings,Basir Ahamad,RP Magar,D Kandel,0,0,,,,,,"",""
+ball,1,12.6,Biratnagar Kings,Basir Ahamad,RP Magar,D Kandel,1,0,,,,,,"",""
+ball,1,13.1,Biratnagar Kings,Basir Ahamad,RP Magar,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.2,Biratnagar Kings,RP Magar,Basir Ahamad,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.3,Biratnagar Kings,RP Magar,Basir Ahamad,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.4,Biratnagar Kings,Basir Ahamad,RP Magar,MG Erasmus,0,1,1,,,,,"",""
+ball,1,13.5,Biratnagar Kings,Basir Ahamad,RP Magar,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.6,Biratnagar Kings,RP Magar,Basir Ahamad,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.7,Biratnagar Kings,Basir Ahamad,RP Magar,MG Erasmus,0,0,,,,,,"",""
+ball,1,14.1,Biratnagar Kings,RP Magar,Basir Ahamad,Shahab Alam,1,0,,,,,,"",""
+ball,1,14.2,Biratnagar Kings,Basir Ahamad,RP Magar,Shahab Alam,6,0,,,,,,"",""
+ball,1,14.3,Biratnagar Kings,Basir Ahamad,RP Magar,Shahab Alam,0,0,,,,,,caught,Basir Ahamad
+ball,1,14.4,Biratnagar Kings,CB Sole,RP Magar,Shahab Alam,0,0,,,,,,"",""
+ball,1,14.5,Biratnagar Kings,CB Sole,RP Magar,Shahab Alam,1,0,,,,,,"",""
+ball,1,14.6,Biratnagar Kings,RP Magar,CB Sole,Shahab Alam,1,0,,,,,,"",""
+ball,1,15.1,Biratnagar Kings,RP Magar,CB Sole,MG Erasmus,1,0,,,,,,"",""
+ball,1,15.2,Biratnagar Kings,CB Sole,RP Magar,MG Erasmus,0,5,5,,,,,"",""
+ball,1,15.3,Biratnagar Kings,CB Sole,RP Magar,MG Erasmus,0,0,,,,,,caught,CB Sole
+ball,1,15.4,Biratnagar Kings,S Lamichhane,RP Magar,MG Erasmus,0,0,,,,,,"",""
+ball,1,15.5,Biratnagar Kings,S Lamichhane,RP Magar,MG Erasmus,0,0,,,,,,caught,S Lamichhane
+ball,1,15.6,Biratnagar Kings,Subash Bhandari,RP Magar,MG Erasmus,1,0,,,,,,"",""
+ball,1,15.7,Biratnagar Kings,RP Magar,Subash Bhandari,MG Erasmus,0,0,,,,,,"",""
+ball,1,16.1,Biratnagar Kings,Subash Bhandari,RP Magar,Shahab Alam,0,0,,,,,,"",""
+ball,1,16.2,Biratnagar Kings,Subash Bhandari,RP Magar,Shahab Alam,0,0,,,,,,"",""
+ball,1,16.3,Biratnagar Kings,Subash Bhandari,RP Magar,Shahab Alam,1,0,,,,,,"",""
+ball,1,16.4,Biratnagar Kings,RP Magar,Subash Bhandari,Shahab Alam,1,0,,,,,,"",""
+ball,1,16.5,Biratnagar Kings,Subash Bhandari,RP Magar,Shahab Alam,0,0,,,,,,"",""
+ball,1,16.6,Biratnagar Kings,Subash Bhandari,RP Magar,Shahab Alam,0,0,,,,,,"",""
+ball,1,17.1,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,4,0,,,,,,"",""
+ball,1,17.2,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,1,0,,,,,,"",""
+ball,1,17.3,Biratnagar Kings,Subash Bhandari,RP Magar,Karan KC,1,0,,,,,,"",""
+ball,1,17.4,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,1,0,,,,,,"",""
+ball,1,17.5,Biratnagar Kings,Subash Bhandari,RP Magar,Karan KC,1,0,,,,,,"",""
+ball,1,17.6,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,1,0,,,,,,"",""
+ball,1,18.1,Biratnagar Kings,RP Magar,Subash Bhandari,Rashid Khan,0,1,1,,,,,"",""
+ball,1,18.2,Biratnagar Kings,RP Magar,Subash Bhandari,Rashid Khan,1,0,,,,,,"",""
+ball,1,18.3,Biratnagar Kings,Subash Bhandari,RP Magar,Rashid Khan,1,0,,,,,,"",""
+ball,1,18.4,Biratnagar Kings,RP Magar,Subash Bhandari,Rashid Khan,1,0,,,,,,"",""
+ball,1,18.5,Biratnagar Kings,Subash Bhandari,RP Magar,Rashid Khan,1,0,,,,,,"",""
+ball,1,18.6,Biratnagar Kings,RP Magar,Subash Bhandari,Rashid Khan,6,0,,,,,,"",""
+ball,1,18.7,Biratnagar Kings,RP Magar,Subash Bhandari,Rashid Khan,1,0,,,,,,"",""
+ball,1,19.1,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,0,0,,,,,,"",""
+ball,1,19.2,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,0,0,,,,,,"",""
+ball,1,19.3,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,0,1,1,,,,,"",""
+ball,1,19.4,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,2,0,,,,,,"",""
+ball,1,19.5,Biratnagar Kings,RP Magar,Subash Bhandari,Karan KC,0,0,,,,,,caught,RP Magar
+ball,1,19.6,Biratnagar Kings,A Kharel,Subash Bhandari,Karan KC,0,0,,,,,,run out,Subash Bhandari
+ball,2,0.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,A Kharel,1,0,,,,,,"",""
+ball,2,0.2,Kathmandu Gurkhas,M Levitt,SS Eskinazi,A Kharel,2,0,,,,,,"",""
+ball,2,0.3,Kathmandu Gurkhas,M Levitt,SS Eskinazi,A Kharel,4,0,,,,,,"",""
+ball,2,0.4,Kathmandu Gurkhas,M Levitt,SS Eskinazi,A Kharel,0,0,,,,,,"",""
+ball,2,0.5,Kathmandu Gurkhas,M Levitt,SS Eskinazi,A Kharel,4,0,,,,,,"",""
+ball,2,0.6,Kathmandu Gurkhas,M Levitt,SS Eskinazi,A Kharel,0,0,,,,,,"",""
+ball,2,1.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Basir Ahamad,0,0,,,,,,"",""
+ball,2,1.2,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Basir Ahamad,0,0,,,,,,caught,SS Eskinazi
+ball,2,1.3,Kathmandu Gurkhas,MG Erasmus,M Levitt,Basir Ahamad,0,0,,,,,,"",""
+ball,2,1.4,Kathmandu Gurkhas,MG Erasmus,M Levitt,Basir Ahamad,0,0,,,,,,"",""
+ball,2,1.5,Kathmandu Gurkhas,MG Erasmus,M Levitt,Basir Ahamad,4,0,,,,,,"",""
+ball,2,1.6,Kathmandu Gurkhas,MG Erasmus,M Levitt,Basir Ahamad,4,0,,,,,,"",""
+ball,2,2.1,Kathmandu Gurkhas,M Levitt,MG Erasmus,S Lamichhane,0,0,,,,,,caught,M Levitt
+ball,2,2.2,Kathmandu Gurkhas,B Sharki,MG Erasmus,S Lamichhane,0,0,,,,,,"",""
+ball,2,2.3,Kathmandu Gurkhas,B Sharki,MG Erasmus,S Lamichhane,1,0,,,,,,"",""
+ball,2,2.4,Kathmandu Gurkhas,MG Erasmus,B Sharki,S Lamichhane,0,0,,,,,,"",""
+ball,2,2.5,Kathmandu Gurkhas,MG Erasmus,B Sharki,S Lamichhane,4,0,,,,,,"",""
+ball,2,2.6,Kathmandu Gurkhas,MG Erasmus,B Sharki,S Lamichhane,0,0,,,,,,caught,MG Erasmus
+ball,2,3.1,Kathmandu Gurkhas,B Sharki,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,3.2,Kathmandu Gurkhas,B Sharki,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,3.3,Kathmandu Gurkhas,B Sharki,P Shrestha,CB Sole,0,0,,,,,,caught,B Sharki
+ball,2,3.4,Kathmandu Gurkhas,DA Douthwaite,P Shrestha,CB Sole,0,5,5,,,,,"",""
+ball,2,3.5,Kathmandu Gurkhas,DA Douthwaite,P Shrestha,CB Sole,1,0,,,,,,"",""
+ball,2,3.6,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,CB Sole,4,0,,,,,,"",""
+ball,2,3.7,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,CB Sole,0,0,,,,,,"",""
+ball,2,4.1,Kathmandu Gurkhas,DA Douthwaite,P Shrestha,S Lamichhane,0,0,,,,,,"",""
+ball,2,4.2,Kathmandu Gurkhas,DA Douthwaite,P Shrestha,S Lamichhane,0,2,,,,2,,"",""
+ball,2,4.3,Kathmandu Gurkhas,DA Douthwaite,P Shrestha,S Lamichhane,0,1,,,,1,,"",""
+ball,2,4.4,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,S Lamichhane,0,0,,,,,,"",""
+ball,2,4.5,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,S Lamichhane,0,0,,,,,,"",""
+ball,2,4.6,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,S Lamichhane,1,0,,,,,,"",""
+ball,2,5.1,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,CB Sole,0,0,,,,,,"",""
+ball,2,5.2,Kathmandu Gurkhas,P Shrestha,DA Douthwaite,CB Sole,1,0,,,,,,"",""
+ball,2,5.3,Kathmandu Gurkhas,DA Douthwaite,P Shrestha,CB Sole,0,0,,,,,,caught,DA Douthwaite
+ball,2,5.4,Kathmandu Gurkhas,Rashid Khan,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,5.5,Kathmandu Gurkhas,Rashid Khan,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,5.6,Kathmandu Gurkhas,Rashid Khan,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,6.1,Kathmandu Gurkhas,P Shrestha,Rashid Khan,S Lamichhane,6,0,,,,,,"",""
+ball,2,6.2,Kathmandu Gurkhas,P Shrestha,Rashid Khan,S Lamichhane,0,1,,,,1,,"",""
+ball,2,6.3,Kathmandu Gurkhas,Rashid Khan,P Shrestha,S Lamichhane,0,0,,,,,,"",""
+ball,2,6.4,Kathmandu Gurkhas,Rashid Khan,P Shrestha,S Lamichhane,0,0,,,,,,"",""
+ball,2,6.5,Kathmandu Gurkhas,Rashid Khan,P Shrestha,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.6,Kathmandu Gurkhas,P Shrestha,Rashid Khan,S Lamichhane,1,0,,,,,,"",""
+ball,2,7.1,Kathmandu Gurkhas,P Shrestha,Rashid Khan,CB Sole,0,0,,,,,,"",""
+ball,2,7.2,Kathmandu Gurkhas,P Shrestha,Rashid Khan,CB Sole,1,0,,,,,,"",""
+ball,2,7.3,Kathmandu Gurkhas,Rashid Khan,P Shrestha,CB Sole,1,0,,,,,,"",""
+ball,2,7.4,Kathmandu Gurkhas,P Shrestha,Rashid Khan,CB Sole,1,0,,,,,,"",""
+ball,2,7.5,Kathmandu Gurkhas,Rashid Khan,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,7.6,Kathmandu Gurkhas,Rashid Khan,P Shrestha,CB Sole,0,0,,,,,,"",""
+ball,2,8.1,Kathmandu Gurkhas,P Shrestha,Rashid Khan,A Kharel,1,0,,,,,,"",""
+ball,2,8.2,Kathmandu Gurkhas,Rashid Khan,P Shrestha,A Kharel,6,0,,,,,,"",""
+ball,2,8.3,Kathmandu Gurkhas,Rashid Khan,P Shrestha,A Kharel,0,0,,,,,,"",""
+ball,2,8.4,Kathmandu Gurkhas,Rashid Khan,P Shrestha,A Kharel,4,0,,,,,,"",""
+ball,2,8.5,Kathmandu Gurkhas,Rashid Khan,P Shrestha,A Kharel,1,0,,,,,,"",""
+ball,2,8.6,Kathmandu Gurkhas,P Shrestha,Rashid Khan,A Kharel,0,0,,,,,,"",""
+ball,2,9.1,Kathmandu Gurkhas,Rashid Khan,P Shrestha,Basir Ahamad,1,0,,,,,,"",""
+ball,2,9.2,Kathmandu Gurkhas,P Shrestha,Rashid Khan,Basir Ahamad,2,0,,,,,,"",""
+ball,2,9.3,Kathmandu Gurkhas,P Shrestha,Rashid Khan,Basir Ahamad,0,0,,,,,,"",""
+ball,2,9.4,Kathmandu Gurkhas,P Shrestha,Rashid Khan,Basir Ahamad,0,0,,,,,,"",""
+ball,2,9.5,Kathmandu Gurkhas,P Shrestha,Rashid Khan,Basir Ahamad,6,0,,,,,,"",""
+ball,2,9.6,Kathmandu Gurkhas,P Shrestha,Rashid Khan,Basir Ahamad,1,0,,,,,,"",""
+ball,2,10.1,Kathmandu Gurkhas,P Shrestha,Rashid Khan,S Lamichhane,2,0,,,,,,"",""
+ball,2,10.2,Kathmandu Gurkhas,P Shrestha,Rashid Khan,S Lamichhane,1,0,,,,,,"",""
+ball,2,10.3,Kathmandu Gurkhas,Rashid Khan,P Shrestha,S Lamichhane,0,0,,,,,,bowled,Rashid Khan
+ball,2,10.4,Kathmandu Gurkhas,Shankar Rana,P Shrestha,S Lamichhane,1,0,,,,,,"",""
+ball,2,10.5,Kathmandu Gurkhas,P Shrestha,Shankar Rana,S Lamichhane,0,0,,,,,,"",""
+ball,2,10.6,Kathmandu Gurkhas,P Shrestha,Shankar Rana,S Lamichhane,1,0,,,,,,"",""
+ball,2,11.1,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Ismat Alam,0,0,,,,,,"",""
+ball,2,11.2,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Ismat Alam,2,0,,,,,,"",""
+ball,2,11.3,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Ismat Alam,4,0,,,,,,"",""
+ball,2,11.4,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Ismat Alam,0,0,,,,,,"",""
+ball,2,11.5,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Ismat Alam,2,0,,,,,,"",""
+ball,2,11.6,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Ismat Alam,0,0,,,,,,"",""
+ball,2,12.1,Kathmandu Gurkhas,Shankar Rana,P Shrestha,Basir Ahamad,0,0,,,,,,"",""
+ball,2,12.2,Kathmandu Gurkhas,Shankar Rana,P Shrestha,Basir Ahamad,0,0,,,,,,"",""
+ball,2,12.3,Kathmandu Gurkhas,Shankar Rana,P Shrestha,Basir Ahamad,1,0,,,,,,"",""
+ball,2,12.4,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Basir Ahamad,0,0,,,,,,"",""
+ball,2,12.5,Kathmandu Gurkhas,P Shrestha,Shankar Rana,Basir Ahamad,1,0,,,,,,"",""
+ball,2,12.6,Kathmandu Gurkhas,Shankar Rana,P Shrestha,Basir Ahamad,0,0,,,,,,"",""
+ball,2,13.1,Kathmandu Gurkhas,P Shrestha,Shankar Rana,A Kharel,1,0,,,,,,"",""
+ball,2,13.2,Kathmandu Gurkhas,Shankar Rana,P Shrestha,A Kharel,1,0,,,,,,"",""
+ball,2,13.3,Kathmandu Gurkhas,P Shrestha,Shankar Rana,A Kharel,0,0,,,,,,caught,P Shrestha
+ball,2,13.4,Kathmandu Gurkhas,Karan KC,Shankar Rana,A Kharel,0,0,,,,,,bowled,Karan KC
+ball,2,13.5,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,A Kharel,0,0,,,,,,"",""
+ball,2,13.6,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,A Kharel,0,0,,,,,,"",""
+ball,2,14.1,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,0,1,1,,,,,"",""
+ball,2,14.2,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,0,1,,,,1,,"",""
+ball,2,14.3,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,CB Sole,1,0,,,,,,"",""
+ball,2,14.4,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,0,1,1,,,,,"",""
+ball,2,14.5,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,2,0,,,,,,"",""
+ball,2,14.6,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,0,1,1,,,,,"",""
+ball,2,14.7,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,0,0,,,,,,"",""
+ball,2,14.8,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,CB Sole,1,0,,,,,,"",""
+ball,2,14.9,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,CB Sole,0,0,,,,,,"",""
+ball,2,15.1,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,A Kharel,1,0,,,,,,"",""
+ball,2,15.2,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,A Kharel,1,0,,,,,,"",""
+ball,2,15.3,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,A Kharel,0,0,,,,,,"",""
+ball,2,15.4,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,A Kharel,1,0,,,,,,"",""
+ball,2,15.5,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,A Kharel,0,0,,,,,,"",""
+ball,2,15.6,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,A Kharel,0,0,,,,,,"",""
+ball,2,16.1,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,Basir Ahamad,0,0,,,,,,"",""
+ball,2,16.2,Kathmandu Gurkhas,Shankar Rana,Shahab Alam,Basir Ahamad,1,0,,,,,,"",""
+ball,2,16.3,Kathmandu Gurkhas,Shahab Alam,Shankar Rana,Basir Ahamad,0,0,,,,,,caught,Shahab Alam
+ball,2,16.4,Kathmandu Gurkhas,D Kandel,Shankar Rana,Basir Ahamad,0,0,,,,,,"",""
+ball,2,16.5,Kathmandu Gurkhas,D Kandel,Shankar Rana,Basir Ahamad,0,0,,,,,,"",""
+ball,2,16.6,Kathmandu Gurkhas,D Kandel,Shankar Rana,Basir Ahamad,6,0,,,,,,"",""
+ball,2,17.1,Kathmandu Gurkhas,Shankar Rana,D Kandel,Ismat Alam,0,0,,,,,,"",""
+ball,2,17.2,Kathmandu Gurkhas,Shankar Rana,D Kandel,Ismat Alam,0,0,,,,,,"",""
+ball,2,17.3,Kathmandu Gurkhas,Shankar Rana,D Kandel,Ismat Alam,4,0,,,,,,"",""
+ball,2,17.4,Kathmandu Gurkhas,Shankar Rana,D Kandel,Ismat Alam,1,0,,,,,,"",""
+ball,2,17.5,Kathmandu Gurkhas,D Kandel,Shankar Rana,Ismat Alam,1,0,,,,,,"",""
+ball,2,17.6,Kathmandu Gurkhas,Shankar Rana,D Kandel,Ismat Alam,2,0,,,,,,"",""
+ball,2,18.1,Kathmandu Gurkhas,D Kandel,Shankar Rana,Subash Bhandari,4,0,,,,,,"",""

@@ -1,0 +1,296 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kathmandu Gorkhas
+info,team,Chitwan Rhinos
+info,gender,male
+info,season,2025/26
+info,date,2025/11/28
+info,event,Nepal Premier League
+info,match_number,15
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Chitwan Rhinos
+info,toss_decision,field
+info,player_of_match,JA Simpson
+info,umpire,BB Pradhan
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Hiralal Raut
+info,tv_umpire,DN Subedi
+info,match_referee,Mohammed Shafique
+info,winner,Kathmandu Gorkhas
+info,winner_runs,53
+info,player,Kathmandu Gorkhas,BG Charlesworth
+info,player,Kathmandu Gorkhas,A Tripathi
+info,player,Kathmandu Gorkhas,Rashid Khan
+info,player,Kathmandu Gorkhas,Milind Kumar
+info,player,Kathmandu Gorkhas,JA Simpson
+info,player,Kathmandu Gorkhas,Mohammad Aadil Alam
+info,player,Kathmandu Gorkhas,MG Erasmus
+info,player,Kathmandu Gorkhas,Karan KC
+info,player,Kathmandu Gorkhas,Santosh Yadav
+info,player,Kathmandu Gorkhas,Shahab Alam
+info,player,Kathmandu Gorkhas,D Kandel
+info,player,Chitwan Rhinos,Deepak Bohara
+info,player,Chitwan Rhinos,DJ Malan
+info,player,Chitwan Rhinos,D Khanal
+info,player,Chitwan Rhinos,SA Zaib
+info,player,Chitwan Rhinos,Kushal Malla
+info,player,Chitwan Rhinos,RS Bopara
+info,player,Chitwan Rhinos,A Saud
+info,player,Chitwan Rhinos,Sohail Tanvir
+info,player,Chitwan Rhinos,KS Airee
+info,player,Chitwan Rhinos,R Dhakal
+info,player,Chitwan Rhinos,R Kumar
+info,registry,people,A Saud,94b8d7dd
+info,registry,people,A Tripathi,cbba9e4e
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,D Kandel,2e80c353
+info,registry,people,D Khanal,c4bc3b59
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,Deepak Bohara,9b1276f1
+info,registry,people,Hiralal Raut,f9e21b08
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,KS Airee,548d4188
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Aadil Alam,70ced7f2
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,R Dhakal,8399a7af
+info,registry,people,R Kumar,aba0f4a9
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rashid Khan,69cccff3
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,Santosh Yadav,ef342bdb
+info,registry,people,Shahab Alam,cdd9fa95
+info,registry,people,Sohail Tanvir,64d43928
+ball,1,0.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,0.2,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,0.3,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Sohail Tanvir,4,0,,,,,,"",""
+ball,1,0.4,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,0.5,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,0.6,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,1.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,R Dhakal,4,0,,,,,,"",""
+ball,1,1.2,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,R Dhakal,0,0,,,,,,"",""
+ball,1,1.3,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,R Dhakal,1,0,,,,,,"",""
+ball,1,1.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Dhakal,4,0,,,,,,"",""
+ball,1,1.5,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Dhakal,0,0,,,,,,"",""
+ball,1,1.6,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Dhakal,0,0,,,,,,run out,A Tripathi
+ball,1,2.1,Kathmandu Gorkhas,Rashid Khan,BG Charlesworth,R Kumar,0,0,,,,,,"",""
+ball,1,2.2,Kathmandu Gorkhas,Rashid Khan,BG Charlesworth,R Kumar,6,0,,,,,,"",""
+ball,1,2.3,Kathmandu Gorkhas,Rashid Khan,BG Charlesworth,R Kumar,0,0,,,,,,"",""
+ball,1,2.4,Kathmandu Gorkhas,Rashid Khan,BG Charlesworth,R Kumar,0,0,,,,,,"",""
+ball,1,2.5,Kathmandu Gorkhas,Rashid Khan,BG Charlesworth,R Kumar,0,0,,,,,,"",""
+ball,1,2.6,Kathmandu Gorkhas,Rashid Khan,BG Charlesworth,R Kumar,0,0,,,,,,caught,Rashid Khan
+ball,1,3.1,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,R Dhakal,0,1,1,,,,,"",""
+ball,1,3.2,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,R Dhakal,0,0,,,,,,"",""
+ball,1,3.3,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,R Dhakal,2,0,,,,,,"",""
+ball,1,3.4,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,R Dhakal,0,0,,,,,,"",""
+ball,1,3.5,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,R Dhakal,0,0,,,,,,"",""
+ball,1,3.6,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,R Dhakal,1,0,,,,,,"",""
+ball,1,3.7,Kathmandu Gorkhas,Milind Kumar,BG Charlesworth,R Dhakal,0,0,,,,,,"",""
+ball,1,4.1,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,4.2,Kathmandu Gorkhas,BG Charlesworth,Milind Kumar,Sohail Tanvir,0,0,,,,,,caught,BG Charlesworth
+ball,1,4.3,Kathmandu Gorkhas,JA Simpson,Milind Kumar,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,4.4,Kathmandu Gorkhas,JA Simpson,Milind Kumar,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,4.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,4.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,5.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,KS Airee,4,0,,,,,,"",""
+ball,1,5.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,KS Airee,0,0,,,,,,"",""
+ball,1,5.3,Kathmandu Gorkhas,JA Simpson,Milind Kumar,KS Airee,4,0,,,,,,"",""
+ball,1,5.4,Kathmandu Gorkhas,JA Simpson,Milind Kumar,KS Airee,1,0,,,,,,"",""
+ball,1,5.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,KS Airee,1,0,,,,,,"",""
+ball,1,5.6,Kathmandu Gorkhas,JA Simpson,Milind Kumar,KS Airee,4,0,,,,,,"",""
+ball,1,6.1,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,0,0,,,,,,"",""
+ball,1,6.2,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,1,0,,,,,,"",""
+ball,1,6.3,Kathmandu Gorkhas,JA Simpson,Milind Kumar,R Kumar,1,0,,,,,,"",""
+ball,1,6.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,1,0,,,,,,"",""
+ball,1,6.5,Kathmandu Gorkhas,JA Simpson,Milind Kumar,R Kumar,1,0,,,,,,"",""
+ball,1,6.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,1,0,,,,,,"",""
+ball,1,7.1,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,7.2,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,7.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,1,0,,,,,,"",""
+ball,1,7.4,Kathmandu Gorkhas,JA Simpson,Milind Kumar,SA Zaib,1,0,,,,,,"",""
+ball,1,7.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,4,0,,,,,,"",""
+ball,1,7.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,8.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,D Khanal,1,0,,,,,,"",""
+ball,1,8.2,Kathmandu Gorkhas,Milind Kumar,JA Simpson,D Khanal,4,0,,,,,,"",""
+ball,1,8.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,D Khanal,0,0,,,,,,"",""
+ball,1,8.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,D Khanal,0,0,,,,,,"",""
+ball,1,8.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,D Khanal,0,0,,,,,,"",""
+ball,1,8.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,D Khanal,1,0,,,,,,"",""
+ball,1,9.1,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,1,0,,,,,,"",""
+ball,1,9.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,SA Zaib,1,0,,,,,,"",""
+ball,1,9.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,9.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,9.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,9.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,1,0,,,,,,"",""
+ball,1,10.1,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,1,0,,,,,,"",""
+ball,1,10.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,2,0,,,,,,"",""
+ball,1,10.3,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,2,0,,,,,,"",""
+ball,1,10.4,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,0,0,,,,,,"",""
+ball,1,10.5,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,0,0,,,,,,"",""
+ball,1,10.6,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,1,0,,,,,,"",""
+ball,1,11.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,SA Zaib,6,0,,,,,,"",""
+ball,1,11.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,SA Zaib,1,0,,,,,,"",""
+ball,1,11.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,11.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,4,0,,,,,,"",""
+ball,1,11.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,11.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SA Zaib,0,0,,,,,,"",""
+ball,1,12.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,1,0,,,,,,"",""
+ball,1,12.2,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,1,0,,,,,,"",""
+ball,1,12.3,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,1,0,,,,,,"",""
+ball,1,12.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,0,0,,,,,,"",""
+ball,1,12.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,1,0,,,,,,"",""
+ball,1,12.6,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,6,0,,,,,,"",""
+ball,1,13.1,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,1,0,,,,,,"",""
+ball,1,13.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,R Kumar,1,0,,,,,,"",""
+ball,1,13.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,2,0,,,,,,"",""
+ball,1,13.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,0,0,,,,,,"",""
+ball,1,13.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,R Kumar,1,0,,,,,,"",""
+ball,1,13.6,Kathmandu Gorkhas,JA Simpson,Milind Kumar,R Kumar,6,0,,,,,,"",""
+ball,1,14.1,Kathmandu Gorkhas,Milind Kumar,JA Simpson,Sohail Tanvir,4,0,,,,,,"",""
+ball,1,14.2,Kathmandu Gorkhas,Milind Kumar,JA Simpson,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,14.3,Kathmandu Gorkhas,JA Simpson,Milind Kumar,Sohail Tanvir,6,0,,,,,,"",""
+ball,1,14.4,Kathmandu Gorkhas,JA Simpson,Milind Kumar,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,14.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,14.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,15.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,6,0,,,,,,"",""
+ball,1,15.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RS Bopara,1,0,,,,,,"",""
+ball,1,15.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,2,0,,,,,,"",""
+ball,1,15.4,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,4,0,,,,,,"",""
+ball,1,15.5,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,0,0,,,,,,"",""
+ball,1,15.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,RS Bopara,0,0,,,,,,bowled,Milind Kumar
+ball,1,16.1,Kathmandu Gorkhas,JA Simpson,Mohammad Aadil Alam,KS Airee,0,0,,,,,,caught,JA Simpson
+ball,1,16.2,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,KS Airee,0,0,,,,,,"",""
+ball,1,16.3,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,KS Airee,0,1,,,1,,,"",""
+ball,1,16.4,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,KS Airee,2,0,,,,,,"",""
+ball,1,16.5,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,KS Airee,1,0,,,,,,"",""
+ball,1,16.6,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,KS Airee,0,0,,,,,,"",""
+ball,1,17.1,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,17.2,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,Sohail Tanvir,0,1,1,,,,,stumped,MG Erasmus
+ball,1,17.3,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,17.4,Kathmandu Gorkhas,Mohammad Aadil Alam,Karan KC,Sohail Tanvir,4,0,,,,,,"",""
+ball,1,17.5,Kathmandu Gorkhas,Mohammad Aadil Alam,Karan KC,Sohail Tanvir,0,0,,,,,,bowled,Mohammad Aadil Alam
+ball,1,17.6,Kathmandu Gorkhas,Santosh Yadav,Karan KC,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,17.7,Kathmandu Gorkhas,Santosh Yadav,Karan KC,Sohail Tanvir,0,0,,,,,,caught and bowled,Santosh Yadav
+ball,1,18.1,Kathmandu Gorkhas,Karan KC,Shahab Alam,R Kumar,0,0,,,,,,caught,Karan KC
+ball,1,18.2,Kathmandu Gorkhas,D Kandel,Shahab Alam,R Kumar,2,0,,,,,,"",""
+ball,1,18.3,Kathmandu Gorkhas,D Kandel,Shahab Alam,R Kumar,1,0,,,,,,"",""
+ball,1,18.4,Kathmandu Gorkhas,Shahab Alam,D Kandel,R Kumar,0,0,,,,,,"",""
+ball,1,18.5,Kathmandu Gorkhas,Shahab Alam,D Kandel,R Kumar,1,0,,,,,,"",""
+ball,1,18.6,Kathmandu Gorkhas,D Kandel,Shahab Alam,R Kumar,2,0,,,,,,"",""
+ball,1,19.1,Kathmandu Gorkhas,Shahab Alam,D Kandel,KS Airee,0,1,,,,1,,"",""
+ball,1,19.2,Kathmandu Gorkhas,D Kandel,Shahab Alam,KS Airee,1,0,,,,,,"",""
+ball,1,19.3,Kathmandu Gorkhas,Shahab Alam,D Kandel,KS Airee,1,0,,,,,,"",""
+ball,1,19.4,Kathmandu Gorkhas,D Kandel,Shahab Alam,KS Airee,0,0,,,,,,caught,D Kandel
+ball,2,0.1,Chitwan Rhinos,Deepak Bohara,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,0.2,Chitwan Rhinos,Deepak Bohara,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,0.3,Chitwan Rhinos,Deepak Bohara,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,0.4,Chitwan Rhinos,Deepak Bohara,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,0.5,Chitwan Rhinos,Deepak Bohara,DJ Malan,Karan KC,0,0,,,,,,caught,Deepak Bohara
+ball,2,0.6,Chitwan Rhinos,D Khanal,DJ Malan,Karan KC,4,0,,,,,,"",""
+ball,2,1.1,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,1.2,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,1.3,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,1.4,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,1.5,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,1,0,,,,,,"",""
+ball,2,1.6,Chitwan Rhinos,D Khanal,DJ Malan,Milind Kumar,4,0,,,,,,"",""
+ball,2,2.1,Chitwan Rhinos,DJ Malan,D Khanal,Karan KC,1,0,,,,,,"",""
+ball,2,2.2,Chitwan Rhinos,D Khanal,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,2.3,Chitwan Rhinos,D Khanal,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,2.4,Chitwan Rhinos,D Khanal,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,2.5,Chitwan Rhinos,D Khanal,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,2.6,Chitwan Rhinos,D Khanal,DJ Malan,Karan KC,0,0,,,,,,"",""
+ball,2,3.1,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,4,0,,,,,,"",""
+ball,2,3.2,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,1,0,,,,,,"",""
+ball,2,3.3,Chitwan Rhinos,D Khanal,DJ Malan,Milind Kumar,1,0,,,,,,"",""
+ball,2,3.4,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,3.5,Chitwan Rhinos,DJ Malan,D Khanal,Milind Kumar,0,0,,,,,,caught,DJ Malan
+ball,2,3.6,Chitwan Rhinos,SA Zaib,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,4.1,Chitwan Rhinos,D Khanal,SA Zaib,Karan KC,0,0,,,,,,"",""
+ball,2,4.2,Chitwan Rhinos,D Khanal,SA Zaib,Karan KC,1,0,,,,,,"",""
+ball,2,4.3,Chitwan Rhinos,SA Zaib,D Khanal,Karan KC,1,0,,,,,,"",""
+ball,2,4.4,Chitwan Rhinos,D Khanal,SA Zaib,Karan KC,0,0,,,,,,"",""
+ball,2,4.5,Chitwan Rhinos,D Khanal,SA Zaib,Karan KC,6,0,,,,,,"",""
+ball,2,4.6,Chitwan Rhinos,D Khanal,SA Zaib,Karan KC,1,0,,,,,,"",""
+ball,2,5.1,Chitwan Rhinos,D Khanal,SA Zaib,Milind Kumar,1,0,,,,,,"",""
+ball,2,5.2,Chitwan Rhinos,SA Zaib,D Khanal,Milind Kumar,0,0,,,,,,stumped,SA Zaib
+ball,2,5.3,Chitwan Rhinos,Kushal Malla,D Khanal,Milind Kumar,1,0,,,,,,"",""
+ball,2,5.4,Chitwan Rhinos,D Khanal,Kushal Malla,Milind Kumar,1,0,,,,,,"",""
+ball,2,5.5,Chitwan Rhinos,Kushal Malla,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,5.6,Chitwan Rhinos,Kushal Malla,D Khanal,Milind Kumar,0,0,,,,,,"",""
+ball,2,6.1,Chitwan Rhinos,D Khanal,Kushal Malla,Shahab Alam,1,0,,,,,,"",""
+ball,2,6.2,Chitwan Rhinos,Kushal Malla,D Khanal,Shahab Alam,1,0,,,,,,"",""
+ball,2,6.3,Chitwan Rhinos,D Khanal,Kushal Malla,Shahab Alam,1,0,,,,,,"",""
+ball,2,6.4,Chitwan Rhinos,Kushal Malla,D Khanal,Shahab Alam,1,0,,,,,,"",""
+ball,2,6.5,Chitwan Rhinos,D Khanal,Kushal Malla,Shahab Alam,0,0,,,,,,caught,D Khanal
+ball,2,6.6,Chitwan Rhinos,RS Bopara,Kushal Malla,Shahab Alam,0,0,,,,,,"",""
+ball,2,7.1,Chitwan Rhinos,Kushal Malla,RS Bopara,D Kandel,1,0,,,,,,"",""
+ball,2,7.2,Chitwan Rhinos,RS Bopara,Kushal Malla,D Kandel,1,0,,,,,,"",""
+ball,2,7.3,Chitwan Rhinos,Kushal Malla,RS Bopara,D Kandel,1,0,,,,,,"",""
+ball,2,7.4,Chitwan Rhinos,RS Bopara,Kushal Malla,D Kandel,0,0,,,,,,"",""
+ball,2,7.5,Chitwan Rhinos,RS Bopara,Kushal Malla,D Kandel,4,0,,,,,,"",""
+ball,2,7.6,Chitwan Rhinos,RS Bopara,Kushal Malla,D Kandel,0,0,,,,,,"",""
+ball,2,8.1,Chitwan Rhinos,Kushal Malla,RS Bopara,MG Erasmus,0,0,,,,,,"",""
+ball,2,8.2,Chitwan Rhinos,Kushal Malla,RS Bopara,MG Erasmus,1,0,,,,,,"",""
+ball,2,8.3,Chitwan Rhinos,RS Bopara,Kushal Malla,MG Erasmus,1,0,,,,,,"",""
+ball,2,8.4,Chitwan Rhinos,Kushal Malla,RS Bopara,MG Erasmus,0,0,,,,,,"",""
+ball,2,8.5,Chitwan Rhinos,Kushal Malla,RS Bopara,MG Erasmus,0,0,,,,,,"",""
+ball,2,8.6,Chitwan Rhinos,Kushal Malla,RS Bopara,MG Erasmus,0,0,,,,,,"",""
+ball,2,9.1,Chitwan Rhinos,RS Bopara,Kushal Malla,Shahab Alam,1,0,,,,,,"",""
+ball,2,9.2,Chitwan Rhinos,Kushal Malla,RS Bopara,Shahab Alam,0,1,1,,,,,"",""
+ball,2,9.3,Chitwan Rhinos,Kushal Malla,RS Bopara,Shahab Alam,0,0,,,,,,caught,Kushal Malla
+ball,2,9.4,Chitwan Rhinos,A Saud,RS Bopara,Shahab Alam,0,0,,,,,,"",""
+ball,2,9.5,Chitwan Rhinos,A Saud,RS Bopara,Shahab Alam,0,0,,,,,,"",""
+ball,2,9.6,Chitwan Rhinos,A Saud,RS Bopara,Shahab Alam,2,0,,,,,,"",""
+ball,2,9.7,Chitwan Rhinos,A Saud,RS Bopara,Shahab Alam,0,0,,,,,,"",""
+ball,2,10.1,Chitwan Rhinos,RS Bopara,A Saud,Santosh Yadav,0,0,,,,,,"",""
+ball,2,10.2,Chitwan Rhinos,RS Bopara,A Saud,Santosh Yadav,1,0,,,,,,"",""
+ball,2,10.3,Chitwan Rhinos,A Saud,RS Bopara,Santosh Yadav,0,0,,,,,,caught,A Saud
+ball,2,10.4,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Santosh Yadav,1,0,,,,,,"",""
+ball,2,10.5,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Santosh Yadav,0,0,,,,,,"",""
+ball,2,10.6,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Santosh Yadav,0,0,,,,,,"",""
+ball,2,11.1,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Milind Kumar,1,0,,,,,,"",""
+ball,2,11.2,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Milind Kumar,0,0,,,,,,"",""
+ball,2,11.3,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Milind Kumar,1,0,,,,,,"",""
+ball,2,11.4,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Milind Kumar,0,0,,,,,,"",""
+ball,2,11.5,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Milind Kumar,1,0,,,,,,"",""
+ball,2,11.6,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Milind Kumar,1,0,,,,,,"",""
+ball,2,12.1,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Santosh Yadav,1,0,,,,,,"",""
+ball,2,12.2,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Santosh Yadav,0,0,,,,,,"",""
+ball,2,12.3,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Santosh Yadav,4,0,,,,,,"",""
+ball,2,12.4,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Santosh Yadav,1,0,,,,,,"",""
+ball,2,12.5,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Santosh Yadav,0,0,,,,,,"",""
+ball,2,12.6,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Santosh Yadav,1,0,,,,,,"",""
+ball,2,13.1,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Shahab Alam,6,0,,,,,,"",""
+ball,2,13.2,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Shahab Alam,0,0,,,,,,"",""
+ball,2,13.3,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Shahab Alam,1,0,,,,,,"",""
+ball,2,13.4,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Shahab Alam,0,0,,,,,,"",""
+ball,2,13.5,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Shahab Alam,0,0,,,,,,"",""
+ball,2,13.6,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Shahab Alam,2,0,,,,,,"",""
+ball,2,14.1,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.2,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Rashid Khan,0,1,,,,1,,"",""
+ball,2,14.3,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.4,Chitwan Rhinos,Sohail Tanvir,RS Bopara,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.5,Chitwan Rhinos,RS Bopara,Sohail Tanvir,Rashid Khan,0,0,,,,,,caught,RS Bopara
+ball,2,14.6,Chitwan Rhinos,KS Airee,Sohail Tanvir,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.1,Chitwan Rhinos,Sohail Tanvir,KS Airee,Karan KC,0,0,,,,,,"",""
+ball,2,15.2,Chitwan Rhinos,Sohail Tanvir,KS Airee,Karan KC,0,1,1,,,,,"",""
+ball,2,15.3,Chitwan Rhinos,Sohail Tanvir,KS Airee,Karan KC,0,0,,,,,,"",""
+ball,2,15.4,Chitwan Rhinos,Sohail Tanvir,KS Airee,Karan KC,1,0,,,,,,"",""
+ball,2,15.5,Chitwan Rhinos,KS Airee,Sohail Tanvir,Karan KC,1,0,,,,,,"",""
+ball,2,15.6,Chitwan Rhinos,Sohail Tanvir,KS Airee,Karan KC,6,0,,,,,,"",""
+ball,2,15.7,Chitwan Rhinos,Sohail Tanvir,KS Airee,Karan KC,0,0,,,,,,bowled,Sohail Tanvir
+ball,2,16.1,Chitwan Rhinos,KS Airee,R Dhakal,Shahab Alam,6,0,,,,,,"",""
+ball,2,16.2,Chitwan Rhinos,KS Airee,R Dhakal,Shahab Alam,0,0,,,,,,"",""
+ball,2,16.3,Chitwan Rhinos,KS Airee,R Dhakal,Shahab Alam,0,0,,,,,,"",""
+ball,2,16.4,Chitwan Rhinos,KS Airee,R Dhakal,Shahab Alam,1,0,,,,,,"",""
+ball,2,16.5,Chitwan Rhinos,R Dhakal,KS Airee,Shahab Alam,1,0,,,,,,"",""
+ball,2,16.6,Chitwan Rhinos,KS Airee,R Dhakal,Shahab Alam,1,0,,,,,,"",""
+ball,2,17.1,Chitwan Rhinos,KS Airee,R Dhakal,Rashid Khan,0,0,,,,,,caught,KS Airee
+ball,2,17.2,Chitwan Rhinos,R Kumar,R Dhakal,Rashid Khan,0,0,,,,,,stumped,R Kumar

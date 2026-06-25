@@ -1,0 +1,292 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sudur Paschim Royals
+info,team,Kathmandu Gurkhas
+info,gender,male
+info,season,2024/25
+info,date,2024/12/05
+info,event,Nepal Premier League
+info,match_number,9
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Kathmandu Gurkhas
+info,toss_decision,field
+info,player_of_match,N Saud
+info,umpire,HR Giri
+info,umpire,Rashid Riaz
+info,reserve_umpire,HR Bhatta
+info,tv_umpire,Bismillah Shinwari
+info,match_referee,M Nayyar
+info,winner,Sudur Paschim Royals
+info,winner_runs,73
+info,player,Sudur Paschim Royals,SA Zaib
+info,player,Sudur Paschim Royals,B Bhandari
+info,player,Sudur Paschim Royals,BJ McMullen
+info,player,Sudur Paschim Royals,DS Airee
+info,player,Sudur Paschim Royals,Rohan Mustafa
+info,player,Sudur Paschim Royals,Aarif Sheikh
+info,player,Sudur Paschim Royals,SC Kuggeleijn
+info,player,Sudur Paschim Royals,I Pandey
+info,player,Sudur Paschim Royals,N Saud
+info,player,Sudur Paschim Royals,A Bohara
+info,player,Sudur Paschim Royals,NB Budayair
+info,player,Kathmandu Gurkhas,M Levitt
+info,player,Kathmandu Gurkhas,Shankar Rana
+info,player,Kathmandu Gurkhas,SS Eskinazi
+info,player,Kathmandu Gurkhas,B Sharki
+info,player,Kathmandu Gurkhas,MG Erasmus
+info,player,Kathmandu Gurkhas,S Maharjan
+info,player,Kathmandu Gurkhas,Rashid Khan
+info,player,Kathmandu Gurkhas,P Shrestha
+info,player,Kathmandu Gurkhas,Karan KC
+info,player,Kathmandu Gurkhas,NA Sowter
+info,player,Kathmandu Gurkhas,Shahab Alam
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,B Bhandari,82342b13
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,DS Airee,1747ea18
+info,registry,people,HR Bhatta,b60ca723
+info,registry,people,HR Giri,fea1e74f
+info,registry,people,I Pandey,ed547c49
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Saud,010df582
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,NB Budayair,9d280648
+info,registry,people,P Shrestha,534c4b03
+info,registry,people,Rashid Khan,69cccff3
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Maharjan,f0b3e7ee
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,Shahab Alam,cdd9fa95
+info,registry,people,Shankar Rana,3a61496b
+ball,1,0.1,Sudur Paschim Royals,SA Zaib,B Bhandari,Karan KC,2,0,,,,,,"",""
+ball,1,0.2,Sudur Paschim Royals,SA Zaib,B Bhandari,Karan KC,0,0,,,,,,"",""
+ball,1,0.3,Sudur Paschim Royals,SA Zaib,B Bhandari,Karan KC,1,0,,,,,,"",""
+ball,1,0.4,Sudur Paschim Royals,B Bhandari,SA Zaib,Karan KC,4,0,,,,,,"",""
+ball,1,0.5,Sudur Paschim Royals,B Bhandari,SA Zaib,Karan KC,2,0,,,,,,"",""
+ball,1,0.6,Sudur Paschim Royals,B Bhandari,SA Zaib,Karan KC,0,0,,,,,,"",""
+ball,1,1.1,Sudur Paschim Royals,SA Zaib,B Bhandari,Rashid Khan,0,0,,,,,,"",""
+ball,1,1.2,Sudur Paschim Royals,SA Zaib,B Bhandari,Rashid Khan,4,0,,,,,,"",""
+ball,1,1.3,Sudur Paschim Royals,SA Zaib,B Bhandari,Rashid Khan,2,0,,,,,,"",""
+ball,1,1.4,Sudur Paschim Royals,SA Zaib,B Bhandari,Rashid Khan,0,0,,,,,,"",""
+ball,1,1.5,Sudur Paschim Royals,SA Zaib,B Bhandari,Rashid Khan,2,0,,,,,,"",""
+ball,1,1.6,Sudur Paschim Royals,SA Zaib,B Bhandari,Rashid Khan,0,0,,,,,,bowled,SA Zaib
+ball,1,2.1,Sudur Paschim Royals,B Bhandari,BJ McMullen,Karan KC,0,0,,,,,,"",""
+ball,1,2.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,Karan KC,6,0,,,,,,"",""
+ball,1,2.3,Sudur Paschim Royals,B Bhandari,BJ McMullen,Karan KC,0,1,1,,,,,"",""
+ball,1,2.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,Karan KC,0,1,1,,,,,"",""
+ball,1,2.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,Karan KC,1,0,,,,,,"",""
+ball,1,2.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,Karan KC,0,0,,,,,,"",""
+ball,1,2.7,Sudur Paschim Royals,BJ McMullen,B Bhandari,Karan KC,2,0,,,,,,"",""
+ball,1,2.8,Sudur Paschim Royals,BJ McMullen,B Bhandari,Karan KC,1,0,,,,,,"",""
+ball,1,3.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,0,0,,,,,,"",""
+ball,1,3.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,4,0,,,,,,"",""
+ball,1,3.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,1,0,,,,,,"",""
+ball,1,3.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,Shahab Alam,0,0,,,,,,"",""
+ball,1,3.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,Shahab Alam,1,0,,,,,,"",""
+ball,1,3.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,0,0,,,,,,"",""
+ball,1,4.1,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,4,0,,,,,,"",""
+ball,1,4.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,0,0,,,,,,"",""
+ball,1,4.3,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,0,0,,,,,,"",""
+ball,1,4.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,1,0,,,,,,"",""
+ball,1,4.5,Sudur Paschim Royals,BJ McMullen,B Bhandari,NA Sowter,6,0,,,,,,"",""
+ball,1,4.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,NA Sowter,0,0,,,,,,"",""
+ball,1,5.1,Sudur Paschim Royals,B Bhandari,BJ McMullen,Rashid Khan,1,0,,,,,,"",""
+ball,1,5.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.4,Sudur Paschim Royals,BJ McMullen,B Bhandari,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.5,Sudur Paschim Royals,BJ McMullen,B Bhandari,Rashid Khan,0,0,,,,,,"",""
+ball,1,5.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,0,0,,,,,,"",""
+ball,1,6.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,0,0,,,,,,"",""
+ball,1,6.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,4,0,,,,,,"",""
+ball,1,6.4,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,1,0,,,,,,"",""
+ball,1,6.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,Shahab Alam,1,0,,,,,,"",""
+ball,1,6.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,6,0,,,,,,"",""
+ball,1,7.1,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,6,0,,,,,,"",""
+ball,1,7.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,0,1,,,,1,,"",""
+ball,1,7.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,NA Sowter,1,0,,,,,,"",""
+ball,1,7.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,0,0,,,,,,"",""
+ball,1,7.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,NA Sowter,1,0,,,,,,"",""
+ball,1,7.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,NA Sowter,6,0,,,,,,"",""
+ball,1,8.1,Sudur Paschim Royals,B Bhandari,BJ McMullen,M Levitt,0,0,,,,,,"",""
+ball,1,8.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,M Levitt,1,0,,,,,,"",""
+ball,1,8.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,1,0,,,,,,"",""
+ball,1,8.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,M Levitt,1,0,,,,,,"",""
+ball,1,8.5,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,2,0,,,,,,"",""
+ball,1,8.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,1,0,,,,,,"",""
+ball,1,9.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,0,0,,,,,,"",""
+ball,1,9.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,1,0,,,,,,"",""
+ball,1,9.3,Sudur Paschim Royals,B Bhandari,BJ McMullen,Shahab Alam,1,0,,,,,,"",""
+ball,1,9.4,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,4,0,,,,,,"",""
+ball,1,9.5,Sudur Paschim Royals,BJ McMullen,B Bhandari,Shahab Alam,0,1,,,,1,,"",""
+ball,1,9.6,Sudur Paschim Royals,B Bhandari,BJ McMullen,Shahab Alam,0,0,,,,,,"",""
+ball,1,10.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,1,0,,,,,,"",""
+ball,1,10.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,M Levitt,1,0,,,,,,"",""
+ball,1,10.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,6,0,,,,,,"",""
+ball,1,10.4,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,1,0,,,,,,"",""
+ball,1,10.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,M Levitt,1,0,,,,,,"",""
+ball,1,10.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,M Levitt,1,0,,,,,,"",""
+ball,1,11.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,MG Erasmus,1,0,,,,,,"",""
+ball,1,11.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,MG Erasmus,1,0,,,,,,"",""
+ball,1,11.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,MG Erasmus,1,0,,,,,,"",""
+ball,1,11.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,MG Erasmus,1,0,,,,,,"",""
+ball,1,11.5,Sudur Paschim Royals,BJ McMullen,B Bhandari,MG Erasmus,0,0,,,,,,"",""
+ball,1,11.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,MG Erasmus,0,0,,,,,,caught,BJ McMullen
+ball,1,12.1,Sudur Paschim Royals,B Bhandari,DS Airee,Shahab Alam,0,0,,,,,,lbw,B Bhandari
+ball,1,12.2,Sudur Paschim Royals,Rohan Mustafa,DS Airee,Shahab Alam,0,0,,,,,,"",""
+ball,1,12.3,Sudur Paschim Royals,Rohan Mustafa,DS Airee,Shahab Alam,2,0,,,,,,"",""
+ball,1,12.4,Sudur Paschim Royals,Rohan Mustafa,DS Airee,Shahab Alam,0,0,,,,,,"",""
+ball,1,12.5,Sudur Paschim Royals,Rohan Mustafa,DS Airee,Shahab Alam,1,0,,,,,,"",""
+ball,1,12.6,Sudur Paschim Royals,DS Airee,Rohan Mustafa,Shahab Alam,1,0,,,,,,"",""
+ball,1,13.1,Sudur Paschim Royals,DS Airee,Rohan Mustafa,MG Erasmus,2,0,,,,,,"",""
+ball,1,13.2,Sudur Paschim Royals,DS Airee,Rohan Mustafa,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.3,Sudur Paschim Royals,DS Airee,Rohan Mustafa,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.4,Sudur Paschim Royals,DS Airee,Rohan Mustafa,MG Erasmus,2,0,,,,,,"",""
+ball,1,13.5,Sudur Paschim Royals,DS Airee,Rohan Mustafa,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.6,Sudur Paschim Royals,DS Airee,Rohan Mustafa,MG Erasmus,1,0,,,,,,"",""
+ball,1,14.1,Sudur Paschim Royals,DS Airee,Rohan Mustafa,NA Sowter,4,0,,,,,,"",""
+ball,1,14.2,Sudur Paschim Royals,DS Airee,Rohan Mustafa,NA Sowter,1,0,,,,,,"",""
+ball,1,14.3,Sudur Paschim Royals,Rohan Mustafa,DS Airee,NA Sowter,1,0,,,,,,"",""
+ball,1,14.4,Sudur Paschim Royals,DS Airee,Rohan Mustafa,NA Sowter,2,0,,,,,,"",""
+ball,1,14.5,Sudur Paschim Royals,DS Airee,Rohan Mustafa,NA Sowter,1,0,,,,,,"",""
+ball,1,14.6,Sudur Paschim Royals,Rohan Mustafa,DS Airee,NA Sowter,0,0,,,,,,"",""
+ball,1,15.1,Sudur Paschim Royals,DS Airee,Rohan Mustafa,Rashid Khan,0,1,1,,,,,"",""
+ball,1,15.2,Sudur Paschim Royals,DS Airee,Rohan Mustafa,Rashid Khan,2,0,,,,,,"",""
+ball,1,15.3,Sudur Paschim Royals,DS Airee,Rohan Mustafa,Rashid Khan,2,0,,,,,,"",""
+ball,1,15.4,Sudur Paschim Royals,DS Airee,Rohan Mustafa,Rashid Khan,0,1,,,,1,,"",""
+ball,1,15.5,Sudur Paschim Royals,Rohan Mustafa,DS Airee,Rashid Khan,0,0,,,,,,bowled,Rohan Mustafa
+ball,1,15.6,Sudur Paschim Royals,Aarif Sheikh,DS Airee,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.7,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Rashid Khan,0,0,,,,,,"",""
+ball,1,16.1,Sudur Paschim Royals,Aarif Sheikh,DS Airee,Karan KC,1,0,,,,,,"",""
+ball,1,16.2,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Karan KC,1,0,,,,,,"",""
+ball,1,16.3,Sudur Paschim Royals,Aarif Sheikh,DS Airee,Karan KC,1,0,,,,,,"",""
+ball,1,16.4,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Karan KC,0,1,1,,,,,"",""
+ball,1,16.5,Sudur Paschim Royals,DS Airee,Aarif Sheikh,Karan KC,1,0,,,,,,run out,Aarif Sheikh
+ball,1,16.6,Sudur Paschim Royals,SC Kuggeleijn,DS Airee,Karan KC,1,0,,,,,,"",""
+ball,1,16.7,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,Karan KC,1,0,,,,,,"",""
+ball,1,17.1,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,M Levitt,6,0,,,,,,"",""
+ball,1,17.2,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,M Levitt,4,0,,,,,,"",""
+ball,1,17.3,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,M Levitt,0,1,1,,,,,"",""
+ball,1,17.4,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,M Levitt,1,0,,,,,,"",""
+ball,1,17.5,Sudur Paschim Royals,SC Kuggeleijn,DS Airee,M Levitt,1,0,,,,,,"",""
+ball,1,17.6,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,M Levitt,1,0,,,,,,"",""
+ball,1,17.7,Sudur Paschim Royals,SC Kuggeleijn,DS Airee,M Levitt,1,0,,,,,,"",""
+ball,1,18.1,Sudur Paschim Royals,SC Kuggeleijn,DS Airee,Karan KC,1,0,,,,,,"",""
+ball,1,18.2,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,Karan KC,0,1,1,,,,,"",""
+ball,1,18.3,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,Karan KC,4,0,,,,,,"",""
+ball,1,18.4,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,Karan KC,6,0,,,,,,"",""
+ball,1,18.5,Sudur Paschim Royals,DS Airee,SC Kuggeleijn,Karan KC,0,0,,,,,,caught,DS Airee
+ball,1,18.6,Sudur Paschim Royals,I Pandey,SC Kuggeleijn,Karan KC,0,0,,,,,,"",""
+ball,1,18.7,Sudur Paschim Royals,I Pandey,SC Kuggeleijn,Karan KC,0,0,,,,,,"",""
+ball,1,19.1,Sudur Paschim Royals,SC Kuggeleijn,I Pandey,Rashid Khan,1,0,,,,,,"",""
+ball,1,19.2,Sudur Paschim Royals,I Pandey,SC Kuggeleijn,Rashid Khan,0,0,,,,,,"",""
+ball,1,19.3,Sudur Paschim Royals,I Pandey,SC Kuggeleijn,Rashid Khan,0,0,,,,,,"",""
+ball,1,19.4,Sudur Paschim Royals,I Pandey,SC Kuggeleijn,Rashid Khan,1,0,,,,,,"",""
+ball,1,19.5,Sudur Paschim Royals,SC Kuggeleijn,I Pandey,Rashid Khan,2,0,,,,,,"",""
+ball,1,19.6,Sudur Paschim Royals,SC Kuggeleijn,I Pandey,Rashid Khan,0,1,,,1,,,"",""
+ball,2,0.1,Kathmandu Gurkhas,M Levitt,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.2,Kathmandu Gurkhas,M Levitt,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.3,Kathmandu Gurkhas,M Levitt,Shankar Rana,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,0.4,Kathmandu Gurkhas,M Levitt,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.5,Kathmandu Gurkhas,M Levitt,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,0.6,Kathmandu Gurkhas,M Levitt,Shankar Rana,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,1.1,Kathmandu Gurkhas,M Levitt,Shankar Rana,BJ McMullen,0,0,,,,,,caught,M Levitt
+ball,2,1.2,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,0,0,,,,,,"",""
+ball,2,1.3,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,1,0,,,,,,"",""
+ball,2,1.4,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,BJ McMullen,0,0,,,,,,"",""
+ball,2,1.5,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,BJ McMullen,1,0,,,,,,"",""
+ball,2,1.6,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,0,0,,,,,,"",""
+ball,2,2.1,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.2,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,2.3,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,2.4,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.5,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,2.6,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.1,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,BJ McMullen,1,0,,,,,,"",""
+ball,2,3.2,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,4,0,,,,,,"",""
+ball,2,3.3,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,6,0,,,,,,"",""
+ball,2,3.4,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,0,0,,,,,,"",""
+ball,2,3.5,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,0,0,,,,,,"",""
+ball,2,3.6,Kathmandu Gurkhas,SS Eskinazi,Shankar Rana,BJ McMullen,4,0,,,,,,"",""
+ball,2,4.1,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,SA Zaib,0,0,,,,,,"",""
+ball,2,4.2,Kathmandu Gurkhas,Shankar Rana,SS Eskinazi,SA Zaib,0,0,,,,,,bowled,Shankar Rana
+ball,2,4.3,Kathmandu Gurkhas,B Sharki,SS Eskinazi,SA Zaib,1,0,,,,,,"",""
+ball,2,4.4,Kathmandu Gurkhas,SS Eskinazi,B Sharki,SA Zaib,1,0,,,,,,"",""
+ball,2,4.5,Kathmandu Gurkhas,B Sharki,SS Eskinazi,SA Zaib,1,0,,,,,,"",""
+ball,2,4.6,Kathmandu Gurkhas,SS Eskinazi,B Sharki,SA Zaib,0,0,,,,,,"",""
+ball,2,5.1,Kathmandu Gurkhas,B Sharki,SS Eskinazi,N Saud,4,0,,,,,,"",""
+ball,2,5.2,Kathmandu Gurkhas,B Sharki,SS Eskinazi,N Saud,0,0,,,,,,"",""
+ball,2,5.3,Kathmandu Gurkhas,B Sharki,SS Eskinazi,N Saud,4,0,,,,,,"",""
+ball,2,5.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,N Saud,0,0,,,,,,"",""
+ball,2,5.5,Kathmandu Gurkhas,B Sharki,SS Eskinazi,N Saud,0,0,,,,,,"",""
+ball,2,5.6,Kathmandu Gurkhas,B Sharki,SS Eskinazi,N Saud,0,0,,,,,,"",""
+ball,2,6.1,Kathmandu Gurkhas,SS Eskinazi,B Sharki,BJ McMullen,0,0,,,,,,"",""
+ball,2,6.2,Kathmandu Gurkhas,SS Eskinazi,B Sharki,BJ McMullen,0,0,,,,,,"",""
+ball,2,6.3,Kathmandu Gurkhas,SS Eskinazi,B Sharki,BJ McMullen,0,0,,,,,,run out,B Sharki
+ball,2,6.4,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,BJ McMullen,0,0,,,,,,"",""
+ball,2,6.5,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,BJ McMullen,0,0,,,,,,"",""
+ball,2,6.6,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,BJ McMullen,4,0,,,,,,"",""
+ball,2,7.1,Kathmandu Gurkhas,SS Eskinazi,MG Erasmus,N Saud,0,0,,,,,,"",""
+ball,2,7.2,Kathmandu Gurkhas,SS Eskinazi,MG Erasmus,N Saud,1,0,,,,,,"",""
+ball,2,7.3,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,N Saud,6,0,,,,,,"",""
+ball,2,7.4,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,N Saud,0,0,,,,,,lbw,MG Erasmus
+ball,2,7.5,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,N Saud,1,0,,,,,,"",""
+ball,2,7.6,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,N Saud,0,0,,,,,,"",""
+ball,2,8.1,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,BJ McMullen,1,0,,,,,,"",""
+ball,2,8.2,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,BJ McMullen,0,1,,,,1,,"",""
+ball,2,8.3,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,BJ McMullen,1,0,,,,,,"",""
+ball,2,8.4,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,BJ McMullen,1,0,,,,,,"",""
+ball,2,8.5,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,BJ McMullen,1,0,,,,,,"",""
+ball,2,8.6,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,BJ McMullen,4,0,,,,,,"",""
+ball,2,9.1,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,SA Zaib,4,0,,,,,,"",""
+ball,2,9.2,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,SA Zaib,1,0,,,,,,"",""
+ball,2,9.3,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,SA Zaib,2,0,,,,,,"",""
+ball,2,9.4,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,SA Zaib,0,0,,,,,,"",""
+ball,2,9.5,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,SA Zaib,1,0,,,,,,"",""
+ball,2,9.6,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,SA Zaib,4,0,,,,,,"",""
+ball,2,10.1,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,A Bohara,1,0,,,,,,"",""
+ball,2,10.2,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,A Bohara,1,0,,,,,,"",""
+ball,2,10.3,Kathmandu Gurkhas,SS Eskinazi,S Maharjan,A Bohara,1,0,,,,,,"",""
+ball,2,10.4,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,10.5,Kathmandu Gurkhas,S Maharjan,SS Eskinazi,A Bohara,0,0,,,,,,caught,S Maharjan
+ball,2,10.6,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,11.1,Kathmandu Gurkhas,SS Eskinazi,Rashid Khan,Rohan Mustafa,0,0,,,,,,"",""
+ball,2,11.2,Kathmandu Gurkhas,SS Eskinazi,Rashid Khan,Rohan Mustafa,1,0,,,,,,"",""
+ball,2,11.3,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,Rohan Mustafa,1,0,,,,,,"",""
+ball,2,11.4,Kathmandu Gurkhas,SS Eskinazi,Rashid Khan,Rohan Mustafa,4,0,,,,,,"",""
+ball,2,11.5,Kathmandu Gurkhas,SS Eskinazi,Rashid Khan,Rohan Mustafa,1,0,,,,,,"",""
+ball,2,11.6,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,Rohan Mustafa,1,0,,,,,,"",""
+ball,2,12.1,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,12.2,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,12.3,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,12.4,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,12.5,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,12.6,Kathmandu Gurkhas,Rashid Khan,SS Eskinazi,A Bohara,0,0,,,,,,"",""
+ball,2,13.1,Kathmandu Gurkhas,SS Eskinazi,Rashid Khan,N Saud,0,0,,,,,,caught,SS Eskinazi
+ball,2,13.2,Kathmandu Gurkhas,P Shrestha,Rashid Khan,N Saud,0,0,,,,,,"",""
+ball,2,13.3,Kathmandu Gurkhas,P Shrestha,Rashid Khan,N Saud,1,0,,,,,,"",""
+ball,2,13.4,Kathmandu Gurkhas,Rashid Khan,P Shrestha,N Saud,0,0,,,,,,caught,Rashid Khan
+ball,2,13.5,Kathmandu Gurkhas,Karan KC,P Shrestha,N Saud,0,0,,,,,,"",""
+ball,2,13.6,Kathmandu Gurkhas,Karan KC,P Shrestha,N Saud,0,0,,,,,,"",""
+ball,2,14.1,Kathmandu Gurkhas,P Shrestha,Karan KC,A Bohara,0,0,,,,,,"",""
+ball,2,14.2,Kathmandu Gurkhas,P Shrestha,Karan KC,A Bohara,6,0,,,,,,"",""
+ball,2,14.3,Kathmandu Gurkhas,P Shrestha,Karan KC,A Bohara,1,0,,,,,,"",""
+ball,2,14.4,Kathmandu Gurkhas,Karan KC,P Shrestha,A Bohara,0,0,,,,,,"",""
+ball,2,14.5,Kathmandu Gurkhas,Karan KC,P Shrestha,A Bohara,1,0,,,,,,"",""
+ball,2,14.6,Kathmandu Gurkhas,P Shrestha,Karan KC,A Bohara,0,1,1,,,,,"",""
+ball,2,14.7,Kathmandu Gurkhas,P Shrestha,Karan KC,A Bohara,0,0,,,,,,bowled,P Shrestha
+ball,2,15.1,Kathmandu Gurkhas,Karan KC,NA Sowter,N Saud,0,0,,,,,,caught,Karan KC
+ball,2,15.2,Kathmandu Gurkhas,Shahab Alam,NA Sowter,N Saud,1,0,,,,,,"",""
+ball,2,15.3,Kathmandu Gurkhas,NA Sowter,Shahab Alam,N Saud,1,0,,,,,,"",""
+ball,2,15.4,Kathmandu Gurkhas,Shahab Alam,NA Sowter,N Saud,0,0,,,,,,"",""
+ball,2,15.5,Kathmandu Gurkhas,Shahab Alam,NA Sowter,N Saud,0,0,,,,,,caught,Shahab Alam

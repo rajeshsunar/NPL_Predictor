@@ -1,0 +1,308 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Biratnagar Kings
+info,team,Lumbini Lions
+info,gender,male
+info,season,2025/26
+info,date,2025/12/03
+info,event,Nepal Premier League
+info,match_number,22
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Lumbini Lions
+info,toss_decision,field
+info,player_of_match,S Malla
+info,umpire,RMPJ Rambukwella
+info,umpire,RR Wimalasiri
+info,reserve_umpire,RC Pandey
+info,tv_umpire,LE Hannibal
+info,match_referee,M Nayyar
+info,winner,Lumbini Lions
+info,winner_wickets,5
+info,player,Biratnagar Kings,HG Munsey
+info,player,Biratnagar Kings,F du Plessis
+info,player,Biratnagar Kings,Lokesh Bam
+info,player,Biratnagar Kings,SD Heazlett
+info,player,Biratnagar Kings,N Joshi
+info,player,Biratnagar Kings,Basir Ahamad
+info,player,Biratnagar Kings,Pratis GC
+info,player,Biratnagar Kings,M de Lange
+info,player,Biratnagar Kings,S Patel
+info,player,Biratnagar Kings,S Lamichhane
+info,player,Biratnagar Kings,Subash Bhandari
+info,player,Lumbini Lions,DJM Short
+info,player,Lumbini Lions,S Maharjan
+info,player,Lumbini Lions,RK Paudel
+info,player,Lumbini Lions,S Jora
+info,player,Lumbini Lions,N Dickwella
+info,player,Lumbini Lions,D Nath
+info,player,Lumbini Lions,S Malla
+info,player,Lumbini Lions,R Trumpelmann
+info,player,Lumbini Lions,JJ Smit
+info,player,Lumbini Lions,TR Bhandari
+info,player,Lumbini Lions,Abhishesh Gautam
+info,registry,people,Abhishesh Gautam,0baa5518
+info,registry,people,Basir Ahamad,218c7eab
+info,registry,people,D Nath,d019608b
+info,registry,people,DJM Short,1a156c88
+info,registry,people,F du Plessis,3355b542
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M de Lange,d4eef961
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Joshi,58c71b70
+info,registry,people,Pratis GC,c1077ba3
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RC Pandey,1b807976
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,S Maharjan,f0b3e7ee
+info,registry,people,S Malla,1daa8927
+info,registry,people,S Patel,0b74c729
+info,registry,people,SD Heazlett,e00a9155
+info,registry,people,Subash Bhandari,1519bdeb
+info,registry,people,TR Bhandari,2593c302
+ball,1,0.1,Biratnagar Kings,HG Munsey,F du Plessis,S Malla,0,0,,,,,,"",""
+ball,1,0.2,Biratnagar Kings,HG Munsey,F du Plessis,S Malla,0,0,,,,,,lbw,HG Munsey
+ball,1,0.3,Biratnagar Kings,Lokesh Bam,F du Plessis,S Malla,0,0,,,,,,"",""
+ball,1,0.4,Biratnagar Kings,Lokesh Bam,F du Plessis,S Malla,1,0,,,,,,"",""
+ball,1,0.5,Biratnagar Kings,F du Plessis,Lokesh Bam,S Malla,1,0,,,,,,"",""
+ball,1,0.6,Biratnagar Kings,Lokesh Bam,F du Plessis,S Malla,0,0,,,,,,"",""
+ball,1,1.1,Biratnagar Kings,F du Plessis,Lokesh Bam,JJ Smit,1,0,,,,,,"",""
+ball,1,1.2,Biratnagar Kings,Lokesh Bam,F du Plessis,JJ Smit,0,0,,,,,,"",""
+ball,1,1.3,Biratnagar Kings,Lokesh Bam,F du Plessis,JJ Smit,1,0,,,,,,"",""
+ball,1,1.4,Biratnagar Kings,F du Plessis,Lokesh Bam,JJ Smit,0,0,,,,,,"",""
+ball,1,1.5,Biratnagar Kings,F du Plessis,Lokesh Bam,JJ Smit,4,0,,,,,,"",""
+ball,1,1.6,Biratnagar Kings,F du Plessis,Lokesh Bam,JJ Smit,1,0,,,,,,"",""
+ball,1,2.1,Biratnagar Kings,F du Plessis,Lokesh Bam,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,2.2,Biratnagar Kings,F du Plessis,Lokesh Bam,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.3,Biratnagar Kings,F du Plessis,Lokesh Bam,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,2.4,Biratnagar Kings,Lokesh Bam,F du Plessis,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.5,Biratnagar Kings,Lokesh Bam,F du Plessis,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,2.6,Biratnagar Kings,F du Plessis,Lokesh Bam,Abhishesh Gautam,0,0,,,,,,stumped,F du Plessis
+ball,1,3.1,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,0,,,,,,"",""
+ball,1,3.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,0,,,,,,"",""
+ball,1,3.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,0,,,,,,"",""
+ball,1,3.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,1,0,,,,,,"",""
+ball,1,3.5,Biratnagar Kings,SD Heazlett,Lokesh Bam,R Trumpelmann,4,0,,,,,,"",""
+ball,1,3.6,Biratnagar Kings,SD Heazlett,Lokesh Bam,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.1,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.5,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.6,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,5.1,Biratnagar Kings,Lokesh Bam,SD Heazlett,S Malla,4,0,,,,,,"",""
+ball,1,5.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,S Malla,6,0,,,,,,"",""
+ball,1,5.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,S Malla,1,0,,,,,,"",""
+ball,1,5.4,Biratnagar Kings,SD Heazlett,Lokesh Bam,S Malla,1,0,,,,,,"",""
+ball,1,5.5,Biratnagar Kings,Lokesh Bam,SD Heazlett,S Malla,1,0,,,,,,"",""
+ball,1,5.6,Biratnagar Kings,SD Heazlett,Lokesh Bam,S Malla,0,0,,,,,,"",""
+ball,1,6.1,Biratnagar Kings,Lokesh Bam,SD Heazlett,TR Bhandari,0,0,,,,,,"",""
+ball,1,6.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.3,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.5,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.6,Biratnagar Kings,Lokesh Bam,SD Heazlett,TR Bhandari,0,0,,,,,,"",""
+ball,1,7.1,Biratnagar Kings,SD Heazlett,Lokesh Bam,DJM Short,1,0,,,,,,"",""
+ball,1,7.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,DJM Short,6,0,,,,,,"",""
+ball,1,7.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,DJM Short,0,0,,,,,,"",""
+ball,1,7.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,DJM Short,0,0,,,,,,"",""
+ball,1,7.5,Biratnagar Kings,Lokesh Bam,SD Heazlett,DJM Short,1,0,,,,,,"",""
+ball,1,7.6,Biratnagar Kings,SD Heazlett,Lokesh Bam,DJM Short,1,0,,,,,,"",""
+ball,1,8.1,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,6,0,,,,,,"",""
+ball,1,8.2,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,1,0,,,,,,"",""
+ball,1,8.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,TR Bhandari,1,0,,,,,,"",""
+ball,1,8.4,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,0,0,,,,,,"",""
+ball,1,8.5,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,0,0,,,,,,"",""
+ball,1,8.6,Biratnagar Kings,SD Heazlett,Lokesh Bam,TR Bhandari,1,0,,,,,,"",""
+ball,1,9.1,Biratnagar Kings,SD Heazlett,Lokesh Bam,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.2,Biratnagar Kings,SD Heazlett,Lokesh Bam,R Trumpelmann,1,0,,,,,,"",""
+ball,1,9.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.5,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,0,,,,,,"",""
+ball,1,9.6,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,9.7,Biratnagar Kings,Lokesh Bam,SD Heazlett,R Trumpelmann,1,0,,,,,,"",""
+ball,1,10.1,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,2,0,,,,,,"",""
+ball,1,10.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,10.3,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,1,1,,,,,"",""
+ball,1,10.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,10.5,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,10.6,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,10.7,Biratnagar Kings,Lokesh Bam,SD Heazlett,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,11.1,Biratnagar Kings,SD Heazlett,Lokesh Bam,JJ Smit,1,0,,,,,,"",""
+ball,1,11.2,Biratnagar Kings,Lokesh Bam,SD Heazlett,JJ Smit,1,0,,,,,,"",""
+ball,1,11.3,Biratnagar Kings,SD Heazlett,Lokesh Bam,JJ Smit,1,0,,,,,,"",""
+ball,1,11.4,Biratnagar Kings,Lokesh Bam,SD Heazlett,JJ Smit,0,1,1,,,,,"",""
+ball,1,11.5,Biratnagar Kings,Lokesh Bam,SD Heazlett,JJ Smit,0,0,,,,,,caught and bowled,Lokesh Bam
+ball,1,11.6,Biratnagar Kings,N Joshi,SD Heazlett,JJ Smit,1,0,,,,,,"",""
+ball,1,11.7,Biratnagar Kings,SD Heazlett,N Joshi,JJ Smit,6,0,,,,,,"",""
+ball,1,12.1,Biratnagar Kings,N Joshi,SD Heazlett,TR Bhandari,0,0,,,,,,"",""
+ball,1,12.2,Biratnagar Kings,N Joshi,SD Heazlett,TR Bhandari,1,0,,,,,,"",""
+ball,1,12.3,Biratnagar Kings,SD Heazlett,N Joshi,TR Bhandari,1,0,,,,,,"",""
+ball,1,12.4,Biratnagar Kings,N Joshi,SD Heazlett,TR Bhandari,0,0,,,,,,"",""
+ball,1,12.5,Biratnagar Kings,N Joshi,SD Heazlett,TR Bhandari,2,0,,,,,,"",""
+ball,1,12.6,Biratnagar Kings,N Joshi,SD Heazlett,TR Bhandari,1,0,,,,,,"",""
+ball,1,13.1,Biratnagar Kings,N Joshi,SD Heazlett,S Malla,0,0,,,,,,lbw,N Joshi
+ball,1,13.2,Biratnagar Kings,Basir Ahamad,SD Heazlett,S Malla,1,0,,,,,,"",""
+ball,1,13.3,Biratnagar Kings,SD Heazlett,Basir Ahamad,S Malla,0,0,,,,,,caught,SD Heazlett
+ball,1,13.4,Biratnagar Kings,Pratis GC,Basir Ahamad,S Malla,1,0,,,,,,"",""
+ball,1,13.5,Biratnagar Kings,Basir Ahamad,Pratis GC,S Malla,1,0,,,,,,"",""
+ball,1,13.6,Biratnagar Kings,Pratis GC,Basir Ahamad,S Malla,2,0,,,,,,"",""
+ball,1,14.1,Biratnagar Kings,Basir Ahamad,Pratis GC,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.2,Biratnagar Kings,Pratis GC,Basir Ahamad,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.3,Biratnagar Kings,Basir Ahamad,Pratis GC,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.4,Biratnagar Kings,Pratis GC,Basir Ahamad,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.5,Biratnagar Kings,Basir Ahamad,Pratis GC,Abhishesh Gautam,0,1,,,,1,,"",""
+ball,1,14.6,Biratnagar Kings,Pratis GC,Basir Ahamad,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,15.1,Biratnagar Kings,Basir Ahamad,Pratis GC,S Malla,1,0,,,,,,"",""
+ball,1,15.2,Biratnagar Kings,Pratis GC,Basir Ahamad,S Malla,0,1,,,1,,,"",""
+ball,1,15.3,Biratnagar Kings,Basir Ahamad,Pratis GC,S Malla,2,0,,,,,,"",""
+ball,1,15.4,Biratnagar Kings,Basir Ahamad,Pratis GC,S Malla,1,0,,,,,,"",""
+ball,1,15.5,Biratnagar Kings,Pratis GC,Basir Ahamad,S Malla,0,0,,,,,,"",""
+ball,1,15.6,Biratnagar Kings,Pratis GC,Basir Ahamad,S Malla,1,0,,,,,,"",""
+ball,1,16.1,Biratnagar Kings,Pratis GC,Basir Ahamad,TR Bhandari,0,1,1,,,,,"",""
+ball,1,16.2,Biratnagar Kings,Pratis GC,Basir Ahamad,TR Bhandari,1,0,,,,,,"",""
+ball,1,16.3,Biratnagar Kings,Basir Ahamad,Pratis GC,TR Bhandari,1,0,,,,,,run out,Pratis GC
+ball,1,16.4,Biratnagar Kings,Basir Ahamad,M de Lange,TR Bhandari,1,0,,,,,,"",""
+ball,1,16.5,Biratnagar Kings,M de Lange,Basir Ahamad,TR Bhandari,4,0,,,,,,"",""
+ball,1,16.6,Biratnagar Kings,M de Lange,Basir Ahamad,TR Bhandari,1,0,,,,,,"",""
+ball,1,16.7,Biratnagar Kings,Basir Ahamad,M de Lange,TR Bhandari,1,0,,,,,,"",""
+ball,1,17.1,Biratnagar Kings,Basir Ahamad,M de Lange,R Trumpelmann,1,0,,,,,,"",""
+ball,1,17.2,Biratnagar Kings,M de Lange,Basir Ahamad,R Trumpelmann,1,0,,,,,,"",""
+ball,1,17.3,Biratnagar Kings,Basir Ahamad,M de Lange,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,17.4,Biratnagar Kings,Basir Ahamad,M de Lange,R Trumpelmann,1,0,,,,,,"",""
+ball,1,17.5,Biratnagar Kings,M de Lange,Basir Ahamad,R Trumpelmann,2,0,,,,,,"",""
+ball,1,17.6,Biratnagar Kings,M de Lange,Basir Ahamad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,17.7,Biratnagar Kings,M de Lange,Basir Ahamad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,18.1,Biratnagar Kings,Basir Ahamad,M de Lange,JJ Smit,2,0,,,,,,"",""
+ball,1,18.2,Biratnagar Kings,Basir Ahamad,M de Lange,JJ Smit,2,0,,,,,,"",""
+ball,1,18.3,Biratnagar Kings,Basir Ahamad,M de Lange,JJ Smit,6,0,,,,,,"",""
+ball,1,18.4,Biratnagar Kings,Basir Ahamad,M de Lange,JJ Smit,4,0,,,,,,"",""
+ball,1,18.5,Biratnagar Kings,Basir Ahamad,M de Lange,JJ Smit,1,0,,,,,,"",""
+ball,1,18.6,Biratnagar Kings,M de Lange,Basir Ahamad,JJ Smit,1,0,,,,,,"",""
+ball,1,19.1,Biratnagar Kings,M de Lange,Basir Ahamad,R Trumpelmann,1,0,,,,,,"",""
+ball,1,19.2,Biratnagar Kings,Basir Ahamad,M de Lange,R Trumpelmann,0,0,,,,,,caught,Basir Ahamad
+ball,1,19.3,Biratnagar Kings,S Patel,M de Lange,R Trumpelmann,0,0,,,,,,"",""
+ball,1,19.4,Biratnagar Kings,S Patel,M de Lange,R Trumpelmann,2,0,,,,,,"",""
+ball,1,19.5,Biratnagar Kings,S Patel,M de Lange,R Trumpelmann,1,0,,,,,,run out,S Patel
+ball,1,19.6,Biratnagar Kings,S Lamichhane,M de Lange,R Trumpelmann,6,0,,,,,,"",""
+ball,2,0.1,Lumbini Lions,DJM Short,S Maharjan,M de Lange,0,0,,,,,,"",""
+ball,2,0.2,Lumbini Lions,DJM Short,S Maharjan,M de Lange,0,0,,,,,,"",""
+ball,2,0.3,Lumbini Lions,DJM Short,S Maharjan,M de Lange,0,1,1,,,,,"",""
+ball,2,0.4,Lumbini Lions,DJM Short,S Maharjan,M de Lange,0,0,,,,,,"",""
+ball,2,0.5,Lumbini Lions,DJM Short,S Maharjan,M de Lange,2,0,,,,,,"",""
+ball,2,0.6,Lumbini Lions,DJM Short,S Maharjan,M de Lange,1,0,,,,,,"",""
+ball,2,0.7,Lumbini Lions,S Maharjan,DJM Short,M de Lange,1,0,,,,,,"",""
+ball,2,1.1,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,1,0,,,,,,"",""
+ball,2,1.2,Lumbini Lions,DJM Short,S Maharjan,Pratis GC,1,0,,,,,,"",""
+ball,2,1.3,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,0,0,,,,,,"",""
+ball,2,1.4,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,0,0,,,,,,"",""
+ball,2,1.5,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,1,0,,,,,,"",""
+ball,2,1.6,Lumbini Lions,DJM Short,S Maharjan,Pratis GC,0,0,,,,,,"",""
+ball,2,2.1,Lumbini Lions,S Maharjan,DJM Short,M de Lange,4,0,,,,,,"",""
+ball,2,2.2,Lumbini Lions,S Maharjan,DJM Short,M de Lange,1,0,,,,,,"",""
+ball,2,2.3,Lumbini Lions,DJM Short,S Maharjan,M de Lange,0,0,,,,,,"",""
+ball,2,2.4,Lumbini Lions,DJM Short,S Maharjan,M de Lange,1,0,,,,,,"",""
+ball,2,2.5,Lumbini Lions,S Maharjan,DJM Short,M de Lange,1,0,,,,,,"",""
+ball,2,2.6,Lumbini Lions,DJM Short,S Maharjan,M de Lange,4,0,,,,,,"",""
+ball,2,3.1,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,0,1,1,,,,,"",""
+ball,2,3.2,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,0,0,,,,,,"",""
+ball,2,3.3,Lumbini Lions,S Maharjan,DJM Short,Pratis GC,1,0,,,,,,"",""
+ball,2,3.4,Lumbini Lions,DJM Short,S Maharjan,Pratis GC,0,0,,,,,,"",""
+ball,2,3.5,Lumbini Lions,DJM Short,S Maharjan,Pratis GC,4,0,,,,,,"",""
+ball,2,3.6,Lumbini Lions,DJM Short,S Maharjan,Pratis GC,0,0,,,,,,"",""
+ball,2,3.7,Lumbini Lions,DJM Short,S Maharjan,Pratis GC,4,0,,,,,,"",""
+ball,2,4.1,Lumbini Lions,S Maharjan,DJM Short,Subash Bhandari,0,0,,,,,,stumped,S Maharjan
+ball,2,4.2,Lumbini Lions,RK Paudel,DJM Short,Subash Bhandari,0,0,,,,,,"",""
+ball,2,4.3,Lumbini Lions,RK Paudel,DJM Short,Subash Bhandari,0,0,,,,,,"",""
+ball,2,4.4,Lumbini Lions,RK Paudel,DJM Short,Subash Bhandari,0,0,,,,,,caught,RK Paudel
+ball,2,4.5,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,0,0,,,,,,"",""
+ball,2,4.6,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,2,0,,,,,,"",""
+ball,2,5.1,Lumbini Lions,DJM Short,S Jora,Pratis GC,4,0,,,,,,"",""
+ball,2,5.2,Lumbini Lions,DJM Short,S Jora,Pratis GC,2,0,,,,,,"",""
+ball,2,5.3,Lumbini Lions,DJM Short,S Jora,Pratis GC,1,0,,,,,,"",""
+ball,2,5.4,Lumbini Lions,S Jora,DJM Short,Pratis GC,4,0,,,,,,"",""
+ball,2,5.5,Lumbini Lions,S Jora,DJM Short,Pratis GC,4,0,,,,,,"",""
+ball,2,5.6,Lumbini Lions,S Jora,DJM Short,Pratis GC,0,0,,,,,,"",""
+ball,2,6.1,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,0,0,,,,,,"",""
+ball,2,6.2,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,0,0,,,,,,"",""
+ball,2,6.3,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,0,0,,,,,,"",""
+ball,2,6.4,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,1,0,,,,,,"",""
+ball,2,6.5,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,1,0,,,,,,"",""
+ball,2,6.6,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,0,0,,,,,,"",""
+ball,2,7.1,Lumbini Lions,S Jora,DJM Short,S Lamichhane,0,0,,,,,,"",""
+ball,2,7.2,Lumbini Lions,S Jora,DJM Short,S Lamichhane,1,0,,,,,,"",""
+ball,2,7.3,Lumbini Lions,DJM Short,S Jora,S Lamichhane,1,0,,,,,,"",""
+ball,2,7.4,Lumbini Lions,S Jora,DJM Short,S Lamichhane,0,0,,,,,,"",""
+ball,2,7.5,Lumbini Lions,S Jora,DJM Short,S Lamichhane,1,0,,,,,,"",""
+ball,2,7.6,Lumbini Lions,DJM Short,S Jora,S Lamichhane,1,0,,,,,,"",""
+ball,2,8.1,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,1,0,,,,,,"",""
+ball,2,8.2,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,4,0,,,,,,"",""
+ball,2,8.3,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,1,0,,,,,,"",""
+ball,2,8.4,Lumbini Lions,DJM Short,S Jora,Subash Bhandari,1,0,,,,,,"",""
+ball,2,8.5,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,6,0,,,,,,"",""
+ball,2,8.6,Lumbini Lions,S Jora,DJM Short,Subash Bhandari,0,0,,,,,,"",""
+ball,2,9.1,Lumbini Lions,DJM Short,S Jora,S Lamichhane,1,0,,,,,,"",""
+ball,2,9.2,Lumbini Lions,S Jora,DJM Short,S Lamichhane,0,0,,,,,,lbw,S Jora
+ball,2,9.3,Lumbini Lions,N Dickwella,DJM Short,S Lamichhane,0,1,1,,,,,"",""
+ball,2,9.4,Lumbini Lions,N Dickwella,DJM Short,S Lamichhane,1,0,,,,,,"",""
+ball,2,9.5,Lumbini Lions,DJM Short,N Dickwella,S Lamichhane,0,0,,,,,,"",""
+ball,2,9.6,Lumbini Lions,DJM Short,N Dickwella,S Lamichhane,0,0,,,,,,"",""
+ball,2,9.7,Lumbini Lions,DJM Short,N Dickwella,S Lamichhane,1,0,,,,,,"",""
+ball,2,10.1,Lumbini Lions,DJM Short,N Dickwella,Subash Bhandari,1,0,,,,,,"",""
+ball,2,10.2,Lumbini Lions,N Dickwella,DJM Short,Subash Bhandari,1,0,,,,,,"",""
+ball,2,10.3,Lumbini Lions,DJM Short,N Dickwella,Subash Bhandari,1,0,,,,,,"",""
+ball,2,10.4,Lumbini Lions,N Dickwella,DJM Short,Subash Bhandari,0,0,,,,,,"",""
+ball,2,10.5,Lumbini Lions,N Dickwella,DJM Short,Subash Bhandari,4,0,,,,,,"",""
+ball,2,10.6,Lumbini Lions,N Dickwella,DJM Short,Subash Bhandari,6,0,,,,,,"",""
+ball,2,11.1,Lumbini Lions,DJM Short,N Dickwella,N Joshi,0,0,,,,,,"",""
+ball,2,11.2,Lumbini Lions,DJM Short,N Dickwella,N Joshi,0,0,,,,,,"",""
+ball,2,11.3,Lumbini Lions,DJM Short,N Dickwella,N Joshi,1,0,,,,,,"",""
+ball,2,11.4,Lumbini Lions,N Dickwella,DJM Short,N Joshi,1,0,,,,,,"",""
+ball,2,11.5,Lumbini Lions,DJM Short,N Dickwella,N Joshi,6,1,,1,,,,"",""
+ball,2,11.6,Lumbini Lions,DJM Short,N Dickwella,N Joshi,6,0,,,,,,"",""
+ball,2,11.7,Lumbini Lions,DJM Short,N Dickwella,N Joshi,1,0,,,,,,"",""
+ball,2,12.1,Lumbini Lions,DJM Short,N Dickwella,M de Lange,4,0,,,,,,"",""
+ball,2,12.2,Lumbini Lions,DJM Short,N Dickwella,M de Lange,4,0,,,,,,"",""
+ball,2,12.3,Lumbini Lions,DJM Short,N Dickwella,M de Lange,0,0,,,,,,"",""
+ball,2,12.4,Lumbini Lions,DJM Short,N Dickwella,M de Lange,1,0,,,,,,"",""
+ball,2,12.5,Lumbini Lions,N Dickwella,DJM Short,M de Lange,1,0,,,,,,"",""
+ball,2,12.6,Lumbini Lions,DJM Short,N Dickwella,M de Lange,1,1,,1,,,,"",""
+ball,2,12.7,Lumbini Lions,N Dickwella,DJM Short,M de Lange,0,1,,,1,,,"",""
+ball,2,13.1,Lumbini Lions,N Dickwella,DJM Short,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.2,Lumbini Lions,DJM Short,N Dickwella,S Lamichhane,0,0,,,,,,caught,DJM Short
+ball,2,13.3,Lumbini Lions,D Nath,N Dickwella,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.4,Lumbini Lions,N Dickwella,D Nath,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.5,Lumbini Lions,D Nath,N Dickwella,S Lamichhane,1,0,,,,,,"",""
+ball,2,13.6,Lumbini Lions,N Dickwella,D Nath,S Lamichhane,0,0,,,,,,"",""
+ball,2,14.1,Lumbini Lions,D Nath,N Dickwella,HG Munsey,1,0,,,,,,"",""
+ball,2,14.2,Lumbini Lions,N Dickwella,D Nath,HG Munsey,2,0,,,,,,"",""
+ball,2,14.3,Lumbini Lions,N Dickwella,D Nath,HG Munsey,4,0,,,,,,"",""
+ball,2,14.4,Lumbini Lions,N Dickwella,D Nath,HG Munsey,0,0,,,,,,"",""
+ball,2,14.5,Lumbini Lions,N Dickwella,D Nath,HG Munsey,1,0,,,,,,"",""
+ball,2,14.6,Lumbini Lions,D Nath,N Dickwella,HG Munsey,1,0,,,,,,"",""
+ball,2,15.1,Lumbini Lions,D Nath,N Dickwella,S Lamichhane,4,0,,,,,,"",""
+ball,2,15.2,Lumbini Lions,D Nath,N Dickwella,S Lamichhane,1,0,,,,,,"",""
+ball,2,15.3,Lumbini Lions,N Dickwella,D Nath,S Lamichhane,0,1,1,,,,,"",""
+ball,2,15.4,Lumbini Lions,N Dickwella,D Nath,S Lamichhane,0,0,,,,,,"",""
+ball,2,15.5,Lumbini Lions,N Dickwella,D Nath,S Lamichhane,1,0,,,,,,"",""
+ball,2,15.6,Lumbini Lions,D Nath,N Dickwella,S Lamichhane,1,0,,,,,,"",""
+ball,2,15.7,Lumbini Lions,N Dickwella,D Nath,S Lamichhane,0,0,,,,,,"",""
+ball,2,16.1,Lumbini Lions,D Nath,N Dickwella,M de Lange,1,0,,,,,,"",""
+ball,2,16.2,Lumbini Lions,N Dickwella,D Nath,M de Lange,1,0,,,,,,"",""
+ball,2,16.3,Lumbini Lions,D Nath,N Dickwella,M de Lange,0,0,,,,,,"",""
+ball,2,16.4,Lumbini Lions,D Nath,N Dickwella,M de Lange,1,0,,,,,,"",""
+ball,2,16.5,Lumbini Lions,N Dickwella,D Nath,M de Lange,2,0,,,,,,"",""
+ball,2,16.6,Lumbini Lions,N Dickwella,D Nath,M de Lange,1,0,,,,,,"",""
+ball,2,17.1,Lumbini Lions,N Dickwella,D Nath,Basir Ahamad,1,0,,,,,,"",""
+ball,2,17.2,Lumbini Lions,D Nath,N Dickwella,Basir Ahamad,4,0,,,,,,"",""
+ball,2,17.3,Lumbini Lions,D Nath,N Dickwella,Basir Ahamad,0,0,,,,,,caught,D Nath
+ball,2,17.4,Lumbini Lions,S Malla,N Dickwella,Basir Ahamad,1,0,,,,,,"",""
+ball,2,17.5,Lumbini Lions,N Dickwella,S Malla,Basir Ahamad,0,1,1,,,,,"",""

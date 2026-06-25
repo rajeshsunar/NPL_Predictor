@@ -1,0 +1,299 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Janakpur Bolts
+info,team,Kathmandu Gorkhas
+info,gender,male
+info,season,2025/26
+info,date,2025/11/17
+info,event,Nepal Premier League
+info,match_number,1
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Kathmandu Gorkhas
+info,toss_decision,field
+info,player_of_match,Milind Kumar
+info,umpire,BB Pradhan
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Kamalesh Thakur
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,Mohammed Shafique
+info,winner,Kathmandu Gorkhas
+info,winner_wickets,5
+info,player,Janakpur Bolts,BKEL Milantha
+info,player,Janakpur Bolts,Aasif Sheikh
+info,player,Janakpur Bolts,AK Sah
+info,player,Janakpur Bolts,JN Loftie-Eaton
+info,player,Janakpur Bolts,SP Krishnamurthi
+info,player,Janakpur Bolts,Mayan Yadav
+info,player,Janakpur Bolts,SMLD Samarakoon
+info,player,Janakpur Bolts,Rupesh Singh
+info,player,Janakpur Bolts,B Aagri
+info,player,Janakpur Bolts,K Mahato
+info,player,Janakpur Bolts,LN Rajbanshi
+info,player,Kathmandu Gorkhas,A Tripathi
+info,player,Kathmandu Gorkhas,BG Charlesworth
+info,player,Kathmandu Gorkhas,B Sharki
+info,player,Kathmandu Gorkhas,Milind Kumar
+info,player,Kathmandu Gorkhas,JA Simpson
+info,player,Kathmandu Gorkhas,MG Erasmus
+info,player,Kathmandu Gorkhas,Mohammad Aadil Alam
+info,player,Kathmandu Gorkhas,Rashid Khan
+info,player,Kathmandu Gorkhas,Santosh Yadav
+info,player,Kathmandu Gorkhas,Shahab Alam
+info,player,Kathmandu Gorkhas,Karan KC
+info,registry,people,A Tripathi,cbba9e4e
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,B Aagri,179f9589
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BKEL Milantha,dcabd6bc
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,K Mahato,d913103d
+info,registry,people,Kamalesh Thakur,6926399e
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Mayan Yadav,c6355538
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Aadil Alam,70ced7f2
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rashid Khan,69cccff3
+info,registry,people,Rupesh Singh,30b93df1
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,Santosh Yadav,ef342bdb
+info,registry,people,Shahab Alam,cdd9fa95
+ball,1,0.1,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,0,4,,,,4,,"",""
+ball,1,0.2,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,0,0,,,,,,"",""
+ball,1,0.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,1,0,,,,,,"",""
+ball,1,0.4,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Karan KC,0,0,,,,,,"",""
+ball,1,0.5,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Karan KC,1,0,,,,,,"",""
+ball,1,0.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,4,0,,,,,,"",""
+ball,1,1.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Rashid Khan,4,0,,,,,,"",""
+ball,1,1.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Rashid Khan,6,0,,,,,,"",""
+ball,1,1.3,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Rashid Khan,0,0,,,,,,"",""
+ball,1,1.4,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Rashid Khan,2,0,,,,,,"",""
+ball,1,1.5,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Rashid Khan,0,0,,,,,,"",""
+ball,1,1.6,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Rashid Khan,4,0,,,,,,"",""
+ball,1,2.1,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Milind Kumar,1,0,,,,,,"",""
+ball,1,2.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Milind Kumar,1,0,,,,,,"",""
+ball,1,2.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,2.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Milind Kumar,1,0,,,,,,"",""
+ball,1,2.5,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Milind Kumar,2,0,,,,,,"",""
+ball,1,2.6,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Milind Kumar,1,0,,,,,,"",""
+ball,1,3.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Karan KC,0,0,,,,,,"",""
+ball,1,3.2,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Karan KC,0,0,,,,,,"",""
+ball,1,3.3,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Karan KC,1,0,,,,,,"",""
+ball,1,3.4,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,0,0,,,,,,"",""
+ball,1,3.5,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,0,0,,,,,,"",""
+ball,1,3.6,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Karan KC,0,0,,,,,,"",""
+ball,1,4.1,Janakpur Bolts,Aasif Sheikh,BKEL Milantha,Milind Kumar,1,0,,,,,,"",""
+ball,1,4.2,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,4.3,Janakpur Bolts,BKEL Milantha,Aasif Sheikh,Milind Kumar,0,0,,,,,,caught,BKEL Milantha
+ball,1,4.4,Janakpur Bolts,AK Sah,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,4.5,Janakpur Bolts,AK Sah,Aasif Sheikh,Milind Kumar,0,0,,,,,,caught,AK Sah
+ball,1,4.6,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,5.1,Janakpur Bolts,Aasif Sheikh,JN Loftie-Eaton,MG Erasmus,0,0,,,,,,"",""
+ball,1,5.2,Janakpur Bolts,Aasif Sheikh,JN Loftie-Eaton,MG Erasmus,1,0,,,,,,"",""
+ball,1,5.3,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,MG Erasmus,0,0,,,,,,"",""
+ball,1,5.4,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,MG Erasmus,1,0,,,,,,"",""
+ball,1,5.5,Janakpur Bolts,Aasif Sheikh,JN Loftie-Eaton,MG Erasmus,4,0,,,,,,"",""
+ball,1,5.6,Janakpur Bolts,Aasif Sheikh,JN Loftie-Eaton,MG Erasmus,0,0,,,,,,"",""
+ball,1,6.1,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,Milind Kumar,1,0,,,,,,"",""
+ball,1,6.2,Janakpur Bolts,Aasif Sheikh,JN Loftie-Eaton,Milind Kumar,1,0,,,,,,"",""
+ball,1,6.3,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,6.4,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,6.5,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,Milind Kumar,0,0,,,,,,"",""
+ball,1,6.6,Janakpur Bolts,JN Loftie-Eaton,Aasif Sheikh,Milind Kumar,0,0,,,,,,bowled,JN Loftie-Eaton
+ball,1,7.1,Janakpur Bolts,Aasif Sheikh,SP Krishnamurthi,Shahab Alam,1,0,,,,,,"",""
+ball,1,7.2,Janakpur Bolts,SP Krishnamurthi,Aasif Sheikh,Shahab Alam,0,0,,,,,,"",""
+ball,1,7.3,Janakpur Bolts,SP Krishnamurthi,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,7.4,Janakpur Bolts,Aasif Sheikh,SP Krishnamurthi,Shahab Alam,0,0,,,,,,"",""
+ball,1,7.5,Janakpur Bolts,Aasif Sheikh,SP Krishnamurthi,Shahab Alam,1,0,,,,,,"",""
+ball,1,7.6,Janakpur Bolts,SP Krishnamurthi,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,8.1,Janakpur Bolts,SP Krishnamurthi,Aasif Sheikh,Santosh Yadav,0,0,,,,,,"",""
+ball,1,8.2,Janakpur Bolts,SP Krishnamurthi,Aasif Sheikh,Santosh Yadav,0,0,,,,,,"",""
+ball,1,8.3,Janakpur Bolts,SP Krishnamurthi,Aasif Sheikh,Santosh Yadav,0,0,,,,,,bowled,SP Krishnamurthi
+ball,1,8.4,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Santosh Yadav,1,0,,,,,,"",""
+ball,1,8.5,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,4,0,,,,,,"",""
+ball,1,8.6,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,0,0,,,,,,"",""
+ball,1,9.1,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,0,0,,,,,,"",""
+ball,1,9.2,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,0,0,,,,,,"",""
+ball,1,9.3,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,9.4,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,2,0,,,,,,"",""
+ball,1,9.5,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,1,0,,,,,,"",""
+ball,1,9.6,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,10.1,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Santosh Yadav,1,0,,,,,,"",""
+ball,1,10.2,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,0,0,,,,,,"",""
+ball,1,10.3,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,4,0,,,,,,"",""
+ball,1,10.4,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,0,0,,,,,,"",""
+ball,1,10.5,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,0,0,,,,,,"",""
+ball,1,10.6,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,1,0,,,,,,"",""
+ball,1,11.1,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,1,0,,,,,,"",""
+ball,1,11.2,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,11.3,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,4,0,,,,,,"",""
+ball,1,11.4,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,1,0,,,,,,"",""
+ball,1,11.5,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,11.6,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,0,0,,,,,,"",""
+ball,1,12.1,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Santosh Yadav,0,0,,,,,,"",""
+ball,1,12.2,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Santosh Yadav,1,0,,,,,,"",""
+ball,1,12.3,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,2,0,,,,,,"",""
+ball,1,12.4,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,1,0,,,,,,"",""
+ball,1,12.5,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Santosh Yadav,1,0,,,,,,"",""
+ball,1,12.6,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Santosh Yadav,1,0,,,,,,"",""
+ball,1,13.1,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,1,0,,,,,,"",""
+ball,1,13.2,Janakpur Bolts,Mayan Yadav,Aasif Sheikh,Shahab Alam,1,0,,,,,,"",""
+ball,1,13.3,Janakpur Bolts,Aasif Sheikh,Mayan Yadav,Shahab Alam,0,0,,,,,,stumped,Aasif Sheikh
+ball,1,13.4,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Shahab Alam,0,0,,,,,,"",""
+ball,1,13.5,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Shahab Alam,1,0,,,,,,"",""
+ball,1,13.6,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Shahab Alam,0,0,,,,,,"",""
+ball,1,14.1,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Milind Kumar,0,0,,,,,,"",""
+ball,1,14.2,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Milind Kumar,1,0,,,,,,"",""
+ball,1,14.3,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Milind Kumar,4,0,,,,,,"",""
+ball,1,14.4,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Milind Kumar,0,0,,,,,,"",""
+ball,1,14.5,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Milind Kumar,1,0,,,,,,"",""
+ball,1,14.6,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Milind Kumar,0,0,,,,,,"",""
+ball,1,15.1,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,MG Erasmus,0,0,,,,,,"",""
+ball,1,15.2,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,MG Erasmus,1,0,,,,,,"",""
+ball,1,15.3,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,0,0,,,,,,"",""
+ball,1,15.4,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,1,0,,,,,,"",""
+ball,1,15.5,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,MG Erasmus,1,0,,,,,,"",""
+ball,1,15.6,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,1,0,,,,,,"",""
+ball,1,16.1,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Karan KC,0,0,,,,,,"",""
+ball,1,16.2,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Karan KC,1,0,,,,,,"",""
+ball,1,16.3,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Karan KC,6,0,,,,,,"",""
+ball,1,16.4,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Karan KC,0,0,,,,,,"",""
+ball,1,16.5,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Karan KC,2,0,,,,,,"",""
+ball,1,16.6,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Karan KC,2,0,,,,,,"",""
+ball,1,17.1,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,2,0,,,,,,"",""
+ball,1,17.2,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,6,0,,,,,,"",""
+ball,1,17.3,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,0,0,,,,,,"",""
+ball,1,17.4,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,MG Erasmus,1,0,,,,,,"",""
+ball,1,17.5,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,MG Erasmus,4,0,,,,,,"",""
+ball,1,17.6,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,MG Erasmus,0,0,,,,,,"",""
+ball,1,18.1,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Rashid Khan,0,0,,,,,,"",""
+ball,1,18.2,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Rashid Khan,0,1,,,,1,,"",""
+ball,1,18.3,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Rashid Khan,1,0,,,,,,"",""
+ball,1,18.4,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Rashid Khan,1,0,,,,,,"",""
+ball,1,18.5,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Rashid Khan,0,0,,,,,,"",""
+ball,1,18.6,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Rashid Khan,2,0,,,,,,"",""
+ball,1,19.1,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Karan KC,6,0,,,,,,"",""
+ball,1,19.2,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Karan KC,1,0,,,,,,"",""
+ball,1,19.3,Janakpur Bolts,Mayan Yadav,SMLD Samarakoon,Karan KC,1,0,,,,,,"",""
+ball,1,19.4,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Karan KC,0,0,,,,,,"",""
+ball,1,19.5,Janakpur Bolts,SMLD Samarakoon,Mayan Yadav,Karan KC,0,0,,,,,,caught,SMLD Samarakoon
+ball,1,19.6,Janakpur Bolts,Rupesh Singh,Mayan Yadav,Karan KC,4,0,,,,,,"",""
+ball,2,0.1,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,K Mahato,4,0,,,,,,"",""
+ball,2,0.2,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,K Mahato,0,0,,,,,,"",""
+ball,2,0.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,K Mahato,0,0,,,,,,"",""
+ball,2,0.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,K Mahato,1,0,,,,,,"",""
+ball,2,0.5,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,0,1,1,,,,,"",""
+ball,2,0.6,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,0,0,,,,,,"",""
+ball,2,0.7,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,0,0,,,,,,"",""
+ball,2,1.1,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,1.2,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,1.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,4,0,,,,,,"",""
+ball,2,1.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,1.5,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,1.6,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,2.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,4,0,,,,,,"",""
+ball,2,2.2,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,0,0,,,,,,"",""
+ball,2,2.3,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,4,0,,,,,,"",""
+ball,2,2.4,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,K Mahato,1,0,,,,,,"",""
+ball,2,2.5,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,K Mahato,0,0,,,,,,"",""
+ball,2,2.6,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,K Mahato,0,0,,,,,,"",""
+ball,2,3.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,AK Sah,1,0,,,,,,"",""
+ball,2,3.2,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,3.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,4,0,,,,,,"",""
+ball,2,3.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,4,0,,,,,,"",""
+ball,2,3.5,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,1,0,,,,,,"",""
+ball,2,3.6,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,AK Sah,1,0,,,,,,"",""
+ball,2,4.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,4.2,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,4.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,4.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,4.5,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,4.6,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,5.1,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,Rupesh Singh,1,0,,,,,,"",""
+ball,2,5.2,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Rupesh Singh,0,0,,,,,,"",""
+ball,2,5.3,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Rupesh Singh,2,0,,,,,,"",""
+ball,2,5.4,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Rupesh Singh,0,0,,,,,,"",""
+ball,2,5.5,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Rupesh Singh,6,0,,,,,,"",""
+ball,2,5.6,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,Rupesh Singh,6,0,,,,,,"",""
+ball,2,6.1,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,LN Rajbanshi,0,1,,,,1,,"",""
+ball,2,6.2,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.5,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,6,0,,,,,,"",""
+ball,2,6.6,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,7.1,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,7.2,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,7.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,0,0,,,,,,"",""
+ball,2,7.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,AK Sah,1,0,,,,,,"",""
+ball,2,7.5,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,AK Sah,0,0,,,,,,"",""
+ball,2,7.6,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,AK Sah,1,0,,,,,,"",""
+ball,2,8.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,JN Loftie-Eaton,0,0,,,,,,caught and bowled,BG Charlesworth
+ball,2,8.2,Kathmandu Gorkhas,B Sharki,A Tripathi,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,8.3,Kathmandu Gorkhas,B Sharki,A Tripathi,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,8.4,Kathmandu Gorkhas,A Tripathi,B Sharki,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,8.5,Kathmandu Gorkhas,B Sharki,A Tripathi,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,8.6,Kathmandu Gorkhas,B Sharki,A Tripathi,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,9.1,Kathmandu Gorkhas,B Sharki,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,9.2,Kathmandu Gorkhas,B Sharki,A Tripathi,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.3,Kathmandu Gorkhas,A Tripathi,B Sharki,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.4,Kathmandu Gorkhas,B Sharki,A Tripathi,LN Rajbanshi,0,0,,,,,,caught,B Sharki
+ball,2,9.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,9.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,10.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,B Aagri,0,0,,,,,,"",""
+ball,2,10.2,Kathmandu Gorkhas,Milind Kumar,A Tripathi,B Aagri,2,0,,,,,,"",""
+ball,2,10.3,Kathmandu Gorkhas,Milind Kumar,A Tripathi,B Aagri,1,0,,,,,,"",""
+ball,2,10.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,B Aagri,0,0,,,,,,"",""
+ball,2,10.5,Kathmandu Gorkhas,A Tripathi,Milind Kumar,B Aagri,0,0,,,,,,"",""
+ball,2,10.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,B Aagri,2,0,,,,,,"",""
+ball,2,11.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,SMLD Samarakoon,1,0,,,,,,"",""
+ball,2,11.2,Kathmandu Gorkhas,A Tripathi,Milind Kumar,SMLD Samarakoon,2,0,,,,,,"",""
+ball,2,11.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,SMLD Samarakoon,0,0,,,,,,"",""
+ball,2,11.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,SMLD Samarakoon,1,0,,,,,,"",""
+ball,2,11.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,SMLD Samarakoon,1,0,,,,,,"",""
+ball,2,11.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,SMLD Samarakoon,1,0,,,,,,"",""
+ball,2,12.1,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,12.2,Kathmandu Gorkhas,Milind Kumar,A Tripathi,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,12.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,12.4,Kathmandu Gorkhas,Milind Kumar,A Tripathi,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,12.5,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,12.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,13.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,13.2,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,13.3,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,13.4,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,13.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,13.6,Kathmandu Gorkhas,Milind Kumar,A Tripathi,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,14.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,14.2,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,2,0,,,,,,"",""
+ball,2,14.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,4,0,,,,,,"",""
+ball,2,14.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,14.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,2,14.6,Kathmandu Gorkhas,Milind Kumar,A Tripathi,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,2,15.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,15.2,Kathmandu Gorkhas,Milind Kumar,A Tripathi,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,15.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,SP Krishnamurthi,0,0,,,,,,"",""
+ball,2,15.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,SP Krishnamurthi,0,0,,,,,,bowled,A Tripathi
+ball,2,15.5,Kathmandu Gorkhas,JA Simpson,Milind Kumar,SP Krishnamurthi,1,0,,,,,,"",""
+ball,2,15.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,SP Krishnamurthi,6,0,,,,,,"",""
+ball,2,16.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,K Mahato,6,0,,,,,,"",""
+ball,2,16.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,K Mahato,1,0,,,,,,"",""
+ball,2,16.3,Kathmandu Gorkhas,Milind Kumar,JA Simpson,K Mahato,1,0,,,,,,"",""
+ball,2,16.4,Kathmandu Gorkhas,JA Simpson,Milind Kumar,K Mahato,4,0,,,,,,"",""
+ball,2,16.5,Kathmandu Gorkhas,JA Simpson,Milind Kumar,K Mahato,1,0,,,,,,"",""
+ball,2,16.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,K Mahato,0,0,,,,,,caught,Milind Kumar
+ball,2,17.1,Kathmandu Gorkhas,JA Simpson,MG Erasmus,AK Sah,0,0,,,,,,lbw,JA Simpson
+ball,2,17.2,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,AK Sah,0,0,,,,,,"",""
+ball,2,17.3,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,AK Sah,1,0,,,,,,"",""
+ball,2,17.4,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,AK Sah,1,0,,,,,,"",""
+ball,2,17.5,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,AK Sah,6,0,,,,,,"",""
+ball,2,17.6,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,AK Sah,1,0,,,,,,"",""

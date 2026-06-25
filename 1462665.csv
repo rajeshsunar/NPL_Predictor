@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sudur Paschim Royals
+info,team,Pokhara Avengers
+info,gender,male
+info,season,2024/25
+info,date,2024/12/15
+info,event,Nepal Premier League
+info,match_number,27
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Pokhara Avengers
+info,toss_decision,field
+info,player_of_match,SC Kuggeleijn
+info,umpire,Bismillah Shinwari
+info,umpire,Rashid Riaz
+info,reserve_umpire,Kamalesh Thakur
+info,tv_umpire,Sanjay Gurung
+info,match_referee,Mohammed Shafique
+info,winner,Sudur Paschim Royals
+info,winner_runs,5
+info,player,Sudur Paschim Royals,SA Zaib
+info,player,Sudur Paschim Royals,B Bhandari
+info,player,Sudur Paschim Royals,BJ McMullen
+info,player,Sudur Paschim Royals,Harmeet Singh
+info,player,Sudur Paschim Royals,Aarif Sheikh
+info,player,Sudur Paschim Royals,DS Airee
+info,player,Sudur Paschim Royals,I Pandey
+info,player,Sudur Paschim Royals,SC Kuggeleijn
+info,player,Sudur Paschim Royals,NB Budayair
+info,player,Sudur Paschim Royals,N Saud
+info,player,Sudur Paschim Royals,A Bohara
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AGS Gous
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,D Nath
+info,player,Pokhara Avengers,Z Malik
+info,player,Pokhara Avengers,RA Reifer
+info,player,Pokhara Avengers,K Thagunna
+info,player,Pokhara Avengers,MA Leask
+info,player,Pokhara Avengers,S Aryal
+info,player,Pokhara Avengers,S Dhakal
+info,player,Pokhara Avengers,Bipin Khatri
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,B Bhandari,82342b13
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,D Nath,d019608b
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,I Pandey,ed547c49
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,Kamalesh Thakur,6926399e
+info,registry,people,MA Leask,28131839
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,N Saud,010df582
+info,registry,people,NB Budayair,9d280648
+info,registry,people,RA Reifer,d7725664
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Aryal,c1974b74
+info,registry,people,S Dhakal,8955b928
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,Sanjay Gurung,0ef792dc
+info,registry,people,Z Malik,1732cd55
+ball,1,0.1,Sudur Paschim Royals,SA Zaib,B Bhandari,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.2,Sudur Paschim Royals,SA Zaib,B Bhandari,Bipin Khatri,0,5,5,,,,,"",""
+ball,1,0.3,Sudur Paschim Royals,SA Zaib,B Bhandari,Bipin Khatri,4,0,,,,,,"",""
+ball,1,0.4,Sudur Paschim Royals,SA Zaib,B Bhandari,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.5,Sudur Paschim Royals,SA Zaib,B Bhandari,Bipin Khatri,1,0,,,,,,"",""
+ball,1,0.6,Sudur Paschim Royals,B Bhandari,SA Zaib,Bipin Khatri,1,0,,,,,,"",""
+ball,1,0.7,Sudur Paschim Royals,SA Zaib,B Bhandari,Bipin Khatri,2,0,,,,,,"",""
+ball,1,1.1,Sudur Paschim Royals,B Bhandari,SA Zaib,RA Reifer,0,0,,,,,,"",""
+ball,1,1.2,Sudur Paschim Royals,B Bhandari,SA Zaib,RA Reifer,0,1,,,,1,,"",""
+ball,1,1.3,Sudur Paschim Royals,SA Zaib,B Bhandari,RA Reifer,0,0,,,,,,"",""
+ball,1,1.4,Sudur Paschim Royals,SA Zaib,B Bhandari,RA Reifer,2,0,,,,,,"",""
+ball,1,1.5,Sudur Paschim Royals,SA Zaib,B Bhandari,RA Reifer,0,0,,,,,,bowled,SA Zaib
+ball,1,1.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,RA Reifer,1,0,,,,,,"",""
+ball,1,2.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,Bipin Khatri,0,0,,,,,,"",""
+ball,1,2.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,Bipin Khatri,1,0,,,,,,"",""
+ball,1,2.3,Sudur Paschim Royals,B Bhandari,BJ McMullen,Bipin Khatri,6,0,,,,,,"",""
+ball,1,2.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,Bipin Khatri,0,0,,,,,,"",""
+ball,1,2.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,Bipin Khatri,0,0,,,,,,"",""
+ball,1,2.6,Sudur Paschim Royals,B Bhandari,BJ McMullen,Bipin Khatri,0,0,,,,,,"",""
+ball,1,3.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,0,0,,,,,,"",""
+ball,1,3.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,0,0,,,,,,"",""
+ball,1,3.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,6,0,,,,,,"",""
+ball,1,3.4,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,0,0,,,,,,"",""
+ball,1,3.5,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,0,0,,,,,,"",""
+ball,1,3.6,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,4,0,,,,,,"",""
+ball,1,4.1,Sudur Paschim Royals,B Bhandari,BJ McMullen,RA Reifer,2,0,,,,,,"",""
+ball,1,4.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,RA Reifer,0,0,,,,,,"",""
+ball,1,4.3,Sudur Paschim Royals,B Bhandari,BJ McMullen,RA Reifer,0,1,1,,,,,"",""
+ball,1,4.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,RA Reifer,0,0,,,,,,"",""
+ball,1,4.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,RA Reifer,4,0,,,,,,"",""
+ball,1,4.6,Sudur Paschim Royals,B Bhandari,BJ McMullen,RA Reifer,1,0,,,,,,"",""
+ball,1,4.7,Sudur Paschim Royals,BJ McMullen,B Bhandari,RA Reifer,1,0,,,,,,"",""
+ball,1,5.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,0,0,,,,,,"",""
+ball,1,5.2,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,6,0,,,,,,"",""
+ball,1,5.3,Sudur Paschim Royals,BJ McMullen,B Bhandari,S Dhakal,1,0,,,,,,"",""
+ball,1,5.4,Sudur Paschim Royals,B Bhandari,BJ McMullen,S Dhakal,0,0,,,,,,"",""
+ball,1,5.5,Sudur Paschim Royals,B Bhandari,BJ McMullen,S Dhakal,0,0,,,,,,"",""
+ball,1,5.6,Sudur Paschim Royals,B Bhandari,BJ McMullen,S Dhakal,0,0,,,,,,"",""
+ball,1,6.1,Sudur Paschim Royals,BJ McMullen,B Bhandari,K Bhurtel,1,0,,,,,,"",""
+ball,1,6.2,Sudur Paschim Royals,B Bhandari,BJ McMullen,K Bhurtel,0,0,,,,,,caught,B Bhandari
+ball,1,6.3,Sudur Paschim Royals,Harmeet Singh,BJ McMullen,K Bhurtel,2,0,,,,,,"",""
+ball,1,6.4,Sudur Paschim Royals,Harmeet Singh,BJ McMullen,K Bhurtel,1,0,,,,,,"",""
+ball,1,6.5,Sudur Paschim Royals,BJ McMullen,Harmeet Singh,K Bhurtel,2,0,,,,,,"",""
+ball,1,6.6,Sudur Paschim Royals,BJ McMullen,Harmeet Singh,K Bhurtel,0,0,,,,,,caught,BJ McMullen
+ball,1,7.1,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,1,7.2,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,MA Leask,0,0,,,,,,"",""
+ball,1,7.3,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,MA Leask,0,0,,,,,,"",""
+ball,1,7.4,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,MA Leask,0,0,,,,,,"",""
+ball,1,7.5,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,MA Leask,1,0,,,,,,"",""
+ball,1,7.6,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,1,8.1,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,K Bhurtel,0,0,,,,,,"",""
+ball,1,8.2,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,K Bhurtel,6,0,,,,,,"",""
+ball,1,8.3,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,K Bhurtel,0,0,,,,,,"",""
+ball,1,8.4,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,K Bhurtel,1,0,,,,,,"",""
+ball,1,8.5,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,K Bhurtel,0,0,,,,,,"",""
+ball,1,8.6,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,K Bhurtel,1,0,,,,,,"",""
+ball,1,9.1,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,MA Leask,1,0,,,,,,"",""
+ball,1,9.2,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,1,9.3,Sudur Paschim Royals,Aarif Sheikh,Harmeet Singh,MA Leask,1,0,,,,,,"",""
+ball,1,9.4,Sudur Paschim Royals,Harmeet Singh,Aarif Sheikh,MA Leask,0,0,,,,,,caught,Harmeet Singh
+ball,1,9.5,Sudur Paschim Royals,DS Airee,Aarif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,1,9.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,1,10.1,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Aryal,2,0,,,,,,"",""
+ball,1,10.2,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Aryal,1,1,,1,,,,"",""
+ball,1,10.3,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Aryal,0,0,,,,,,"",""
+ball,1,10.4,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Aryal,2,0,,,,,,"",""
+ball,1,10.5,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Aryal,1,0,,,,,,"",""
+ball,1,10.6,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Aryal,1,0,,,,,,"",""
+ball,1,10.7,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Aryal,2,0,,,,,,"",""
+ball,1,11.1,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,0,0,,,,,,"",""
+ball,1,11.2,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,1,0,,,,,,"",""
+ball,1,11.3,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,1,11.4,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,2,0,,,,,,"",""
+ball,1,11.5,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,1,0,,,,,,"",""
+ball,1,11.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,1,12.1,Sudur Paschim Royals,Aarif Sheikh,DS Airee,K Bhurtel,1,0,,,,,,"",""
+ball,1,12.2,Sudur Paschim Royals,DS Airee,Aarif Sheikh,K Bhurtel,1,0,,,,,,"",""
+ball,1,12.3,Sudur Paschim Royals,Aarif Sheikh,DS Airee,K Bhurtel,0,0,,,,,,"",""
+ball,1,12.4,Sudur Paschim Royals,Aarif Sheikh,DS Airee,K Bhurtel,2,0,,,,,,"",""
+ball,1,12.5,Sudur Paschim Royals,Aarif Sheikh,DS Airee,K Bhurtel,1,0,,,,,,"",""
+ball,1,12.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,K Bhurtel,1,0,,,,,,"",""
+ball,1,13.1,Sudur Paschim Royals,DS Airee,Aarif Sheikh,MA Leask,6,0,,,,,,"",""
+ball,1,13.2,Sudur Paschim Royals,DS Airee,Aarif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,1,13.3,Sudur Paschim Royals,Aarif Sheikh,DS Airee,MA Leask,2,0,,,,,,"",""
+ball,1,13.4,Sudur Paschim Royals,Aarif Sheikh,DS Airee,MA Leask,1,0,,,,,,"",""
+ball,1,13.5,Sudur Paschim Royals,DS Airee,Aarif Sheikh,MA Leask,2,0,,,,,,"",""
+ball,1,13.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,1,14.1,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Dhakal,1,0,,,,,,"",""
+ball,1,14.2,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,0,0,,,,,,"",""
+ball,1,14.3,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,0,0,,,,,,"",""
+ball,1,14.4,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,4,0,,,,,,"",""
+ball,1,14.5,Sudur Paschim Royals,Aarif Sheikh,DS Airee,S Dhakal,1,0,,,,,,"",""
+ball,1,14.6,Sudur Paschim Royals,DS Airee,Aarif Sheikh,S Dhakal,0,0,,,,,,lbw,DS Airee
+ball,1,15.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,MA Leask,0,0,,,,,,"",""
+ball,1,15.2,Sudur Paschim Royals,Aarif Sheikh,I Pandey,MA Leask,2,0,,,,,,"",""
+ball,1,15.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,MA Leask,1,0,,,,,,"",""
+ball,1,15.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,MA Leask,0,0,,,,,,"",""
+ball,1,15.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,MA Leask,1,0,,,,,,"",""
+ball,1,15.6,Sudur Paschim Royals,Aarif Sheikh,I Pandey,MA Leask,4,0,,,,,,"",""
+ball,1,16.1,Sudur Paschim Royals,I Pandey,Aarif Sheikh,K Bhurtel,0,0,,,,,,"",""
+ball,1,16.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,K Bhurtel,1,0,,,,,,"",""
+ball,1,16.3,Sudur Paschim Royals,Aarif Sheikh,I Pandey,K Bhurtel,1,0,,,,,,"",""
+ball,1,16.4,Sudur Paschim Royals,Aarif Sheikh,I Pandey,K Bhurtel,1,0,,,,,,"",""
+ball,1,16.5,Sudur Paschim Royals,I Pandey,Aarif Sheikh,K Bhurtel,0,0,,,,,,"",""
+ball,1,16.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,K Bhurtel,4,0,,,,,,"",""
+ball,1,17.1,Sudur Paschim Royals,Aarif Sheikh,I Pandey,RA Reifer,1,0,,,,,,"",""
+ball,1,17.2,Sudur Paschim Royals,I Pandey,Aarif Sheikh,RA Reifer,2,0,,,,,,"",""
+ball,1,17.3,Sudur Paschim Royals,I Pandey,Aarif Sheikh,RA Reifer,0,0,,,,,,"",""
+ball,1,17.4,Sudur Paschim Royals,I Pandey,Aarif Sheikh,RA Reifer,0,1,,,,1,,"",""
+ball,1,17.5,Sudur Paschim Royals,Aarif Sheikh,I Pandey,RA Reifer,1,0,,,,,,"",""
+ball,1,17.6,Sudur Paschim Royals,I Pandey,Aarif Sheikh,RA Reifer,1,0,,,,,,"",""
+ball,1,18.1,Sudur Paschim Royals,I Pandey,Aarif Sheikh,S Aryal,1,0,,,,,,retired out,I Pandey
+ball,1,18.2,Sudur Paschim Royals,Aarif Sheikh,SC Kuggeleijn,S Aryal,6,0,,,,,,"",""
+ball,1,18.3,Sudur Paschim Royals,Aarif Sheikh,SC Kuggeleijn,S Aryal,0,0,,,,,,"",""
+ball,1,18.4,Sudur Paschim Royals,Aarif Sheikh,SC Kuggeleijn,S Aryal,1,0,,,,,,"",""
+ball,1,18.5,Sudur Paschim Royals,SC Kuggeleijn,Aarif Sheikh,S Aryal,0,0,,,,,,"",""
+ball,1,18.6,Sudur Paschim Royals,SC Kuggeleijn,Aarif Sheikh,S Aryal,1,0,,,,,,"",""
+ball,1,19.1,Sudur Paschim Royals,SC Kuggeleijn,Aarif Sheikh,RA Reifer,1,0,,,,,,"",""
+ball,1,19.2,Sudur Paschim Royals,Aarif Sheikh,SC Kuggeleijn,RA Reifer,0,4,,,,4,,"",""
+ball,1,19.3,Sudur Paschim Royals,Aarif Sheikh,SC Kuggeleijn,RA Reifer,0,0,,,,,,run out,SC Kuggeleijn
+ball,1,19.4,Sudur Paschim Royals,NB Budayair,Aarif Sheikh,RA Reifer,2,0,,,,,,"",""
+ball,1,19.5,Sudur Paschim Royals,NB Budayair,Aarif Sheikh,RA Reifer,4,0,,,,,,"",""
+ball,1,19.6,Sudur Paschim Royals,NB Budayair,Aarif Sheikh,RA Reifer,0,1,,,1,,,"",""
+ball,2,0.1,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,0,0,,,,,,"",""
+ball,2,0.2,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,4,0,,,,,,"",""
+ball,2,0.3,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,0,0,,,,,,"",""
+ball,2,0.4,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,0,0,,,,,,"",""
+ball,2,0.5,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,4,0,,,,,,"",""
+ball,2,0.6,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,0,0,,,,,,"",""
+ball,2,1.1,Pokhara Avengers,AGS Gous,D Kharel,BJ McMullen,0,0,,,,,,"",""
+ball,2,1.2,Pokhara Avengers,AGS Gous,D Kharel,BJ McMullen,6,0,,,,,,"",""
+ball,2,1.3,Pokhara Avengers,AGS Gous,D Kharel,BJ McMullen,4,0,,,,,,"",""
+ball,2,1.4,Pokhara Avengers,AGS Gous,D Kharel,BJ McMullen,4,0,,,,,,"",""
+ball,2,1.5,Pokhara Avengers,AGS Gous,D Kharel,BJ McMullen,6,0,,,,,,"",""
+ball,2,1.6,Pokhara Avengers,AGS Gous,D Kharel,BJ McMullen,1,0,,,,,,"",""
+ball,2,2.1,Pokhara Avengers,AGS Gous,D Kharel,Harmeet Singh,1,0,,,,,,"",""
+ball,2,2.2,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,4,0,,,,,,"",""
+ball,2,2.3,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,2,0,,,,,,"",""
+ball,2,2.4,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,0,0,,,,,,"",""
+ball,2,2.5,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,0,0,,,,,,"",""
+ball,2,2.6,Pokhara Avengers,D Kharel,AGS Gous,Harmeet Singh,1,0,,,,,,"",""
+ball,2,3.1,Pokhara Avengers,D Kharel,AGS Gous,SC Kuggeleijn,0,0,,,,,,caught,D Kharel
+ball,2,3.2,Pokhara Avengers,K Bhurtel,AGS Gous,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.3,Pokhara Avengers,K Bhurtel,AGS Gous,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.4,Pokhara Avengers,K Bhurtel,AGS Gous,SC Kuggeleijn,0,0,,,,,,caught,K Bhurtel
+ball,2,3.5,Pokhara Avengers,D Nath,AGS Gous,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,3.6,Pokhara Avengers,D Nath,AGS Gous,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,4.1,Pokhara Avengers,AGS Gous,D Nath,N Saud,0,0,,,,,,"",""
+ball,2,4.2,Pokhara Avengers,AGS Gous,D Nath,N Saud,0,0,,,,,,"",""
+ball,2,4.3,Pokhara Avengers,AGS Gous,D Nath,N Saud,0,0,,,,,,"",""
+ball,2,4.4,Pokhara Avengers,AGS Gous,D Nath,N Saud,1,0,,,,,,"",""
+ball,2,4.5,Pokhara Avengers,D Nath,AGS Gous,N Saud,1,0,,,,,,"",""
+ball,2,4.6,Pokhara Avengers,AGS Gous,D Nath,N Saud,1,0,,,,,,"",""
+ball,2,5.1,Pokhara Avengers,AGS Gous,D Nath,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,5.2,Pokhara Avengers,AGS Gous,D Nath,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,5.3,Pokhara Avengers,AGS Gous,D Nath,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,5.4,Pokhara Avengers,AGS Gous,D Nath,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,5.5,Pokhara Avengers,D Nath,AGS Gous,SC Kuggeleijn,0,0,,,,,,bowled,D Nath
+ball,2,5.6,Pokhara Avengers,Z Malik,AGS Gous,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,6.1,Pokhara Avengers,AGS Gous,Z Malik,N Saud,4,0,,,,,,"",""
+ball,2,6.2,Pokhara Avengers,AGS Gous,Z Malik,N Saud,2,0,,,,,,"",""
+ball,2,6.3,Pokhara Avengers,AGS Gous,Z Malik,N Saud,1,0,,,,,,"",""
+ball,2,6.4,Pokhara Avengers,Z Malik,AGS Gous,N Saud,2,0,,,,,,"",""
+ball,2,6.5,Pokhara Avengers,Z Malik,AGS Gous,N Saud,0,0,,,,,,"",""
+ball,2,6.6,Pokhara Avengers,Z Malik,AGS Gous,N Saud,1,0,,,,,,"",""
+ball,2,7.1,Pokhara Avengers,Z Malik,AGS Gous,SA Zaib,0,0,,,,,,"",""
+ball,2,7.2,Pokhara Avengers,Z Malik,AGS Gous,SA Zaib,1,0,,,,,,"",""
+ball,2,7.3,Pokhara Avengers,AGS Gous,Z Malik,SA Zaib,4,0,,,,,,"",""
+ball,2,7.4,Pokhara Avengers,AGS Gous,Z Malik,SA Zaib,0,0,,,,,,caught,AGS Gous
+ball,2,7.5,Pokhara Avengers,RA Reifer,Z Malik,SA Zaib,1,0,,,,,,"",""
+ball,2,7.6,Pokhara Avengers,Z Malik,RA Reifer,SA Zaib,1,0,,,,,,"",""
+ball,2,8.1,Pokhara Avengers,Z Malik,RA Reifer,N Saud,0,0,,,,,,"",""
+ball,2,8.2,Pokhara Avengers,Z Malik,RA Reifer,N Saud,1,0,,,,,,"",""
+ball,2,8.3,Pokhara Avengers,RA Reifer,Z Malik,N Saud,0,0,,,,,,"",""
+ball,2,8.4,Pokhara Avengers,RA Reifer,Z Malik,N Saud,0,1,1,,,,,"",""
+ball,2,8.5,Pokhara Avengers,RA Reifer,Z Malik,N Saud,0,2,2,,,,,"",""
+ball,2,8.6,Pokhara Avengers,Z Malik,RA Reifer,N Saud,2,0,,,,,,"",""
+ball,2,8.7,Pokhara Avengers,Z Malik,RA Reifer,N Saud,0,0,,,,,,"",""
+ball,2,8.8,Pokhara Avengers,Z Malik,RA Reifer,N Saud,1,0,,,,,,"",""
+ball,2,9.1,Pokhara Avengers,Z Malik,RA Reifer,DS Airee,0,0,,,,,,"",""
+ball,2,9.2,Pokhara Avengers,Z Malik,RA Reifer,DS Airee,1,0,,,,,,"",""
+ball,2,9.3,Pokhara Avengers,RA Reifer,Z Malik,DS Airee,0,0,,,,,,"",""
+ball,2,9.4,Pokhara Avengers,RA Reifer,Z Malik,DS Airee,0,0,,,,,,"",""
+ball,2,9.5,Pokhara Avengers,RA Reifer,Z Malik,DS Airee,1,0,,,,,,"",""
+ball,2,9.6,Pokhara Avengers,Z Malik,RA Reifer,DS Airee,0,0,,,,,,"",""
+ball,2,10.1,Pokhara Avengers,RA Reifer,Z Malik,Harmeet Singh,1,0,,,,,,"",""
+ball,2,10.2,Pokhara Avengers,Z Malik,RA Reifer,Harmeet Singh,0,1,1,,,,,stumped,Z Malik
+ball,2,10.3,Pokhara Avengers,K Thagunna,RA Reifer,Harmeet Singh,0,0,,,,,,"",""
+ball,2,10.4,Pokhara Avengers,K Thagunna,RA Reifer,Harmeet Singh,0,0,,,,,,"",""
+ball,2,10.5,Pokhara Avengers,K Thagunna,RA Reifer,Harmeet Singh,0,0,,,,,,"",""
+ball,2,10.6,Pokhara Avengers,K Thagunna,RA Reifer,Harmeet Singh,1,0,,,,,,"",""
+ball,2,10.7,Pokhara Avengers,RA Reifer,K Thagunna,Harmeet Singh,0,0,,,,,,"",""
+ball,2,11.1,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,1,0,,,,,,"",""
+ball,2,11.2,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,1,0,,,,,,"",""
+ball,2,11.3,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,0,0,,,,,,"",""
+ball,2,11.4,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,1,0,,,,,,"",""
+ball,2,11.5,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,0,0,,,,,,"",""
+ball,2,11.6,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,0,0,,,,,,"",""
+ball,2,12.1,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,0,0,,,,,,"",""
+ball,2,12.2,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,4,0,,,,,,"",""
+ball,2,12.3,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,0,0,,,,,,"",""
+ball,2,12.4,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,0,0,,,,,,"",""
+ball,2,12.5,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,0,0,,,,,,"",""
+ball,2,12.6,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,1,0,,,,,,"",""
+ball,2,13.1,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,0,0,,,,,,"",""
+ball,2,13.2,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,4,0,,,,,,"",""
+ball,2,13.3,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,2,0,,,,,,"",""
+ball,2,13.4,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,0,0,,,,,,"",""
+ball,2,13.5,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,1,0,,,,,,"",""
+ball,2,13.6,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,1,0,,,,,,"",""
+ball,2,14.1,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,4,0,,,,,,"",""
+ball,2,14.2,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,0,1,,,,1,,"",""
+ball,2,14.3,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,1,0,,,,,,"",""
+ball,2,14.4,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,0,5,5,,,,,"",""
+ball,2,14.5,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,1,0,,,,,,"",""
+ball,2,14.6,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,1,0,,,,,,"",""
+ball,2,14.7,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,1,0,,,,,,"",""
+ball,2,15.1,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,0,0,,,,,,"",""
+ball,2,15.2,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,1,0,,,,,,"",""
+ball,2,15.3,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,1,0,,,,,,"",""
+ball,2,15.4,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,1,0,,,,,,"",""
+ball,2,15.5,Pokhara Avengers,K Thagunna,RA Reifer,DS Airee,1,0,,,,,,"",""
+ball,2,15.6,Pokhara Avengers,RA Reifer,K Thagunna,DS Airee,1,0,,,,,,"",""
+ball,2,16.1,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,0,1,,,,1,,"",""
+ball,2,16.2,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,6,0,,,,,,"",""
+ball,2,16.3,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,4,0,,,,,,"",""
+ball,2,16.4,Pokhara Avengers,K Thagunna,RA Reifer,A Bohara,1,0,,,,,,"",""
+ball,2,16.5,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,6,0,,,,,,"",""
+ball,2,16.6,Pokhara Avengers,RA Reifer,K Thagunna,A Bohara,1,0,,,,,,"",""
+ball,2,17.1,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,17.2,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,17.3,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,17.4,Pokhara Avengers,K Thagunna,RA Reifer,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,17.5,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,6,0,,,,,,"",""
+ball,2,17.6,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,17.7,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,4,0,,,,,,"",""
+ball,2,17.8,Pokhara Avengers,RA Reifer,K Thagunna,SC Kuggeleijn,1,0,,,,,,"",""
+ball,2,18.1,Pokhara Avengers,RA Reifer,K Thagunna,Harmeet Singh,0,0,,,,,,caught,RA Reifer
+ball,2,18.2,Pokhara Avengers,MA Leask,K Thagunna,Harmeet Singh,0,0,,,,,,"",""
+ball,2,18.3,Pokhara Avengers,MA Leask,K Thagunna,Harmeet Singh,0,1,1,,,,,"",""
+ball,2,18.4,Pokhara Avengers,MA Leask,K Thagunna,Harmeet Singh,1,0,,,,,,"",""
+ball,2,18.5,Pokhara Avengers,K Thagunna,MA Leask,Harmeet Singh,1,0,,,,,,"",""
+ball,2,18.6,Pokhara Avengers,MA Leask,K Thagunna,Harmeet Singh,4,0,,,,,,"",""
+ball,2,18.7,Pokhara Avengers,MA Leask,K Thagunna,Harmeet Singh,0,0,,,,,,caught,MA Leask
+ball,2,19.1,Pokhara Avengers,K Thagunna,S Aryal,SC Kuggeleijn,0,1,1,,,,,"",""
+ball,2,19.2,Pokhara Avengers,K Thagunna,S Aryal,SC Kuggeleijn,0,0,,,,,,bowled,K Thagunna
+ball,2,19.3,Pokhara Avengers,S Dhakal,S Aryal,SC Kuggeleijn,1,0,,,,,,run out,S Aryal
+ball,2,19.4,Pokhara Avengers,Bipin Khatri,S Dhakal,SC Kuggeleijn,0,0,,,,,,"",""
+ball,2,19.5,Pokhara Avengers,Bipin Khatri,S Dhakal,SC Kuggeleijn,0,0,,,,,,caught,Bipin Khatri

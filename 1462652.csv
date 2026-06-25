@@ -1,0 +1,319 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Janakpur Bolts
+info,team,Lumbini Lions
+info,gender,male
+info,season,2024/25
+info,date,2024/12/08
+info,event,Nepal Premier League
+info,match_number,14
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Lumbini Lions
+info,toss_decision,field
+info,player_of_match,H Thaker
+info,umpire,DN Subedi
+info,umpire,HR Giri
+info,reserve_umpire,RC Pandey
+info,tv_umpire,BB Pradhan
+info,match_referee,M Nayyar
+info,winner,Janakpur Bolts
+info,winner_runs,1
+info,player,Janakpur Bolts,AK Sah
+info,player,Janakpur Bolts,Aasif Sheikh
+info,player,Janakpur Bolts,BKEL Milantha
+info,player,Janakpur Bolts,H Thaker
+info,player,Janakpur Bolts,JDS Neesham
+info,player,Janakpur Bolts,S Kansakar
+info,player,Janakpur Bolts,Mohammad Mohsin
+info,player,Janakpur Bolts,S Malla
+info,player,Janakpur Bolts,H Dhami
+info,player,Janakpur Bolts,LN Rajbanshi
+info,player,Janakpur Bolts,K Mahato
+info,player,Lumbini Lions,A Ghiraiya
+info,player,Lumbini Lions,A Saud
+info,player,Lumbini Lions,RK Paudel
+info,player,Lumbini Lions,TJ Moores
+info,player,Lumbini Lions,BCJ Cutting
+info,player,Lumbini Lions,B Yadav
+info,player,Lumbini Lions,S Jora
+info,player,Lumbini Lions,Saad Bin Zafar
+info,player,Lumbini Lions,D Gupta
+info,player,Lumbini Lions,Abhishesh Gautam
+info,player,Lumbini Lions,RR Simmonds
+info,registry,people,A Ghiraiya,878b1e06
+info,registry,people,A Saud,94b8d7dd
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Abhishesh Gautam,0baa5518
+info,registry,people,B Yadav,ef07f354
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,BKEL Milantha,dcabd6bc
+info,registry,people,D Gupta,762ea5b1
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,H Dhami,bb20441f
+info,registry,people,H Thaker,c01d7726
+info,registry,people,HR Giri,fea1e74f
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Mahato,d913103d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,RC Pandey,1b807976
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RR Simmonds,fcf6b0f6
+info,registry,people,S Jora,156378d8
+info,registry,people,S Kansakar,fd0e5582
+info,registry,people,S Malla,1daa8927
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,TJ Moores,85dcb721
+ball,1,0.1,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,0,0,,,,,,"",""
+ball,1,0.2,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,1,0,,,,,,"",""
+ball,1,0.3,Janakpur Bolts,Aasif Sheikh,AK Sah,RR Simmonds,1,0,,,,,,"",""
+ball,1,0.4,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,0,0,,,,,,"",""
+ball,1,0.5,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,4,0,,,,,,"",""
+ball,1,0.6,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,0,0,,,,,,"",""
+ball,1,1.1,Janakpur Bolts,Aasif Sheikh,AK Sah,D Gupta,0,0,,,,,,"",""
+ball,1,1.2,Janakpur Bolts,Aasif Sheikh,AK Sah,D Gupta,1,0,,,,,,"",""
+ball,1,1.3,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,0,0,,,,,,"",""
+ball,1,1.4,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,0,0,,,,,,"",""
+ball,1,1.5,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,0,0,,,,,,"",""
+ball,1,1.6,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,0,1,,,,1,,"",""
+ball,1,2.1,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,0,0,,,,,,"",""
+ball,1,2.2,Janakpur Bolts,AK Sah,Aasif Sheikh,RR Simmonds,1,0,,,,,,"",""
+ball,1,2.3,Janakpur Bolts,Aasif Sheikh,AK Sah,RR Simmonds,0,0,,,,,,"",""
+ball,1,2.4,Janakpur Bolts,Aasif Sheikh,AK Sah,RR Simmonds,0,0,,,,,,"",""
+ball,1,2.5,Janakpur Bolts,Aasif Sheikh,AK Sah,RR Simmonds,0,0,,,,,,"",""
+ball,1,2.6,Janakpur Bolts,Aasif Sheikh,AK Sah,RR Simmonds,6,0,,,,,,"",""
+ball,1,3.1,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,6,0,,,,,,"",""
+ball,1,3.2,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,0,0,,,,,,"",""
+ball,1,3.3,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,0,0,,,,,,"",""
+ball,1,3.4,Janakpur Bolts,AK Sah,Aasif Sheikh,D Gupta,1,0,,,,,,"",""
+ball,1,3.5,Janakpur Bolts,Aasif Sheikh,AK Sah,D Gupta,4,0,,,,,,"",""
+ball,1,3.6,Janakpur Bolts,Aasif Sheikh,AK Sah,D Gupta,4,0,,,,,,"",""
+ball,1,4.1,Janakpur Bolts,AK Sah,Aasif Sheikh,Abhishesh Gautam,6,0,,,,,,"",""
+ball,1,4.2,Janakpur Bolts,AK Sah,Aasif Sheikh,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.3,Janakpur Bolts,AK Sah,Aasif Sheikh,Abhishesh Gautam,6,0,,,,,,"",""
+ball,1,4.4,Janakpur Bolts,AK Sah,Aasif Sheikh,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,4.5,Janakpur Bolts,AK Sah,Aasif Sheikh,Abhishesh Gautam,0,4,,,4,,,"",""
+ball,1,4.6,Janakpur Bolts,AK Sah,Aasif Sheikh,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,5.1,Janakpur Bolts,AK Sah,Aasif Sheikh,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,5.2,Janakpur Bolts,AK Sah,Aasif Sheikh,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,5.3,Janakpur Bolts,Aasif Sheikh,AK Sah,Saad Bin Zafar,0,0,,,,,,caught,Aasif Sheikh
+ball,1,5.4,Janakpur Bolts,BKEL Milantha,AK Sah,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,5.5,Janakpur Bolts,BKEL Milantha,AK Sah,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,5.6,Janakpur Bolts,AK Sah,BKEL Milantha,Saad Bin Zafar,6,0,,,,,,"",""
+ball,1,6.1,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,0,1,1,,,,,"",""
+ball,1,6.2,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,0,0,,,,,,"",""
+ball,1,6.3,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,1,0,,,,,,"",""
+ball,1,6.4,Janakpur Bolts,AK Sah,BKEL Milantha,B Yadav,0,0,,,,,,"",""
+ball,1,6.5,Janakpur Bolts,AK Sah,BKEL Milantha,B Yadav,0,0,,,,,,"",""
+ball,1,6.6,Janakpur Bolts,AK Sah,BKEL Milantha,B Yadav,2,0,,,,,,"",""
+ball,1,6.7,Janakpur Bolts,AK Sah,BKEL Milantha,B Yadav,1,0,,,,,,"",""
+ball,1,7.1,Janakpur Bolts,AK Sah,BKEL Milantha,RK Paudel,1,0,,,,,,"",""
+ball,1,7.2,Janakpur Bolts,BKEL Milantha,AK Sah,RK Paudel,0,0,,,,,,"",""
+ball,1,7.3,Janakpur Bolts,BKEL Milantha,AK Sah,RK Paudel,1,0,,,,,,"",""
+ball,1,7.4,Janakpur Bolts,AK Sah,BKEL Milantha,RK Paudel,2,0,,,,,,"",""
+ball,1,7.5,Janakpur Bolts,AK Sah,BKEL Milantha,RK Paudel,1,0,,,,,,"",""
+ball,1,7.6,Janakpur Bolts,BKEL Milantha,AK Sah,RK Paudel,0,1,,,,1,,"",""
+ball,1,8.1,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,0,1,1,,,,,"",""
+ball,1,8.2,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,0,1,1,,,,,"",""
+ball,1,8.3,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,2,0,,,,,,"",""
+ball,1,8.4,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,0,1,1,,,,,"",""
+ball,1,8.5,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,4,0,,,,,,"",""
+ball,1,8.6,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,0,0,,,,,,"",""
+ball,1,8.7,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,2,0,,,,,,"",""
+ball,1,8.8,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,2,0,,,,,,"",""
+ball,1,8.9,Janakpur Bolts,BKEL Milantha,AK Sah,B Yadav,1,0,,,,,,"",""
+ball,1,9.1,Janakpur Bolts,BKEL Milantha,AK Sah,RK Paudel,1,0,,,,,,"",""
+ball,1,9.2,Janakpur Bolts,AK Sah,BKEL Milantha,RK Paudel,1,0,,,,,,"",""
+ball,1,9.3,Janakpur Bolts,BKEL Milantha,AK Sah,RK Paudel,1,0,,,,,,"",""
+ball,1,9.4,Janakpur Bolts,AK Sah,BKEL Milantha,RK Paudel,2,0,,,,,,"",""
+ball,1,9.5,Janakpur Bolts,AK Sah,BKEL Milantha,RK Paudel,1,0,,,,,,"",""
+ball,1,9.6,Janakpur Bolts,BKEL Milantha,AK Sah,RK Paudel,1,0,,,,,,"",""
+ball,1,10.1,Janakpur Bolts,BKEL Milantha,AK Sah,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,10.2,Janakpur Bolts,AK Sah,BKEL Milantha,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,10.3,Janakpur Bolts,AK Sah,BKEL Milantha,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,10.4,Janakpur Bolts,BKEL Milantha,AK Sah,Abhishesh Gautam,0,1,,,,1,,"",""
+ball,1,10.5,Janakpur Bolts,AK Sah,BKEL Milantha,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,10.6,Janakpur Bolts,AK Sah,BKEL Milantha,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,11.1,Janakpur Bolts,BKEL Milantha,AK Sah,S Jora,4,0,,,,,,"",""
+ball,1,11.2,Janakpur Bolts,BKEL Milantha,AK Sah,S Jora,1,0,,,,,,"",""
+ball,1,11.3,Janakpur Bolts,AK Sah,BKEL Milantha,S Jora,0,0,,,,,,caught,AK Sah
+ball,1,11.4,Janakpur Bolts,H Thaker,BKEL Milantha,S Jora,0,0,,,,,,"",""
+ball,1,11.5,Janakpur Bolts,H Thaker,BKEL Milantha,S Jora,1,0,,,,,,"",""
+ball,1,11.6,Janakpur Bolts,BKEL Milantha,H Thaker,S Jora,1,0,,,,,,"",""
+ball,1,12.1,Janakpur Bolts,BKEL Milantha,H Thaker,Abhishesh Gautam,0,2,,,2,,,"",""
+ball,1,12.2,Janakpur Bolts,BKEL Milantha,H Thaker,Abhishesh Gautam,0,0,,,,,,stumped,BKEL Milantha
+ball,1,12.3,Janakpur Bolts,JDS Neesham,H Thaker,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,12.4,Janakpur Bolts,H Thaker,JDS Neesham,Abhishesh Gautam,0,0,,,,,,caught,H Thaker
+ball,1,12.5,Janakpur Bolts,S Kansakar,JDS Neesham,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,12.6,Janakpur Bolts,JDS Neesham,S Kansakar,Abhishesh Gautam,0,0,,,,,,stumped,JDS Neesham
+ball,1,13.1,Janakpur Bolts,S Kansakar,Mohammad Mohsin,S Jora,1,0,,,,,,"",""
+ball,1,13.2,Janakpur Bolts,Mohammad Mohsin,S Kansakar,S Jora,1,0,,,,,,"",""
+ball,1,13.3,Janakpur Bolts,S Kansakar,Mohammad Mohsin,S Jora,0,0,,,,,,"",""
+ball,1,13.4,Janakpur Bolts,S Kansakar,Mohammad Mohsin,S Jora,2,0,,,,,,"",""
+ball,1,13.5,Janakpur Bolts,S Kansakar,Mohammad Mohsin,S Jora,0,0,,,,,,"",""
+ball,1,13.6,Janakpur Bolts,S Kansakar,Mohammad Mohsin,S Jora,2,0,,,,,,"",""
+ball,1,14.1,Janakpur Bolts,Mohammad Mohsin,S Kansakar,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.2,Janakpur Bolts,S Kansakar,Mohammad Mohsin,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,14.3,Janakpur Bolts,S Kansakar,Mohammad Mohsin,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.4,Janakpur Bolts,Mohammad Mohsin,S Kansakar,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,14.5,Janakpur Bolts,S Kansakar,Mohammad Mohsin,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,14.6,Janakpur Bolts,S Kansakar,Mohammad Mohsin,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,15.1,Janakpur Bolts,Mohammad Mohsin,S Kansakar,RK Paudel,0,0,,,,,,"",""
+ball,1,15.2,Janakpur Bolts,Mohammad Mohsin,S Kansakar,RK Paudel,0,0,,,,,,lbw,Mohammad Mohsin
+ball,1,15.3,Janakpur Bolts,S Malla,S Kansakar,RK Paudel,0,0,,,,,,"",""
+ball,1,15.4,Janakpur Bolts,S Malla,S Kansakar,RK Paudel,0,0,,,,,,lbw,S Malla
+ball,1,15.5,Janakpur Bolts,H Dhami,S Kansakar,RK Paudel,1,0,,,,,,"",""
+ball,1,15.6,Janakpur Bolts,S Kansakar,H Dhami,RK Paudel,0,0,,,,,,"",""
+ball,1,16.1,Janakpur Bolts,H Dhami,S Kansakar,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,16.2,Janakpur Bolts,H Dhami,S Kansakar,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,16.3,Janakpur Bolts,H Dhami,S Kansakar,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,16.4,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,0,1,1,,,,,"",""
+ball,1,16.5,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,16.6,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,16.7,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,17.1,Janakpur Bolts,H Dhami,S Kansakar,RK Paudel,0,0,,,,,,"",""
+ball,1,17.2,Janakpur Bolts,H Dhami,S Kansakar,RK Paudel,1,0,,,,,,"",""
+ball,1,17.3,Janakpur Bolts,S Kansakar,H Dhami,RK Paudel,6,0,,,,,,"",""
+ball,1,17.4,Janakpur Bolts,S Kansakar,H Dhami,RK Paudel,1,0,,,,,,"",""
+ball,1,17.5,Janakpur Bolts,H Dhami,S Kansakar,RK Paudel,1,0,,,,,,"",""
+ball,1,17.6,Janakpur Bolts,S Kansakar,H Dhami,RK Paudel,0,0,,,,,,"",""
+ball,1,18.1,Janakpur Bolts,H Dhami,S Kansakar,RR Simmonds,1,0,,,,,,"",""
+ball,1,18.2,Janakpur Bolts,S Kansakar,H Dhami,RR Simmonds,0,1,1,,,,,"",""
+ball,1,18.3,Janakpur Bolts,S Kansakar,H Dhami,RR Simmonds,6,0,,,,,,"",""
+ball,1,18.4,Janakpur Bolts,S Kansakar,H Dhami,RR Simmonds,0,0,,,,,,"",""
+ball,1,18.5,Janakpur Bolts,S Kansakar,H Dhami,RR Simmonds,0,0,,,,,,"",""
+ball,1,18.6,Janakpur Bolts,S Kansakar,H Dhami,RR Simmonds,1,0,,,,,,"",""
+ball,1,18.7,Janakpur Bolts,H Dhami,S Kansakar,RR Simmonds,4,0,,,,,,"",""
+ball,1,19.1,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,19.2,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,19.3,Janakpur Bolts,S Kansakar,H Dhami,Saad Bin Zafar,1,0,,,,,,"",""
+ball,1,19.4,Janakpur Bolts,H Dhami,S Kansakar,Saad Bin Zafar,0,0,,,,,,"",""
+ball,1,19.5,Janakpur Bolts,H Dhami,S Kansakar,Saad Bin Zafar,0,0,,,,,,bowled,H Dhami
+ball,1,19.6,Janakpur Bolts,LN Rajbanshi,S Kansakar,Saad Bin Zafar,0,0,,,,,,run out,LN Rajbanshi
+ball,2,0.1,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,0,0,,,,,,"",""
+ball,2,0.2,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,0,1,1,,,,,"",""
+ball,2,0.3,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,0,0,,,,,,"",""
+ball,2,0.4,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,0,0,,,,,,"",""
+ball,2,0.5,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,1,0,,,,,,"",""
+ball,2,0.6,Lumbini Lions,A Saud,A Ghiraiya,K Mahato,0,0,,,,,,"",""
+ball,2,0.7,Lumbini Lions,A Saud,A Ghiraiya,K Mahato,0,4,,,4,,,"",""
+ball,2,1.1,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,1.2,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,1.3,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,1.4,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,1.5,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,2,,,2,,,"",""
+ball,2,1.6,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,2.1,Lumbini Lions,A Saud,A Ghiraiya,K Mahato,2,0,,,,,,"",""
+ball,2,2.2,Lumbini Lions,A Saud,A Ghiraiya,K Mahato,0,0,,,,,,"",""
+ball,2,2.3,Lumbini Lions,A Saud,A Ghiraiya,K Mahato,1,0,,,,,,"",""
+ball,2,2.4,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,2,0,,,,,,"",""
+ball,2,2.5,Lumbini Lions,A Ghiraiya,A Saud,K Mahato,1,0,,,,,,"",""
+ball,2,2.6,Lumbini Lions,A Saud,A Ghiraiya,K Mahato,4,0,,,,,,"",""
+ball,2,3.1,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,3.2,Lumbini Lions,A Ghiraiya,A Saud,LN Rajbanshi,0,0,,,,,,caught,A Ghiraiya
+ball,2,3.3,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,3.4,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,3.5,Lumbini Lions,A Saud,RK Paudel,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,3.6,Lumbini Lions,A Saud,RK Paudel,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,4.1,Lumbini Lions,RK Paudel,A Saud,JDS Neesham,1,0,,,,,,"",""
+ball,2,4.2,Lumbini Lions,A Saud,RK Paudel,JDS Neesham,0,0,,,,,,"",""
+ball,2,4.3,Lumbini Lions,A Saud,RK Paudel,JDS Neesham,1,0,,,,,,"",""
+ball,2,4.4,Lumbini Lions,RK Paudel,A Saud,JDS Neesham,4,0,,,,,,"",""
+ball,2,4.5,Lumbini Lions,RK Paudel,A Saud,JDS Neesham,2,0,,,,,,"",""
+ball,2,4.6,Lumbini Lions,RK Paudel,A Saud,JDS Neesham,1,0,,,,,,"",""
+ball,2,5.1,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,5.2,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,5.3,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,0,4,,,,4,,"",""
+ball,2,5.4,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,5.5,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,5.6,Lumbini Lions,A Saud,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,6.1,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,4,0,,,,,,"",""
+ball,2,6.2,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,0,2,,,,2,,"",""
+ball,2,6.3,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.4,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,6.5,Lumbini Lions,RK Paudel,A Saud,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,6.6,Lumbini Lions,A Saud,RK Paudel,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,7.1,Lumbini Lions,A Saud,RK Paudel,S Malla,1,0,,,,,,"",""
+ball,2,7.2,Lumbini Lions,RK Paudel,A Saud,S Malla,0,1,1,,,,,"",""
+ball,2,7.3,Lumbini Lions,RK Paudel,A Saud,S Malla,1,0,,,,,,"",""
+ball,2,7.4,Lumbini Lions,A Saud,RK Paudel,S Malla,2,0,,,,,,"",""
+ball,2,7.5,Lumbini Lions,A Saud,RK Paudel,S Malla,4,0,,,,,,"",""
+ball,2,7.6,Lumbini Lions,A Saud,RK Paudel,S Malla,0,0,,,,,,"",""
+ball,2,7.7,Lumbini Lions,A Saud,RK Paudel,S Malla,0,0,,,,,,"",""
+ball,2,8.1,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,8.2,Lumbini Lions,A Saud,RK Paudel,Mohammad Mohsin,2,0,,,,,,"",""
+ball,2,8.3,Lumbini Lions,A Saud,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,8.4,Lumbini Lions,A Saud,RK Paudel,Mohammad Mohsin,0,1,,,,1,,"",""
+ball,2,8.5,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,8.6,Lumbini Lions,RK Paudel,A Saud,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,9.1,Lumbini Lions,RK Paudel,A Saud,S Malla,1,0,,,,,,"",""
+ball,2,9.2,Lumbini Lions,A Saud,RK Paudel,S Malla,1,0,,,,,,"",""
+ball,2,9.3,Lumbini Lions,RK Paudel,A Saud,S Malla,1,0,,,,,,"",""
+ball,2,9.4,Lumbini Lions,A Saud,RK Paudel,S Malla,1,0,,,,,,"",""
+ball,2,9.5,Lumbini Lions,RK Paudel,A Saud,S Malla,1,0,,,,,,"",""
+ball,2,9.6,Lumbini Lions,A Saud,RK Paudel,S Malla,0,0,,,,,,bowled,A Saud
+ball,2,10.1,Lumbini Lions,RK Paudel,TJ Moores,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,10.2,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,10.3,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,10.4,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,10.5,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,10.6,Lumbini Lions,RK Paudel,TJ Moores,Mohammad Mohsin,2,0,,,,,,"",""
+ball,2,11.1,Lumbini Lions,TJ Moores,RK Paudel,S Malla,1,0,,,,,,"",""
+ball,2,11.2,Lumbini Lions,RK Paudel,TJ Moores,S Malla,1,0,,,,,,"",""
+ball,2,11.3,Lumbini Lions,TJ Moores,RK Paudel,S Malla,4,0,,,,,,"",""
+ball,2,11.4,Lumbini Lions,TJ Moores,RK Paudel,S Malla,0,0,,,,,,"",""
+ball,2,11.5,Lumbini Lions,TJ Moores,RK Paudel,S Malla,6,0,,,,,,"",""
+ball,2,11.6,Lumbini Lions,TJ Moores,RK Paudel,S Malla,1,0,,,,,,"",""
+ball,2,12.1,Lumbini Lions,TJ Moores,RK Paudel,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,12.2,Lumbini Lions,RK Paudel,TJ Moores,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,12.3,Lumbini Lions,RK Paudel,TJ Moores,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,12.4,Lumbini Lions,RK Paudel,TJ Moores,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,12.5,Lumbini Lions,RK Paudel,TJ Moores,LN Rajbanshi,0,0,,,,,,"",""
+ball,2,12.6,Lumbini Lions,RK Paudel,TJ Moores,LN Rajbanshi,1,0,,,,,,"",""
+ball,2,13.1,Lumbini Lions,RK Paudel,TJ Moores,H Thaker,1,0,,,,,,"",""
+ball,2,13.2,Lumbini Lions,TJ Moores,RK Paudel,H Thaker,1,0,,,,,,"",""
+ball,2,13.3,Lumbini Lions,RK Paudel,TJ Moores,H Thaker,1,0,,,,,,"",""
+ball,2,13.4,Lumbini Lions,TJ Moores,RK Paudel,H Thaker,0,0,,,,,,"",""
+ball,2,13.5,Lumbini Lions,TJ Moores,RK Paudel,H Thaker,3,0,,,,,,"",""
+ball,2,13.6,Lumbini Lions,RK Paudel,TJ Moores,H Thaker,2,0,,,,,,"",""
+ball,2,14.1,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,4,0,,,,,,"",""
+ball,2,14.2,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,14.3,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,3,0,,,,,,"",""
+ball,2,14.4,Lumbini Lions,RK Paudel,TJ Moores,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,14.5,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,0,0,,,,,,"",""
+ball,2,14.6,Lumbini Lions,TJ Moores,RK Paudel,Mohammad Mohsin,1,0,,,,,,"",""
+ball,2,15.1,Lumbini Lions,TJ Moores,RK Paudel,H Thaker,1,0,,,,,,"",""
+ball,2,15.2,Lumbini Lions,RK Paudel,TJ Moores,H Thaker,4,0,,,,,,"",""
+ball,2,15.3,Lumbini Lions,RK Paudel,TJ Moores,H Thaker,0,0,,,,,,"",""
+ball,2,15.4,Lumbini Lions,RK Paudel,TJ Moores,H Thaker,0,0,,,,,,caught,RK Paudel
+ball,2,15.5,Lumbini Lions,BCJ Cutting,TJ Moores,H Thaker,0,0,,,,,,"",""
+ball,2,15.6,Lumbini Lions,BCJ Cutting,TJ Moores,H Thaker,0,0,,,,,,"",""
+ball,2,16.1,Lumbini Lions,TJ Moores,BCJ Cutting,S Malla,2,0,,,,,,"",""
+ball,2,16.2,Lumbini Lions,TJ Moores,BCJ Cutting,S Malla,1,0,,,,,,"",""
+ball,2,16.3,Lumbini Lions,BCJ Cutting,TJ Moores,S Malla,1,0,,,,,,"",""
+ball,2,16.4,Lumbini Lions,TJ Moores,BCJ Cutting,S Malla,1,0,,,,,,"",""
+ball,2,16.5,Lumbini Lions,BCJ Cutting,TJ Moores,S Malla,0,0,,,,,,"",""
+ball,2,16.6,Lumbini Lions,BCJ Cutting,TJ Moores,S Malla,0,1,1,,,,,"",""
+ball,2,16.7,Lumbini Lions,BCJ Cutting,TJ Moores,S Malla,0,0,,,,,,"",""
+ball,2,17.1,Lumbini Lions,TJ Moores,BCJ Cutting,H Thaker,0,0,,,,,,caught,TJ Moores
+ball,2,17.2,Lumbini Lions,B Yadav,BCJ Cutting,H Thaker,0,0,,,,,,"",""
+ball,2,17.3,Lumbini Lions,B Yadav,BCJ Cutting,H Thaker,0,0,,,,,,caught,B Yadav
+ball,2,17.4,Lumbini Lions,S Jora,BCJ Cutting,H Thaker,0,0,,,,,,"",""
+ball,2,17.5,Lumbini Lions,S Jora,BCJ Cutting,H Thaker,1,0,,,,,,"",""
+ball,2,17.6,Lumbini Lions,BCJ Cutting,S Jora,H Thaker,2,0,,,,,,"",""
+ball,2,18.1,Lumbini Lions,S Jora,BCJ Cutting,K Mahato,1,0,,,,,,"",""
+ball,2,18.2,Lumbini Lions,BCJ Cutting,S Jora,K Mahato,0,0,,,,,,caught,BCJ Cutting
+ball,2,18.3,Lumbini Lions,Saad Bin Zafar,S Jora,K Mahato,0,1,,,,1,,"",""
+ball,2,18.4,Lumbini Lions,S Jora,Saad Bin Zafar,K Mahato,2,0,,,,,,"",""
+ball,2,18.5,Lumbini Lions,S Jora,Saad Bin Zafar,K Mahato,6,0,,,,,,"",""
+ball,2,18.6,Lumbini Lions,S Jora,Saad Bin Zafar,K Mahato,4,0,,,,,,"",""
+ball,2,19.1,Lumbini Lions,Saad Bin Zafar,S Jora,H Thaker,0,0,,,,,,caught,Saad Bin Zafar
+ball,2,19.2,Lumbini Lions,D Gupta,S Jora,H Thaker,4,0,,,,,,"",""
+ball,2,19.3,Lumbini Lions,D Gupta,S Jora,H Thaker,0,0,,,,,,"",""
+ball,2,19.4,Lumbini Lions,D Gupta,S Jora,H Thaker,1,0,,,,,,"",""
+ball,2,19.5,Lumbini Lions,S Jora,D Gupta,H Thaker,2,0,,,,,,"",""
+ball,2,19.6,Lumbini Lions,S Jora,D Gupta,H Thaker,0,0,,,,,,caught,S Jora

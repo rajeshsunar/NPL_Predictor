@@ -1,0 +1,327 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Biratnagar Kings
+info,team,Pokhara Avengers
+info,gender,male
+info,season,2024/25
+info,date,2024/12/12
+info,event,Nepal Premier League
+info,match_number,20
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Biratnagar Kings
+info,toss_decision,bat
+info,player_of_match,RA Reifer
+info,umpire,Bismillah Shinwari
+info,umpire,VK Jha
+info,reserve_umpire,Basu Karn
+info,tv_umpire,Rashid Riaz
+info,match_referee,M Nayyar
+info,outcome,tie
+info,eliminator,Pokhara Avengers
+info,player,Biratnagar Kings,Lokesh Bam
+info,player,Biratnagar Kings,MJ Guptill
+info,player,Biratnagar Kings,N Bhatta
+info,player,Biratnagar Kings,SA Edwards
+info,player,Biratnagar Kings,NR Kirton
+info,player,Biratnagar Kings,Basir Ahamad
+info,player,Biratnagar Kings,CB Sole
+info,player,Biratnagar Kings,D Bohara
+info,player,Biratnagar Kings,Pratis GC
+info,player,Biratnagar Kings,S Lamichhane
+info,player,Biratnagar Kings,A Kharel
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AGS Gous
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,Z Malik
+info,player,Pokhara Avengers,RA Reifer
+info,player,Pokhara Avengers,TR Das
+info,player,Pokhara Avengers,MA Leask
+info,player,Pokhara Avengers,N Joshi
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,K Thagunna
+info,player,Pokhara Avengers,S Dhakal
+info,registry,people,A Kharel,08b15b9e
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Basir Ahamad,218c7eab
+info,registry,people,Basu Karn,c620f573
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CB Sole,469ccead
+info,registry,people,D Bohara,7e46794e
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MA Leask,28131839
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,N Bhatta,f67dd650
+info,registry,people,N Joshi,58c71b70
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Pratis GC,c1077ba3
+info,registry,people,RA Reifer,d7725664
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,TR Das,40f1a776
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Z Malik,1732cd55
+ball,1,0.1,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.2,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.3,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,4,0,,,,,,"",""
+ball,1,0.4,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,6,0,,,,,,"",""
+ball,1,0.5,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,0,0,,,,,,"",""
+ball,1,0.6,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,4,0,,,,,,"",""
+ball,1,1.1,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,0,0,,,,,,"",""
+ball,1,1.2,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,0,0,,,,,,"",""
+ball,1,1.3,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,2,0,,,,,,"",""
+ball,1,1.4,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,0,0,,,,,,"",""
+ball,1,1.5,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,1,0,,,,,,"",""
+ball,1,1.6,Biratnagar Kings,Lokesh Bam,MJ Guptill,S Dhakal,0,0,,,,,,"",""
+ball,1,2.1,Biratnagar Kings,MJ Guptill,Lokesh Bam,RA Reifer,1,0,,,,,,"",""
+ball,1,2.2,Biratnagar Kings,Lokesh Bam,MJ Guptill,RA Reifer,1,0,,,,,,"",""
+ball,1,2.3,Biratnagar Kings,MJ Guptill,Lokesh Bam,RA Reifer,0,0,,,,,,"",""
+ball,1,2.4,Biratnagar Kings,MJ Guptill,Lokesh Bam,RA Reifer,0,0,,,,,,"",""
+ball,1,2.5,Biratnagar Kings,MJ Guptill,Lokesh Bam,RA Reifer,1,0,,,,,,"",""
+ball,1,2.6,Biratnagar Kings,Lokesh Bam,MJ Guptill,RA Reifer,0,1,1,,,,,"",""
+ball,1,2.7,Biratnagar Kings,Lokesh Bam,MJ Guptill,RA Reifer,1,0,,,,,,"",""
+ball,1,3.1,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,2,0,,,,,,"",""
+ball,1,3.2,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,0,0,,,,,,"",""
+ball,1,3.3,Biratnagar Kings,Lokesh Bam,MJ Guptill,Bipin Khatri,1,0,,,,,,"",""
+ball,1,3.4,Biratnagar Kings,MJ Guptill,Lokesh Bam,Bipin Khatri,0,0,,,,,,"",""
+ball,1,3.5,Biratnagar Kings,MJ Guptill,Lokesh Bam,Bipin Khatri,0,0,,,,,,"",""
+ball,1,3.6,Biratnagar Kings,MJ Guptill,Lokesh Bam,Bipin Khatri,0,0,,,,,,"",""
+ball,1,4.1,Biratnagar Kings,Lokesh Bam,MJ Guptill,S Dhakal,1,0,,,,,,"",""
+ball,1,4.2,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,0,0,,,,,,"",""
+ball,1,4.3,Biratnagar Kings,MJ Guptill,Lokesh Bam,S Dhakal,0,0,,,,,,bowled,MJ Guptill
+ball,1,4.4,Biratnagar Kings,N Bhatta,Lokesh Bam,S Dhakal,0,0,,,,,,"",""
+ball,1,4.5,Biratnagar Kings,N Bhatta,Lokesh Bam,S Dhakal,0,0,,,,,,"",""
+ball,1,4.6,Biratnagar Kings,N Bhatta,Lokesh Bam,S Dhakal,1,0,,,,,,"",""
+ball,1,5.1,Biratnagar Kings,N Bhatta,Lokesh Bam,RA Reifer,0,0,,,,,,"",""
+ball,1,5.2,Biratnagar Kings,N Bhatta,Lokesh Bam,RA Reifer,0,0,,,,,,"",""
+ball,1,5.3,Biratnagar Kings,N Bhatta,Lokesh Bam,RA Reifer,1,0,,,,,,"",""
+ball,1,5.4,Biratnagar Kings,Lokesh Bam,N Bhatta,RA Reifer,6,0,,,,,,"",""
+ball,1,5.5,Biratnagar Kings,Lokesh Bam,N Bhatta,RA Reifer,0,0,,,,,,"",""
+ball,1,5.6,Biratnagar Kings,Lokesh Bam,N Bhatta,RA Reifer,0,0,,,,,,caught and bowled,Lokesh Bam
+ball,1,6.1,Biratnagar Kings,N Bhatta,SA Edwards,K Bhurtel,1,0,,,,,,"",""
+ball,1,6.2,Biratnagar Kings,SA Edwards,N Bhatta,K Bhurtel,1,0,,,,,,"",""
+ball,1,6.3,Biratnagar Kings,N Bhatta,SA Edwards,K Bhurtel,0,0,,,,,,"",""
+ball,1,6.4,Biratnagar Kings,N Bhatta,SA Edwards,K Bhurtel,0,0,,,,,,"",""
+ball,1,6.5,Biratnagar Kings,N Bhatta,SA Edwards,K Bhurtel,1,0,,,,,,"",""
+ball,1,6.6,Biratnagar Kings,SA Edwards,N Bhatta,K Bhurtel,0,0,,,,,,"",""
+ball,1,7.1,Biratnagar Kings,N Bhatta,SA Edwards,D Kharel,0,0,,,,,,caught,N Bhatta
+ball,1,7.2,Biratnagar Kings,NR Kirton,SA Edwards,D Kharel,2,0,,,,,,"",""
+ball,1,7.3,Biratnagar Kings,NR Kirton,SA Edwards,D Kharel,6,0,,,,,,"",""
+ball,1,7.4,Biratnagar Kings,NR Kirton,SA Edwards,D Kharel,0,0,,,,,,"",""
+ball,1,7.5,Biratnagar Kings,NR Kirton,SA Edwards,D Kharel,1,0,,,,,,"",""
+ball,1,7.6,Biratnagar Kings,SA Edwards,NR Kirton,D Kharel,0,0,,,,,,"",""
+ball,1,8.1,Biratnagar Kings,NR Kirton,SA Edwards,K Bhurtel,1,0,,,,,,"",""
+ball,1,8.2,Biratnagar Kings,SA Edwards,NR Kirton,K Bhurtel,4,0,,,,,,"",""
+ball,1,8.3,Biratnagar Kings,SA Edwards,NR Kirton,K Bhurtel,2,0,,,,,,"",""
+ball,1,8.4,Biratnagar Kings,SA Edwards,NR Kirton,K Bhurtel,1,0,,,,,,"",""
+ball,1,8.5,Biratnagar Kings,NR Kirton,SA Edwards,K Bhurtel,0,1,,,,1,,"",""
+ball,1,8.6,Biratnagar Kings,SA Edwards,NR Kirton,K Bhurtel,1,0,,,,,,"",""
+ball,1,9.1,Biratnagar Kings,SA Edwards,NR Kirton,MA Leask,1,0,,,,,,"",""
+ball,1,9.2,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,0,0,,,,,,"",""
+ball,1,9.3,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,9.4,Biratnagar Kings,SA Edwards,NR Kirton,MA Leask,1,0,,,,,,"",""
+ball,1,9.5,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,2,0,,,,,,"",""
+ball,1,9.6,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,0,0,,,,,,"",""
+ball,1,10.1,Biratnagar Kings,SA Edwards,NR Kirton,Bipin Khatri,4,0,,,,,,"",""
+ball,1,10.2,Biratnagar Kings,SA Edwards,NR Kirton,Bipin Khatri,1,0,,,,,,"",""
+ball,1,10.3,Biratnagar Kings,NR Kirton,SA Edwards,Bipin Khatri,2,0,,,,,,"",""
+ball,1,10.4,Biratnagar Kings,NR Kirton,SA Edwards,Bipin Khatri,1,0,,,,,,"",""
+ball,1,10.5,Biratnagar Kings,SA Edwards,NR Kirton,Bipin Khatri,4,0,,,,,,"",""
+ball,1,10.6,Biratnagar Kings,SA Edwards,NR Kirton,Bipin Khatri,1,0,,,,,,"",""
+ball,1,11.1,Biratnagar Kings,SA Edwards,NR Kirton,MA Leask,1,0,,,,,,"",""
+ball,1,11.2,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,11.3,Biratnagar Kings,SA Edwards,NR Kirton,MA Leask,1,0,,,,,,"",""
+ball,1,11.4,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,11.5,Biratnagar Kings,SA Edwards,NR Kirton,MA Leask,1,0,,,,,,"",""
+ball,1,11.6,Biratnagar Kings,NR Kirton,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,12.1,Biratnagar Kings,NR Kirton,SA Edwards,S Dhakal,0,0,,,,,,caught,NR Kirton
+ball,1,12.2,Biratnagar Kings,Basir Ahamad,SA Edwards,S Dhakal,0,0,,,,,,"",""
+ball,1,12.3,Biratnagar Kings,Basir Ahamad,SA Edwards,S Dhakal,1,0,,,,,,"",""
+ball,1,12.4,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,4,0,,,,,,"",""
+ball,1,12.5,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,0,0,,,,,,"",""
+ball,1,12.6,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,0,0,,,,,,"",""
+ball,1,13.1,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,0,0,,,,,,"",""
+ball,1,13.2,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,0,0,,,,,,"",""
+ball,1,13.3,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,2,0,,,,,,"",""
+ball,1,13.4,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,13.5,Biratnagar Kings,SA Edwards,Basir Ahamad,MA Leask,1,0,,,,,,"",""
+ball,1,13.6,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,0,0,,,,,,"",""
+ball,1,14.1,Biratnagar Kings,SA Edwards,Basir Ahamad,K Bhurtel,2,0,,,,,,"",""
+ball,1,14.2,Biratnagar Kings,SA Edwards,Basir Ahamad,K Bhurtel,1,0,,,,,,"",""
+ball,1,14.3,Biratnagar Kings,Basir Ahamad,SA Edwards,K Bhurtel,0,0,,,,,,"",""
+ball,1,14.4,Biratnagar Kings,Basir Ahamad,SA Edwards,K Bhurtel,6,0,,,,,,"",""
+ball,1,14.5,Biratnagar Kings,Basir Ahamad,SA Edwards,K Bhurtel,2,0,,,,,,"",""
+ball,1,14.6,Biratnagar Kings,Basir Ahamad,SA Edwards,K Bhurtel,1,0,,,,,,"",""
+ball,1,15.1,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,0,0,,,,,,"",""
+ball,1,15.2,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,15.3,Biratnagar Kings,SA Edwards,Basir Ahamad,MA Leask,1,0,,,,,,"",""
+ball,1,15.4,Biratnagar Kings,Basir Ahamad,SA Edwards,MA Leask,1,0,,,,,,"",""
+ball,1,15.5,Biratnagar Kings,SA Edwards,Basir Ahamad,MA Leask,0,0,,,,,,"",""
+ball,1,15.6,Biratnagar Kings,SA Edwards,Basir Ahamad,MA Leask,1,0,,,,,,"",""
+ball,1,16.1,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,0,0,,,,,,"",""
+ball,1,16.2,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,1,0,,,,,,"",""
+ball,1,16.3,Biratnagar Kings,Basir Ahamad,SA Edwards,S Dhakal,0,0,,,,,,"",""
+ball,1,16.4,Biratnagar Kings,Basir Ahamad,SA Edwards,S Dhakal,1,0,,,,,,"",""
+ball,1,16.5,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,2,0,,,,,,"",""
+ball,1,16.6,Biratnagar Kings,SA Edwards,Basir Ahamad,S Dhakal,1,0,,,,,,"",""
+ball,1,17.1,Biratnagar Kings,SA Edwards,Basir Ahamad,RA Reifer,4,0,,,,,,"",""
+ball,1,17.2,Biratnagar Kings,SA Edwards,Basir Ahamad,RA Reifer,1,0,,,,,,"",""
+ball,1,17.3,Biratnagar Kings,Basir Ahamad,SA Edwards,RA Reifer,1,0,,,,,,"",""
+ball,1,17.4,Biratnagar Kings,SA Edwards,Basir Ahamad,RA Reifer,1,0,,,,,,"",""
+ball,1,17.5,Biratnagar Kings,Basir Ahamad,SA Edwards,RA Reifer,1,0,,,,,,"",""
+ball,1,17.6,Biratnagar Kings,SA Edwards,Basir Ahamad,RA Reifer,1,0,,,,,,"",""
+ball,1,18.1,Biratnagar Kings,SA Edwards,Basir Ahamad,K Bhurtel,0,1,1,,,,,"",""
+ball,1,18.2,Biratnagar Kings,SA Edwards,Basir Ahamad,K Bhurtel,0,0,,,,,,"",""
+ball,1,18.3,Biratnagar Kings,SA Edwards,Basir Ahamad,K Bhurtel,0,0,,,,,,lbw,SA Edwards
+ball,1,18.4,Biratnagar Kings,CB Sole,Basir Ahamad,K Bhurtel,0,0,,,,,,"",""
+ball,1,18.5,Biratnagar Kings,CB Sole,Basir Ahamad,K Bhurtel,0,0,,,,,,"",""
+ball,1,18.6,Biratnagar Kings,CB Sole,Basir Ahamad,K Bhurtel,6,0,,,,,,"",""
+ball,1,18.7,Biratnagar Kings,CB Sole,Basir Ahamad,K Bhurtel,1,0,,,,,,"",""
+ball,1,19.1,Biratnagar Kings,CB Sole,Basir Ahamad,RA Reifer,0,0,,,,,,caught,CB Sole
+ball,1,19.2,Biratnagar Kings,D Bohara,Basir Ahamad,RA Reifer,0,0,,,,,,"",""
+ball,1,19.3,Biratnagar Kings,D Bohara,Basir Ahamad,RA Reifer,4,0,,,,,,"",""
+ball,1,19.4,Biratnagar Kings,D Bohara,Basir Ahamad,RA Reifer,0,1,1,,,,,run out,D Bohara
+ball,1,19.5,Biratnagar Kings,Basir Ahamad,Pratis GC,RA Reifer,2,0,,,,,,"",""
+ball,1,19.6,Biratnagar Kings,Basir Ahamad,Pratis GC,RA Reifer,1,0,,,,,,"",""
+ball,1,19.7,Biratnagar Kings,Pratis GC,Basir Ahamad,RA Reifer,4,0,,,,,,"",""
+ball,2,0.1,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,1,0,,,,,,"",""
+ball,2,0.2,Pokhara Avengers,AGS Gous,D Kharel,A Kharel,0,0,,,,,,"",""
+ball,2,0.3,Pokhara Avengers,AGS Gous,D Kharel,A Kharel,1,0,,,,,,"",""
+ball,2,0.4,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,1,0,,,,,,"",""
+ball,2,0.5,Pokhara Avengers,AGS Gous,D Kharel,A Kharel,4,0,,,,,,"",""
+ball,2,0.6,Pokhara Avengers,AGS Gous,D Kharel,A Kharel,0,0,,,,,,"",""
+ball,2,1.1,Pokhara Avengers,D Kharel,AGS Gous,CB Sole,1,0,,,,,,"",""
+ball,2,1.2,Pokhara Avengers,AGS Gous,D Kharel,CB Sole,0,0,,,,,,"",""
+ball,2,1.3,Pokhara Avengers,AGS Gous,D Kharel,CB Sole,4,0,,,,,,"",""
+ball,2,1.4,Pokhara Avengers,AGS Gous,D Kharel,CB Sole,0,4,,,,4,,"",""
+ball,2,1.5,Pokhara Avengers,AGS Gous,D Kharel,CB Sole,4,0,,,,,,"",""
+ball,2,1.6,Pokhara Avengers,AGS Gous,D Kharel,CB Sole,3,0,,,,,,"",""
+ball,2,2.1,Pokhara Avengers,AGS Gous,D Kharel,S Lamichhane,4,0,,,,,,"",""
+ball,2,2.2,Pokhara Avengers,AGS Gous,D Kharel,S Lamichhane,4,0,,,,,,"",""
+ball,2,2.3,Pokhara Avengers,AGS Gous,D Kharel,S Lamichhane,1,0,,,,,,"",""
+ball,2,2.4,Pokhara Avengers,D Kharel,AGS Gous,S Lamichhane,0,0,,,,,,"",""
+ball,2,2.5,Pokhara Avengers,D Kharel,AGS Gous,S Lamichhane,1,0,,,,,,"",""
+ball,2,2.6,Pokhara Avengers,AGS Gous,D Kharel,S Lamichhane,0,0,,,,,,"",""
+ball,2,3.1,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,0,0,,,,,,"",""
+ball,2,3.2,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,0,1,1,,,,,"",""
+ball,2,3.3,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,1,0,,,,,,"",""
+ball,2,3.4,Pokhara Avengers,AGS Gous,D Kharel,A Kharel,4,0,,,,,,"",""
+ball,2,3.5,Pokhara Avengers,AGS Gous,D Kharel,A Kharel,1,0,,,,,,"",""
+ball,2,3.6,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,0,0,,,,,,"",""
+ball,2,3.7,Pokhara Avengers,D Kharel,AGS Gous,A Kharel,6,0,,,,,,"",""
+ball,2,4.1,Pokhara Avengers,AGS Gous,D Kharel,Pratis GC,1,0,,,,,,"",""
+ball,2,4.2,Pokhara Avengers,D Kharel,AGS Gous,Pratis GC,0,0,,,,,,"",""
+ball,2,4.3,Pokhara Avengers,D Kharel,AGS Gous,Pratis GC,0,0,,,,,,caught,D Kharel
+ball,2,4.4,Pokhara Avengers,K Bhurtel,AGS Gous,Pratis GC,0,0,,,,,,"",""
+ball,2,4.5,Pokhara Avengers,K Bhurtel,AGS Gous,Pratis GC,1,0,,,,,,"",""
+ball,2,4.6,Pokhara Avengers,AGS Gous,K Bhurtel,Pratis GC,4,0,,,,,,"",""
+ball,2,5.1,Pokhara Avengers,K Bhurtel,AGS Gous,CB Sole,0,0,,,,,,"",""
+ball,2,5.2,Pokhara Avengers,K Bhurtel,AGS Gous,CB Sole,6,0,,,,,,"",""
+ball,2,5.3,Pokhara Avengers,K Bhurtel,AGS Gous,CB Sole,0,0,,,,,,"",""
+ball,2,5.4,Pokhara Avengers,K Bhurtel,AGS Gous,CB Sole,0,0,,,,,,"",""
+ball,2,5.5,Pokhara Avengers,K Bhurtel,AGS Gous,CB Sole,1,0,,,,,,"",""
+ball,2,5.6,Pokhara Avengers,AGS Gous,K Bhurtel,CB Sole,0,0,,,,,,"",""
+ball,2,6.1,Pokhara Avengers,K Bhurtel,AGS Gous,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.2,Pokhara Avengers,AGS Gous,K Bhurtel,S Lamichhane,0,0,,,,,,"",""
+ball,2,6.3,Pokhara Avengers,AGS Gous,K Bhurtel,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.4,Pokhara Avengers,K Bhurtel,AGS Gous,S Lamichhane,2,0,,,,,,"",""
+ball,2,6.5,Pokhara Avengers,K Bhurtel,AGS Gous,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.6,Pokhara Avengers,AGS Gous,K Bhurtel,S Lamichhane,0,0,,,,,,"",""
+ball,2,7.1,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,0,0,,,,,,"",""
+ball,2,7.2,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.3,Pokhara Avengers,AGS Gous,K Bhurtel,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.4,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,0,0,,,,,,"",""
+ball,2,7.5,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.6,Pokhara Avengers,AGS Gous,K Bhurtel,Basir Ahamad,0,0,,,,,,"",""
+ball,2,8.1,Pokhara Avengers,K Bhurtel,AGS Gous,A Kharel,0,0,,,,,,"",""
+ball,2,8.2,Pokhara Avengers,K Bhurtel,AGS Gous,A Kharel,4,0,,,,,,"",""
+ball,2,8.3,Pokhara Avengers,K Bhurtel,AGS Gous,A Kharel,4,0,,,,,,"",""
+ball,2,8.4,Pokhara Avengers,K Bhurtel,AGS Gous,A Kharel,0,0,,,,,,"",""
+ball,2,8.5,Pokhara Avengers,K Bhurtel,AGS Gous,A Kharel,1,0,,,,,,"",""
+ball,2,8.6,Pokhara Avengers,AGS Gous,K Bhurtel,A Kharel,0,0,,,,,,"",""
+ball,2,9.1,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,0,0,,,,,,"",""
+ball,2,9.2,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,0,0,,,,,,"",""
+ball,2,9.3,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,1,0,,,,,,"",""
+ball,2,9.4,Pokhara Avengers,AGS Gous,K Bhurtel,Basir Ahamad,1,0,,,,,,"",""
+ball,2,9.5,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,0,0,,,,,,"",""
+ball,2,9.6,Pokhara Avengers,K Bhurtel,AGS Gous,Basir Ahamad,0,0,,,,,,"",""
+ball,2,10.1,Pokhara Avengers,AGS Gous,K Bhurtel,Pratis GC,1,0,,,,,,"",""
+ball,2,10.2,Pokhara Avengers,K Bhurtel,AGS Gous,Pratis GC,1,0,,,,,,"",""
+ball,2,10.3,Pokhara Avengers,AGS Gous,K Bhurtel,Pratis GC,0,0,,,,,,caught,AGS Gous
+ball,2,10.4,Pokhara Avengers,Z Malik,K Bhurtel,Pratis GC,0,0,,,,,,"",""
+ball,2,10.5,Pokhara Avengers,Z Malik,K Bhurtel,Pratis GC,0,0,,,,,,"",""
+ball,2,10.6,Pokhara Avengers,Z Malik,K Bhurtel,Pratis GC,1,0,,,,,,"",""
+ball,2,11.1,Pokhara Avengers,Z Malik,K Bhurtel,S Lamichhane,1,0,,,,,,"",""
+ball,2,11.2,Pokhara Avengers,K Bhurtel,Z Malik,S Lamichhane,1,0,,,,,,"",""
+ball,2,11.3,Pokhara Avengers,Z Malik,K Bhurtel,S Lamichhane,0,0,,,,,,"",""
+ball,2,11.4,Pokhara Avengers,Z Malik,K Bhurtel,S Lamichhane,0,0,,,,,,"",""
+ball,2,11.5,Pokhara Avengers,Z Malik,K Bhurtel,S Lamichhane,1,0,,,,,,"",""
+ball,2,11.6,Pokhara Avengers,K Bhurtel,Z Malik,S Lamichhane,1,0,,,,,,"",""
+ball,2,12.1,Pokhara Avengers,K Bhurtel,Z Malik,Pratis GC,0,0,,,,,,"",""
+ball,2,12.2,Pokhara Avengers,K Bhurtel,Z Malik,Pratis GC,1,0,,,,,,"",""
+ball,2,12.3,Pokhara Avengers,Z Malik,K Bhurtel,Pratis GC,1,0,,,,,,"",""
+ball,2,12.4,Pokhara Avengers,K Bhurtel,Z Malik,Pratis GC,1,0,,,,,,"",""
+ball,2,12.5,Pokhara Avengers,Z Malik,K Bhurtel,Pratis GC,0,0,,,,,,bowled,Z Malik
+ball,2,12.6,Pokhara Avengers,RA Reifer,K Bhurtel,Pratis GC,0,0,,,,,,"",""
+ball,2,13.1,Pokhara Avengers,K Bhurtel,RA Reifer,NR Kirton,0,0,,,,,,"",""
+ball,2,13.2,Pokhara Avengers,K Bhurtel,RA Reifer,NR Kirton,1,0,,,,,,"",""
+ball,2,13.3,Pokhara Avengers,RA Reifer,K Bhurtel,NR Kirton,1,0,,,,,,"",""
+ball,2,13.4,Pokhara Avengers,K Bhurtel,RA Reifer,NR Kirton,1,0,,,,,,"",""
+ball,2,13.5,Pokhara Avengers,RA Reifer,K Bhurtel,NR Kirton,0,0,,,,,,"",""
+ball,2,13.6,Pokhara Avengers,RA Reifer,K Bhurtel,NR Kirton,1,0,,,,,,"",""
+ball,2,14.1,Pokhara Avengers,RA Reifer,K Bhurtel,CB Sole,1,0,,,,,,"",""
+ball,2,14.2,Pokhara Avengers,K Bhurtel,RA Reifer,CB Sole,0,0,,,,,,caught,K Bhurtel
+ball,2,14.3,Pokhara Avengers,TR Das,RA Reifer,CB Sole,0,0,,,,,,lbw,TR Das
+ball,2,14.4,Pokhara Avengers,MA Leask,RA Reifer,CB Sole,1,0,,,,,,"",""
+ball,2,14.5,Pokhara Avengers,RA Reifer,MA Leask,CB Sole,1,0,,,,,,"",""
+ball,2,14.6,Pokhara Avengers,MA Leask,RA Reifer,CB Sole,0,1,,,,1,,"",""
+ball,2,15.1,Pokhara Avengers,MA Leask,RA Reifer,NR Kirton,1,0,,,,,,"",""
+ball,2,15.2,Pokhara Avengers,RA Reifer,MA Leask,NR Kirton,1,0,,,,,,"",""
+ball,2,15.3,Pokhara Avengers,MA Leask,RA Reifer,NR Kirton,6,0,,,,,,"",""
+ball,2,15.4,Pokhara Avengers,MA Leask,RA Reifer,NR Kirton,1,0,,,,,,"",""
+ball,2,15.5,Pokhara Avengers,RA Reifer,MA Leask,NR Kirton,4,0,,,,,,"",""
+ball,2,15.6,Pokhara Avengers,RA Reifer,MA Leask,NR Kirton,0,0,,,,,,"",""
+ball,2,16.1,Pokhara Avengers,MA Leask,RA Reifer,CB Sole,1,0,,,,,,"",""
+ball,2,16.2,Pokhara Avengers,RA Reifer,MA Leask,CB Sole,4,0,,,,,,"",""
+ball,2,16.3,Pokhara Avengers,RA Reifer,MA Leask,CB Sole,0,0,,,,,,"",""
+ball,2,16.4,Pokhara Avengers,RA Reifer,MA Leask,CB Sole,2,0,,,,,,"",""
+ball,2,16.5,Pokhara Avengers,RA Reifer,MA Leask,CB Sole,1,0,,,,,,"",""
+ball,2,16.6,Pokhara Avengers,MA Leask,RA Reifer,CB Sole,0,0,,,,,,"",""
+ball,2,17.1,Pokhara Avengers,RA Reifer,MA Leask,S Lamichhane,0,1,,,,1,,"",""
+ball,2,17.2,Pokhara Avengers,MA Leask,RA Reifer,S Lamichhane,0,0,,,,,,"",""
+ball,2,17.3,Pokhara Avengers,MA Leask,RA Reifer,S Lamichhane,1,0,,,,,,"",""
+ball,2,17.4,Pokhara Avengers,RA Reifer,MA Leask,S Lamichhane,1,0,,,,,,"",""
+ball,2,17.5,Pokhara Avengers,MA Leask,RA Reifer,S Lamichhane,0,0,,,,,,"",""
+ball,2,17.6,Pokhara Avengers,MA Leask,RA Reifer,S Lamichhane,0,0,,,,,,"",""
+ball,2,18.1,Pokhara Avengers,RA Reifer,MA Leask,Pratis GC,0,0,,,,,,"",""
+ball,2,18.2,Pokhara Avengers,RA Reifer,MA Leask,Pratis GC,4,0,,,,,,"",""
+ball,2,18.3,Pokhara Avengers,RA Reifer,MA Leask,Pratis GC,1,0,,,,,,"",""
+ball,2,18.4,Pokhara Avengers,MA Leask,RA Reifer,Pratis GC,0,0,,,,,,bowled,MA Leask
+ball,2,18.5,Pokhara Avengers,N Joshi,RA Reifer,Pratis GC,1,0,,,,,,"",""
+ball,2,18.6,Pokhara Avengers,RA Reifer,N Joshi,Pratis GC,0,0,,,,,,"",""
+ball,2,19.1,Pokhara Avengers,N Joshi,RA Reifer,Basir Ahamad,0,0,,,,,,"",""
+ball,2,19.2,Pokhara Avengers,N Joshi,RA Reifer,Basir Ahamad,1,0,,,,,,"",""
+ball,2,19.3,Pokhara Avengers,RA Reifer,N Joshi,Basir Ahamad,6,0,,,,,,"",""
+ball,2,19.4,Pokhara Avengers,RA Reifer,N Joshi,Basir Ahamad,0,0,,,,,,"",""
+ball,2,19.5,Pokhara Avengers,RA Reifer,N Joshi,Basir Ahamad,0,0,,,,,,"",""
+ball,2,19.6,Pokhara Avengers,RA Reifer,N Joshi,Basir Ahamad,6,0,,,,,,"",""
+ball,3,0.1,Pokhara Avengers,RA Reifer,AGS Gous,S Lamichhane,6,0,,,,,,"",""
+ball,3,0.2,Pokhara Avengers,RA Reifer,AGS Gous,S Lamichhane,6,0,,,,,,"",""
+ball,3,0.3,Pokhara Avengers,RA Reifer,AGS Gous,S Lamichhane,0,0,,,,,,"",""
+ball,3,0.4,Pokhara Avengers,RA Reifer,AGS Gous,S Lamichhane,4,0,,,,,,"",""
+ball,3,0.5,Pokhara Avengers,RA Reifer,AGS Gous,S Lamichhane,1,0,,,,,,"",""
+ball,3,0.6,Pokhara Avengers,AGS Gous,RA Reifer,S Lamichhane,1,0,,,,,,"",""
+ball,4,0.1,Biratnagar Kings,MJ Guptill,NR Kirton,RA Reifer,1,0,,,,,,"",""
+ball,4,0.2,Biratnagar Kings,NR Kirton,MJ Guptill,RA Reifer,1,0,,,,,,"",""
+ball,4,0.3,Biratnagar Kings,MJ Guptill,NR Kirton,RA Reifer,1,0,,,,,,"",""
+ball,4,0.4,Biratnagar Kings,NR Kirton,MJ Guptill,RA Reifer,0,0,,,,,,"",""
+ball,4,0.5,Biratnagar Kings,NR Kirton,MJ Guptill,RA Reifer,1,0,,,,,,"",""
+ball,4,0.6,Biratnagar Kings,MJ Guptill,NR Kirton,RA Reifer,0,1,1,,,,,"",""
+ball,4,0.7,Biratnagar Kings,MJ Guptill,NR Kirton,RA Reifer,0,0,,,,,,"",""

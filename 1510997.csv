@@ -1,0 +1,315 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pokhara Avengers
+info,team,Karnali Yaks
+info,gender,male
+info,season,2025/26
+info,date,2025/12/02
+info,event,Nepal Premier League
+info,match_number,21
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Karnali Yaks
+info,toss_decision,field
+info,player_of_match,AM Rossington
+info,umpire,LE Hannibal
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,SK Sigdel
+info,tv_umpire,RR Wimalasiri
+info,match_referee,M Nayyar
+info,winner,Pokhara Avengers
+info,winner_runs,34
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,AM Rossington
+info,player,Pokhara Avengers,JJ Roy
+info,player,Pokhara Avengers,D Lakshan
+info,player,Pokhara Avengers,TR Das
+info,player,Pokhara Avengers,Aakash Chand
+info,player,Pokhara Avengers,K Thagunna
+info,player,Pokhara Avengers,R Dhawan
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,S Dhakal
+info,player,Pokhara Avengers,SK Chettri
+info,player,Karnali Yaks,MRJ Watt
+info,player,Karnali Yaks,Priyank Panchal
+info,player,Karnali Yaks,JA Kolsawala
+info,player,Karnali Yaks,P Sarraf
+info,player,Karnali Yaks,Najibullah Zadran
+info,player,Karnali Yaks,Gulsan Jha
+info,player,Karnali Yaks,Sompal Kami
+info,player,Karnali Yaks,D Rawat
+info,player,Karnali Yaks,NK Yadav
+info,player,Karnali Yaks,UB Singh
+info,player,Karnali Yaks,BP Sharma
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aakash Chand,279c51f0
+info,registry,people,BP Sharma,947ceca5
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,D Lakshan,0a2184d9
+info,registry,people,D Rawat,c6ff5ac2
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,JA Kolsawala,d48af8d7
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Thagunna,97d86e77
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,NK Yadav,737e595d
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,P Sarraf,82294960
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,R Dhawan,26a85969
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Dhakal,8955b928
+info,registry,people,SK Chettri,f5138f72
+info,registry,people,SK Sigdel,e34ab986
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,TR Das,40f1a776
+info,registry,people,UB Singh,92493bc9
+ball,1,0.1,Pokhara Avengers,K Bhurtel,AM Rossington,BP Sharma,4,0,,,,,,"",""
+ball,1,0.2,Pokhara Avengers,K Bhurtel,AM Rossington,BP Sharma,0,0,,,,,,"",""
+ball,1,0.3,Pokhara Avengers,K Bhurtel,AM Rossington,BP Sharma,0,0,,,,,,"",""
+ball,1,0.4,Pokhara Avengers,K Bhurtel,AM Rossington,BP Sharma,0,0,,,,,,"",""
+ball,1,0.5,Pokhara Avengers,K Bhurtel,AM Rossington,BP Sharma,0,0,,,,,,"",""
+ball,1,0.6,Pokhara Avengers,K Bhurtel,AM Rossington,BP Sharma,0,0,,,,,,"",""
+ball,1,1.1,Pokhara Avengers,AM Rossington,K Bhurtel,NK Yadav,0,0,,,,,,"",""
+ball,1,1.2,Pokhara Avengers,AM Rossington,K Bhurtel,NK Yadav,0,0,,,,,,"",""
+ball,1,1.3,Pokhara Avengers,AM Rossington,K Bhurtel,NK Yadav,1,0,,,,,,"",""
+ball,1,1.4,Pokhara Avengers,K Bhurtel,AM Rossington,NK Yadav,0,0,,,,,,"",""
+ball,1,1.5,Pokhara Avengers,K Bhurtel,AM Rossington,NK Yadav,0,0,,,,,,"",""
+ball,1,1.6,Pokhara Avengers,K Bhurtel,AM Rossington,NK Yadav,6,0,,,,,,"",""
+ball,1,2.1,Pokhara Avengers,AM Rossington,K Bhurtel,BP Sharma,0,0,,,,,,"",""
+ball,1,2.2,Pokhara Avengers,AM Rossington,K Bhurtel,BP Sharma,6,0,,,,,,"",""
+ball,1,2.3,Pokhara Avengers,AM Rossington,K Bhurtel,BP Sharma,4,0,,,,,,"",""
+ball,1,2.4,Pokhara Avengers,AM Rossington,K Bhurtel,BP Sharma,4,0,,,,,,"",""
+ball,1,2.5,Pokhara Avengers,AM Rossington,K Bhurtel,BP Sharma,0,0,,,,,,"",""
+ball,1,2.6,Pokhara Avengers,AM Rossington,K Bhurtel,BP Sharma,0,0,,,,,,"",""
+ball,1,3.1,Pokhara Avengers,K Bhurtel,AM Rossington,Sompal Kami,0,0,,,,,,"",""
+ball,1,3.2,Pokhara Avengers,K Bhurtel,AM Rossington,Sompal Kami,4,0,,,,,,"",""
+ball,1,3.3,Pokhara Avengers,K Bhurtel,AM Rossington,Sompal Kami,0,0,,,,,,"",""
+ball,1,3.4,Pokhara Avengers,K Bhurtel,AM Rossington,Sompal Kami,0,0,,,,,,"",""
+ball,1,3.5,Pokhara Avengers,K Bhurtel,AM Rossington,Sompal Kami,4,0,,,,,,"",""
+ball,1,3.6,Pokhara Avengers,K Bhurtel,AM Rossington,Sompal Kami,0,0,,,,,,"",""
+ball,1,4.1,Pokhara Avengers,AM Rossington,K Bhurtel,MRJ Watt,0,0,,,,,,"",""
+ball,1,4.2,Pokhara Avengers,AM Rossington,K Bhurtel,MRJ Watt,0,0,,,,,,"",""
+ball,1,4.3,Pokhara Avengers,AM Rossington,K Bhurtel,MRJ Watt,1,0,,,,,,"",""
+ball,1,4.4,Pokhara Avengers,K Bhurtel,AM Rossington,MRJ Watt,0,0,,,,,,"",""
+ball,1,4.5,Pokhara Avengers,K Bhurtel,AM Rossington,MRJ Watt,0,0,,,,,,caught,K Bhurtel
+ball,1,4.6,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,1,0,,,,,,"",""
+ball,1,5.1,Pokhara Avengers,JJ Roy,AM Rossington,BP Sharma,1,0,,,,,,"",""
+ball,1,5.2,Pokhara Avengers,AM Rossington,JJ Roy,BP Sharma,4,0,,,,,,"",""
+ball,1,5.3,Pokhara Avengers,AM Rossington,JJ Roy,BP Sharma,1,0,,,,,,"",""
+ball,1,5.4,Pokhara Avengers,JJ Roy,AM Rossington,BP Sharma,2,0,,,,,,"",""
+ball,1,5.5,Pokhara Avengers,JJ Roy,AM Rossington,BP Sharma,0,0,,,,,,"",""
+ball,1,5.6,Pokhara Avengers,JJ Roy,AM Rossington,BP Sharma,1,0,,,,,,"",""
+ball,1,6.1,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.2,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.3,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,4,0,,,,,,"",""
+ball,1,6.4,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,6,0,,,,,,"",""
+ball,1,6.5,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.6,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,0,0,,,,,,"",""
+ball,1,7.1,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,0,0,,,,,,"",""
+ball,1,7.2,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,1,0,,,,,,"",""
+ball,1,7.3,Pokhara Avengers,JJ Roy,AM Rossington,D Rawat,0,0,,,,,,"",""
+ball,1,7.4,Pokhara Avengers,JJ Roy,AM Rossington,D Rawat,1,0,,,,,,"",""
+ball,1,7.5,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,0,0,,,,,,"",""
+ball,1,7.6,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,1,0,,,,,,"",""
+ball,1,8.1,Pokhara Avengers,AM Rossington,JJ Roy,UB Singh,4,0,,,,,,"",""
+ball,1,8.2,Pokhara Avengers,AM Rossington,JJ Roy,UB Singh,4,0,,,,,,"",""
+ball,1,8.3,Pokhara Avengers,AM Rossington,JJ Roy,UB Singh,6,0,,,,,,"",""
+ball,1,8.4,Pokhara Avengers,AM Rossington,JJ Roy,UB Singh,0,0,,,,,,"",""
+ball,1,8.5,Pokhara Avengers,AM Rossington,JJ Roy,UB Singh,0,0,,,,,,"",""
+ball,1,8.6,Pokhara Avengers,AM Rossington,JJ Roy,UB Singh,2,0,,,,,,"",""
+ball,1,9.1,Pokhara Avengers,JJ Roy,AM Rossington,D Rawat,1,0,,,,,,"",""
+ball,1,9.2,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,4,0,,,,,,"",""
+ball,1,9.3,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,1,0,,,,,,"",""
+ball,1,9.4,Pokhara Avengers,JJ Roy,AM Rossington,D Rawat,1,0,,,,,,"",""
+ball,1,9.5,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,4,0,,,,,,"",""
+ball,1,9.6,Pokhara Avengers,AM Rossington,JJ Roy,D Rawat,1,0,,,,,,"",""
+ball,1,10.1,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,0,0,,,,,,"",""
+ball,1,10.2,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,1,0,,,,,,"",""
+ball,1,10.3,Pokhara Avengers,JJ Roy,AM Rossington,Sompal Kami,0,0,,,,,,"",""
+ball,1,10.4,Pokhara Avengers,JJ Roy,AM Rossington,Sompal Kami,1,0,,,,,,"",""
+ball,1,10.5,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,6,0,,,,,,"",""
+ball,1,10.6,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,6,0,,,,,,"",""
+ball,1,11.1,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,0,0,,,,,,"",""
+ball,1,11.2,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,1,0,,,,,,"",""
+ball,1,11.3,Pokhara Avengers,AM Rossington,JJ Roy,Gulsan Jha,1,0,,,,,,"",""
+ball,1,11.4,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,3,0,,,,,,"",""
+ball,1,11.5,Pokhara Avengers,AM Rossington,JJ Roy,Gulsan Jha,4,0,,,,,,"",""
+ball,1,11.6,Pokhara Avengers,AM Rossington,JJ Roy,Gulsan Jha,0,0,,,,,,"",""
+ball,1,12.1,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,0,1,1,,,,,"",""
+ball,1,12.2,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,0,0,,,,,,"",""
+ball,1,12.3,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,1,0,,,,,,"",""
+ball,1,12.4,Pokhara Avengers,AM Rossington,JJ Roy,NK Yadav,1,0,,,,,,"",""
+ball,1,12.5,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,1,0,,,,,,"",""
+ball,1,12.6,Pokhara Avengers,AM Rossington,JJ Roy,NK Yadav,4,0,,,,,,"",""
+ball,1,12.7,Pokhara Avengers,AM Rossington,JJ Roy,NK Yadav,0,0,,,,,,"",""
+ball,1,13.1,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,0,1,1,,,,,"",""
+ball,1,13.2,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,0,0,,,,,,"",""
+ball,1,13.3,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,6,0,,,,,,"",""
+ball,1,13.4,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,1,0,,,,,,"",""
+ball,1,13.5,Pokhara Avengers,AM Rossington,JJ Roy,Gulsan Jha,1,0,,,,,,"",""
+ball,1,13.6,Pokhara Avengers,JJ Roy,AM Rossington,Gulsan Jha,1,0,,,,,,"",""
+ball,1,13.7,Pokhara Avengers,AM Rossington,JJ Roy,Gulsan Jha,0,0,,,,,,"",""
+ball,1,14.1,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,1,0,,,,,,"",""
+ball,1,14.2,Pokhara Avengers,AM Rossington,JJ Roy,MRJ Watt,6,0,,,,,,"",""
+ball,1,14.3,Pokhara Avengers,AM Rossington,JJ Roy,MRJ Watt,0,0,,,,,,"",""
+ball,1,14.4,Pokhara Avengers,AM Rossington,JJ Roy,MRJ Watt,4,0,,,,,,"",""
+ball,1,14.5,Pokhara Avengers,AM Rossington,JJ Roy,MRJ Watt,1,0,,,,,,"",""
+ball,1,14.6,Pokhara Avengers,JJ Roy,AM Rossington,MRJ Watt,0,0,,,,,,"",""
+ball,1,15.1,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,1,0,,,,,,"",""
+ball,1,15.2,Pokhara Avengers,JJ Roy,AM Rossington,Sompal Kami,4,0,,,,,,"",""
+ball,1,15.3,Pokhara Avengers,JJ Roy,AM Rossington,Sompal Kami,1,0,,,,,,"",""
+ball,1,15.4,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,6,0,,,,,,"",""
+ball,1,15.5,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,0,0,,,,,,"",""
+ball,1,15.6,Pokhara Avengers,AM Rossington,JJ Roy,Sompal Kami,1,0,,,,,,"",""
+ball,1,16.1,Pokhara Avengers,AM Rossington,JJ Roy,NK Yadav,1,0,,,,,,"",""
+ball,1,16.2,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,1,0,,,,,,"",""
+ball,1,16.3,Pokhara Avengers,AM Rossington,JJ Roy,NK Yadav,1,0,,,,,,"",""
+ball,1,16.4,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,6,0,,,,,,"",""
+ball,1,16.5,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,0,1,1,,,,,"",""
+ball,1,16.6,Pokhara Avengers,JJ Roy,AM Rossington,NK Yadav,0,0,,,,,,caught,JJ Roy
+ball,1,16.7,Pokhara Avengers,D Lakshan,AM Rossington,NK Yadav,0,0,,,,,,"",""
+ball,1,17.1,Pokhara Avengers,AM Rossington,D Lakshan,Sompal Kami,1,0,,,,,,"",""
+ball,1,17.2,Pokhara Avengers,D Lakshan,AM Rossington,Sompal Kami,4,0,,,,,,"",""
+ball,1,17.3,Pokhara Avengers,D Lakshan,AM Rossington,Sompal Kami,4,0,,,,,,"",""
+ball,1,17.4,Pokhara Avengers,D Lakshan,AM Rossington,Sompal Kami,4,0,,,,,,"",""
+ball,1,17.5,Pokhara Avengers,D Lakshan,AM Rossington,Sompal Kami,1,0,,,,,,"",""
+ball,1,17.6,Pokhara Avengers,AM Rossington,D Lakshan,Sompal Kami,1,0,,,,,,"",""
+ball,1,18.1,Pokhara Avengers,AM Rossington,D Lakshan,NK Yadav,0,0,,,,,,"",""
+ball,1,18.2,Pokhara Avengers,AM Rossington,D Lakshan,NK Yadav,1,0,,,,,,"",""
+ball,1,18.3,Pokhara Avengers,D Lakshan,AM Rossington,NK Yadav,0,0,,,,,,"",""
+ball,1,18.4,Pokhara Avengers,D Lakshan,AM Rossington,NK Yadav,0,0,,,,,,"",""
+ball,1,18.5,Pokhara Avengers,D Lakshan,AM Rossington,NK Yadav,1,0,,,,,,"",""
+ball,1,18.6,Pokhara Avengers,AM Rossington,D Lakshan,NK Yadav,0,3,3,,,,,"",""
+ball,1,18.7,Pokhara Avengers,AM Rossington,D Lakshan,NK Yadav,4,0,,,,,,"",""
+ball,1,19.1,Pokhara Avengers,D Lakshan,AM Rossington,Gulsan Jha,6,0,,,,,,"",""
+ball,1,19.2,Pokhara Avengers,D Lakshan,AM Rossington,Gulsan Jha,2,0,,,,,,"",""
+ball,1,19.3,Pokhara Avengers,D Lakshan,AM Rossington,Gulsan Jha,1,0,,,,,,"",""
+ball,1,19.4,Pokhara Avengers,AM Rossington,D Lakshan,Gulsan Jha,0,0,,,,,,"",""
+ball,1,19.5,Pokhara Avengers,AM Rossington,D Lakshan,Gulsan Jha,6,0,,,,,,"",""
+ball,1,19.6,Pokhara Avengers,AM Rossington,D Lakshan,Gulsan Jha,1,0,,,,,,"",""
+ball,2,0.1,Karnali Yaks,MRJ Watt,Priyank Panchal,Bipin Khatri,0,1,1,,,,,"",""
+ball,2,0.2,Karnali Yaks,MRJ Watt,Priyank Panchal,Bipin Khatri,6,0,,,,,,"",""
+ball,2,0.3,Karnali Yaks,MRJ Watt,Priyank Panchal,Bipin Khatri,1,0,,,,,,"",""
+ball,2,0.4,Karnali Yaks,Priyank Panchal,MRJ Watt,Bipin Khatri,1,0,,,,,,"",""
+ball,2,0.5,Karnali Yaks,MRJ Watt,Priyank Panchal,Bipin Khatri,6,0,,,,,,"",""
+ball,2,0.6,Karnali Yaks,MRJ Watt,Priyank Panchal,Bipin Khatri,1,0,,,,,,"",""
+ball,2,0.7,Karnali Yaks,Priyank Panchal,MRJ Watt,Bipin Khatri,1,0,,,,,,"",""
+ball,2,1.1,Karnali Yaks,Priyank Panchal,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,1.2,Karnali Yaks,Priyank Panchal,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,1.3,Karnali Yaks,Priyank Panchal,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,1.4,Karnali Yaks,Priyank Panchal,MRJ Watt,D Lakshan,1,0,,,,,,"",""
+ball,2,1.5,Karnali Yaks,MRJ Watt,Priyank Panchal,D Lakshan,0,1,1,,,,,"",""
+ball,2,1.6,Karnali Yaks,MRJ Watt,Priyank Panchal,D Lakshan,0,0,,,,,,"",""
+ball,2,1.7,Karnali Yaks,MRJ Watt,Priyank Panchal,D Lakshan,1,0,,,,,,"",""
+ball,2,2.1,Karnali Yaks,MRJ Watt,Priyank Panchal,R Dhawan,0,0,,,,,,"",""
+ball,2,2.2,Karnali Yaks,MRJ Watt,Priyank Panchal,R Dhawan,1,0,,,,,,"",""
+ball,2,2.3,Karnali Yaks,Priyank Panchal,MRJ Watt,R Dhawan,6,0,,,,,,"",""
+ball,2,2.4,Karnali Yaks,Priyank Panchal,MRJ Watt,R Dhawan,6,0,,,,,,"",""
+ball,2,2.5,Karnali Yaks,Priyank Panchal,MRJ Watt,R Dhawan,0,0,,,,,,"",""
+ball,2,2.6,Karnali Yaks,Priyank Panchal,MRJ Watt,R Dhawan,1,0,,,,,,"",""
+ball,2,3.1,Karnali Yaks,Priyank Panchal,MRJ Watt,D Lakshan,0,0,,,,,,caught,Priyank Panchal
+ball,2,3.2,Karnali Yaks,JA Kolsawala,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,3.3,Karnali Yaks,JA Kolsawala,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,3.4,Karnali Yaks,JA Kolsawala,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,3.5,Karnali Yaks,JA Kolsawala,MRJ Watt,D Lakshan,2,0,,,,,,"",""
+ball,2,3.6,Karnali Yaks,JA Kolsawala,MRJ Watt,D Lakshan,0,0,,,,,,"",""
+ball,2,4.1,Karnali Yaks,MRJ Watt,JA Kolsawala,Aakash Chand,0,0,,,,,,"",""
+ball,2,4.2,Karnali Yaks,MRJ Watt,JA Kolsawala,Aakash Chand,2,0,,,,,,"",""
+ball,2,4.3,Karnali Yaks,MRJ Watt,JA Kolsawala,Aakash Chand,4,0,,,,,,"",""
+ball,2,4.4,Karnali Yaks,MRJ Watt,JA Kolsawala,Aakash Chand,4,0,,,,,,"",""
+ball,2,4.5,Karnali Yaks,MRJ Watt,JA Kolsawala,Aakash Chand,0,0,,,,,,"",""
+ball,2,4.6,Karnali Yaks,MRJ Watt,JA Kolsawala,Aakash Chand,1,0,,,,,,"",""
+ball,2,5.1,Karnali Yaks,MRJ Watt,JA Kolsawala,D Lakshan,6,0,,,,,,"",""
+ball,2,5.2,Karnali Yaks,MRJ Watt,JA Kolsawala,D Lakshan,0,0,,,,,,"",""
+ball,2,5.3,Karnali Yaks,MRJ Watt,JA Kolsawala,D Lakshan,4,0,,,,,,"",""
+ball,2,5.4,Karnali Yaks,MRJ Watt,JA Kolsawala,D Lakshan,6,0,,,,,,"",""
+ball,2,5.5,Karnali Yaks,MRJ Watt,JA Kolsawala,D Lakshan,0,0,,,,,,"",""
+ball,2,5.6,Karnali Yaks,MRJ Watt,JA Kolsawala,D Lakshan,6,0,,,,,,"",""
+ball,2,6.1,Karnali Yaks,JA Kolsawala,MRJ Watt,K Thagunna,1,0,,,,,,"",""
+ball,2,6.2,Karnali Yaks,MRJ Watt,JA Kolsawala,K Thagunna,0,0,,,,,,"",""
+ball,2,6.3,Karnali Yaks,MRJ Watt,JA Kolsawala,K Thagunna,1,0,,,,,,"",""
+ball,2,6.4,Karnali Yaks,JA Kolsawala,MRJ Watt,K Thagunna,2,0,,,,,,"",""
+ball,2,6.5,Karnali Yaks,JA Kolsawala,MRJ Watt,K Thagunna,0,0,,,,,,"",""
+ball,2,6.6,Karnali Yaks,JA Kolsawala,MRJ Watt,K Thagunna,1,1,,1,,,,"",""
+ball,2,6.7,Karnali Yaks,MRJ Watt,JA Kolsawala,K Thagunna,1,0,,,,,,"",""
+ball,2,7.1,Karnali Yaks,MRJ Watt,JA Kolsawala,SK Chettri,1,0,,,,,,"",""
+ball,2,7.2,Karnali Yaks,JA Kolsawala,MRJ Watt,SK Chettri,0,0,,,,,,stumped,JA Kolsawala
+ball,2,7.3,Karnali Yaks,P Sarraf,MRJ Watt,SK Chettri,1,0,,,,,,"",""
+ball,2,7.4,Karnali Yaks,MRJ Watt,P Sarraf,SK Chettri,0,1,1,,,,,"",""
+ball,2,7.5,Karnali Yaks,MRJ Watt,P Sarraf,SK Chettri,0,0,,,,,,"",""
+ball,2,7.6,Karnali Yaks,MRJ Watt,P Sarraf,SK Chettri,0,1,1,,,,,"",""
+ball,2,7.7,Karnali Yaks,MRJ Watt,P Sarraf,SK Chettri,0,0,,,,,,"",""
+ball,2,7.8,Karnali Yaks,MRJ Watt,P Sarraf,SK Chettri,0,1,1,,,,,"",""
+ball,2,7.9,Karnali Yaks,MRJ Watt,P Sarraf,SK Chettri,0,0,,,,,,"",""
+ball,2,8.1,Karnali Yaks,P Sarraf,MRJ Watt,K Bhurtel,1,0,,,,,,"",""
+ball,2,8.2,Karnali Yaks,MRJ Watt,P Sarraf,K Bhurtel,1,0,,,,,,"",""
+ball,2,8.3,Karnali Yaks,P Sarraf,MRJ Watt,K Bhurtel,1,0,,,,,,"",""
+ball,2,8.4,Karnali Yaks,MRJ Watt,P Sarraf,K Bhurtel,0,0,,,,,,"",""
+ball,2,8.5,Karnali Yaks,MRJ Watt,P Sarraf,K Bhurtel,4,0,,,,,,"",""
+ball,2,8.6,Karnali Yaks,MRJ Watt,P Sarraf,K Bhurtel,1,0,,,,,,"",""
+ball,2,9.1,Karnali Yaks,MRJ Watt,P Sarraf,K Thagunna,0,0,,,,,,"",""
+ball,2,9.2,Karnali Yaks,MRJ Watt,P Sarraf,K Thagunna,1,0,,,,,,"",""
+ball,2,9.3,Karnali Yaks,P Sarraf,MRJ Watt,K Thagunna,4,0,,,,,,"",""
+ball,2,9.4,Karnali Yaks,P Sarraf,MRJ Watt,K Thagunna,1,0,,,,,,"",""
+ball,2,9.5,Karnali Yaks,MRJ Watt,P Sarraf,K Thagunna,0,0,,,,,,caught,MRJ Watt
+ball,2,9.6,Karnali Yaks,Najibullah Zadran,P Sarraf,K Thagunna,0,0,,,,,,"",""
+ball,2,10.1,Karnali Yaks,P Sarraf,Najibullah Zadran,S Dhakal,1,0,,,,,,"",""
+ball,2,10.2,Karnali Yaks,Najibullah Zadran,P Sarraf,S Dhakal,1,0,,,,,,"",""
+ball,2,10.3,Karnali Yaks,P Sarraf,Najibullah Zadran,S Dhakal,1,0,,,,,,"",""
+ball,2,10.4,Karnali Yaks,Najibullah Zadran,P Sarraf,S Dhakal,1,0,,,,,,"",""
+ball,2,10.5,Karnali Yaks,P Sarraf,Najibullah Zadran,S Dhakal,0,0,,,,,,"",""
+ball,2,10.6,Karnali Yaks,P Sarraf,Najibullah Zadran,S Dhakal,6,0,,,,,,"",""
+ball,2,11.1,Karnali Yaks,Najibullah Zadran,P Sarraf,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.2,Karnali Yaks,P Sarraf,Najibullah Zadran,K Bhurtel,0,0,,,,,,"",""
+ball,2,11.3,Karnali Yaks,P Sarraf,Najibullah Zadran,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.4,Karnali Yaks,Najibullah Zadran,P Sarraf,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.5,Karnali Yaks,P Sarraf,Najibullah Zadran,K Bhurtel,2,0,,,,,,"",""
+ball,2,11.6,Karnali Yaks,P Sarraf,Najibullah Zadran,K Bhurtel,0,0,,,,,,"",""
+ball,2,12.1,Karnali Yaks,Najibullah Zadran,P Sarraf,R Dhawan,1,0,,,,,,"",""
+ball,2,12.2,Karnali Yaks,P Sarraf,Najibullah Zadran,R Dhawan,0,0,,,,,,caught,P Sarraf
+ball,2,12.3,Karnali Yaks,Gulsan Jha,Najibullah Zadran,R Dhawan,1,0,,,,,,"",""
+ball,2,12.4,Karnali Yaks,Najibullah Zadran,Gulsan Jha,R Dhawan,4,0,,,,,,"",""
+ball,2,12.5,Karnali Yaks,Najibullah Zadran,Gulsan Jha,R Dhawan,1,0,,,,,,"",""
+ball,2,12.6,Karnali Yaks,Gulsan Jha,Najibullah Zadran,R Dhawan,0,0,,,,,,"",""
+ball,2,13.1,Karnali Yaks,Najibullah Zadran,Gulsan Jha,K Thagunna,2,0,,,,,,"",""
+ball,2,13.2,Karnali Yaks,Najibullah Zadran,Gulsan Jha,K Thagunna,6,0,,,,,,"",""
+ball,2,13.3,Karnali Yaks,Najibullah Zadran,Gulsan Jha,K Thagunna,0,0,,,,,,"",""
+ball,2,13.4,Karnali Yaks,Najibullah Zadran,Gulsan Jha,K Thagunna,1,0,,,,,,"",""
+ball,2,13.5,Karnali Yaks,Gulsan Jha,Najibullah Zadran,K Thagunna,0,0,,,,,,"",""
+ball,2,13.6,Karnali Yaks,Gulsan Jha,Najibullah Zadran,K Thagunna,1,0,,,,,,"",""
+ball,2,14.1,Karnali Yaks,Gulsan Jha,Najibullah Zadran,K Bhurtel,1,0,,,,,,"",""
+ball,2,14.2,Karnali Yaks,Najibullah Zadran,Gulsan Jha,K Bhurtel,1,0,,,,,,"",""
+ball,2,14.3,Karnali Yaks,Gulsan Jha,Najibullah Zadran,K Bhurtel,6,0,,,,,,"",""
+ball,2,14.4,Karnali Yaks,Gulsan Jha,Najibullah Zadran,K Bhurtel,0,0,,,,,,caught,Gulsan Jha
+ball,2,14.5,Karnali Yaks,Sompal Kami,Najibullah Zadran,K Bhurtel,6,0,,,,,,"",""
+ball,2,14.6,Karnali Yaks,Sompal Kami,Najibullah Zadran,K Bhurtel,0,0,,,,,,"",""
+ball,2,15.1,Karnali Yaks,Najibullah Zadran,Sompal Kami,R Dhawan,4,0,,,,,,"",""
+ball,2,15.2,Karnali Yaks,Najibullah Zadran,Sompal Kami,R Dhawan,0,0,,,,,,caught,Najibullah Zadran
+ball,2,15.3,Karnali Yaks,D Rawat,Sompal Kami,R Dhawan,1,0,,,,,,"",""
+ball,2,15.4,Karnali Yaks,Sompal Kami,D Rawat,R Dhawan,1,0,,,,,,"",""
+ball,2,15.5,Karnali Yaks,D Rawat,Sompal Kami,R Dhawan,2,0,,,,,,"",""
+ball,2,15.6,Karnali Yaks,D Rawat,Sompal Kami,R Dhawan,1,0,,,,,,"",""
+ball,2,16.1,Karnali Yaks,D Rawat,Sompal Kami,K Bhurtel,0,0,,,,,,"",""
+ball,2,16.2,Karnali Yaks,D Rawat,Sompal Kami,K Bhurtel,0,0,,,,,,"",""
+ball,2,16.3,Karnali Yaks,D Rawat,Sompal Kami,K Bhurtel,4,0,,,,,,"",""
+ball,2,16.4,Karnali Yaks,D Rawat,Sompal Kami,K Bhurtel,1,0,,,,,,"",""
+ball,2,16.5,Karnali Yaks,Sompal Kami,D Rawat,K Bhurtel,0,0,,,,,,"",""
+ball,2,16.6,Karnali Yaks,Sompal Kami,D Rawat,K Bhurtel,1,0,,,,,,"",""
+ball,2,17.1,Karnali Yaks,Sompal Kami,D Rawat,R Dhawan,1,0,,,,,,"",""
+ball,2,17.2,Karnali Yaks,D Rawat,Sompal Kami,R Dhawan,1,0,,,,,,"",""
+ball,2,17.3,Karnali Yaks,Sompal Kami,D Rawat,R Dhawan,0,0,,,,,,run out,D Rawat
+ball,2,17.4,Karnali Yaks,NK Yadav,Sompal Kami,R Dhawan,1,0,,,,,,"",""
+ball,2,17.5,Karnali Yaks,Sompal Kami,NK Yadav,R Dhawan,4,0,,,,,,"",""
+ball,2,17.6,Karnali Yaks,Sompal Kami,NK Yadav,R Dhawan,0,0,,,,,,caught,Sompal Kami
+ball,2,18.1,Karnali Yaks,NK Yadav,UB Singh,D Lakshan,1,0,,,,,,"",""
+ball,2,18.2,Karnali Yaks,UB Singh,NK Yadav,D Lakshan,1,0,,,,,,"",""
+ball,2,18.3,Karnali Yaks,NK Yadav,UB Singh,D Lakshan,0,1,1,,,,,"",""
+ball,2,18.4,Karnali Yaks,NK Yadav,UB Singh,D Lakshan,1,0,,,,,,"",""
+ball,2,18.5,Karnali Yaks,UB Singh,NK Yadav,D Lakshan,0,0,,,,,,caught,UB Singh
+ball,2,18.6,Karnali Yaks,BP Sharma,NK Yadav,D Lakshan,0,0,,,,,,"",""
+ball,2,18.7,Karnali Yaks,BP Sharma,NK Yadav,D Lakshan,0,0,,,,,,caught,BP Sharma

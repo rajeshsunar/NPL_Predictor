@@ -1,0 +1,322 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Biratnagar Kings
+info,team,Chitwan Rhinos
+info,gender,male
+info,season,2024/25
+info,date,2024/12/13
+info,event,Nepal Premier League
+info,match_number,23
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Biratnagar Kings
+info,toss_decision,bat
+info,player_of_match,Basir Ahamad
+info,umpire,Bismillah Shinwari
+info,umpire,BB Pradhan
+info,reserve_umpire,Basu Karn
+info,tv_umpire,DN Subedi
+info,match_referee,Mohammed Shafique
+info,winner,Biratnagar Kings
+info,winner_runs,51
+info,player,Biratnagar Kings,Lokesh Bam
+info,player,Biratnagar Kings,MJ Guptill
+info,player,Biratnagar Kings,D Bohara
+info,player,Biratnagar Kings,SA Edwards
+info,player,Biratnagar Kings,NR Kirton
+info,player,Biratnagar Kings,Basir Ahamad
+info,player,Biratnagar Kings,RP Magar
+info,player,Biratnagar Kings,CB Sole
+info,player,Biratnagar Kings,Pratis GC
+info,player,Biratnagar Kings,S Lamichhane
+info,player,Biratnagar Kings,Subash Bhandari
+info,player,Chitwan Rhinos,S Karki
+info,player,Chitwan Rhinos,Hassan Eisakhil
+info,player,Chitwan Rhinos,RS Bopara
+info,player,Chitwan Rhinos,Kushal Malla
+info,player,Chitwan Rhinos,Basil Hameed
+info,player,Chitwan Rhinos,AS Routela
+info,player,Chitwan Rhinos,Deepak Bohara
+info,player,Chitwan Rhinos,Sohail Tanvir
+info,player,Chitwan Rhinos,R Dhakal
+info,player,Chitwan Rhinos,B Rawal
+info,player,Chitwan Rhinos,R Kumar
+info,registry,people,AS Routela,3d74eacf
+info,registry,people,B Rawal,6527fb51
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Basir Ahamad,218c7eab
+info,registry,people,Basu Karn,c620f573
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CB Sole,469ccead
+info,registry,people,D Bohara,7e46794e
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,Deepak Bohara,9b1276f1
+info,registry,people,Hassan Eisakhil,754c883c
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,Lokesh Bam,75c8a26b
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Pratis GC,c1077ba3
+info,registry,people,R Dhakal,8399a7af
+info,registry,people,R Kumar,aba0f4a9
+info,registry,people,RP Magar,95bcba19
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Karki,4898e6fb
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Sohail Tanvir,64d43928
+info,registry,people,Subash Bhandari,1519bdeb
+ball,1,0.1,Biratnagar Kings,Lokesh Bam,MJ Guptill,R Dhakal,0,0,,,,,,"",""
+ball,1,0.2,Biratnagar Kings,Lokesh Bam,MJ Guptill,R Dhakal,0,0,,,,,,bowled,Lokesh Bam
+ball,1,0.3,Biratnagar Kings,D Bohara,MJ Guptill,R Dhakal,0,0,,,,,,"",""
+ball,1,0.4,Biratnagar Kings,D Bohara,MJ Guptill,R Dhakal,4,0,,,,,,"",""
+ball,1,0.5,Biratnagar Kings,D Bohara,MJ Guptill,R Dhakal,0,0,,,,,,bowled,D Bohara
+ball,1,0.6,Biratnagar Kings,SA Edwards,MJ Guptill,R Dhakal,0,2,2,,,,,"",""
+ball,1,0.7,Biratnagar Kings,MJ Guptill,SA Edwards,R Dhakal,4,0,,,,,,"",""
+ball,1,1.1,Biratnagar Kings,SA Edwards,MJ Guptill,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,1.2,Biratnagar Kings,SA Edwards,MJ Guptill,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,1.3,Biratnagar Kings,SA Edwards,MJ Guptill,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,1.4,Biratnagar Kings,SA Edwards,MJ Guptill,Sohail Tanvir,0,0,,,,,,caught,SA Edwards
+ball,1,1.5,Biratnagar Kings,NR Kirton,MJ Guptill,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,1.6,Biratnagar Kings,MJ Guptill,NR Kirton,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,2.1,Biratnagar Kings,NR Kirton,MJ Guptill,R Dhakal,0,1,,,,1,,"",""
+ball,1,2.2,Biratnagar Kings,MJ Guptill,NR Kirton,R Dhakal,0,0,,,,,,"",""
+ball,1,2.3,Biratnagar Kings,MJ Guptill,NR Kirton,R Dhakal,1,0,,,,,,"",""
+ball,1,2.4,Biratnagar Kings,NR Kirton,MJ Guptill,R Dhakal,0,0,,,,,,"",""
+ball,1,2.5,Biratnagar Kings,NR Kirton,MJ Guptill,R Dhakal,0,0,,,,,,"",""
+ball,1,2.6,Biratnagar Kings,NR Kirton,MJ Guptill,R Dhakal,0,0,,,,,,"",""
+ball,1,3.1,Biratnagar Kings,MJ Guptill,NR Kirton,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,3.2,Biratnagar Kings,NR Kirton,MJ Guptill,Sohail Tanvir,4,0,,,,,,"",""
+ball,1,3.3,Biratnagar Kings,NR Kirton,MJ Guptill,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,3.4,Biratnagar Kings,MJ Guptill,NR Kirton,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,3.5,Biratnagar Kings,NR Kirton,MJ Guptill,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,3.6,Biratnagar Kings,MJ Guptill,NR Kirton,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,4.1,Biratnagar Kings,NR Kirton,MJ Guptill,Basil Hameed,0,0,,,,,,"",""
+ball,1,4.2,Biratnagar Kings,NR Kirton,MJ Guptill,Basil Hameed,0,1,,,1,,,"",""
+ball,1,4.3,Biratnagar Kings,MJ Guptill,NR Kirton,Basil Hameed,0,0,,,,,,"",""
+ball,1,4.4,Biratnagar Kings,MJ Guptill,NR Kirton,Basil Hameed,1,0,,,,,,"",""
+ball,1,4.5,Biratnagar Kings,NR Kirton,MJ Guptill,Basil Hameed,0,0,,,,,,"",""
+ball,1,4.6,Biratnagar Kings,NR Kirton,MJ Guptill,Basil Hameed,0,0,,,,,,"",""
+ball,1,5.1,Biratnagar Kings,MJ Guptill,NR Kirton,Kushal Malla,1,0,,,,,,"",""
+ball,1,5.2,Biratnagar Kings,NR Kirton,MJ Guptill,Kushal Malla,0,0,,,,,,"",""
+ball,1,5.3,Biratnagar Kings,NR Kirton,MJ Guptill,Kushal Malla,1,0,,,,,,"",""
+ball,1,5.4,Biratnagar Kings,MJ Guptill,NR Kirton,Kushal Malla,0,0,,,,,,"",""
+ball,1,5.5,Biratnagar Kings,MJ Guptill,NR Kirton,Kushal Malla,6,0,,,,,,"",""
+ball,1,5.6,Biratnagar Kings,MJ Guptill,NR Kirton,Kushal Malla,1,0,,,,,,"",""
+ball,1,6.1,Biratnagar Kings,MJ Guptill,NR Kirton,Basil Hameed,1,0,,,,,,"",""
+ball,1,6.2,Biratnagar Kings,NR Kirton,MJ Guptill,Basil Hameed,0,0,,,,,,lbw,NR Kirton
+ball,1,6.3,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,0,0,,,,,,"",""
+ball,1,6.4,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,1,0,,,,,,"",""
+ball,1,6.5,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,0,0,,,,,,"",""
+ball,1,6.6,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,0,0,,,,,,"",""
+ball,1,7.1,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,0,0,,,,,,"",""
+ball,1,7.2,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,4,0,,,,,,"",""
+ball,1,7.3,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,1,0,,,,,,"",""
+ball,1,7.4,Biratnagar Kings,MJ Guptill,Basir Ahamad,R Kumar,1,0,,,,,,"",""
+ball,1,7.5,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,1,0,,,,,,"",""
+ball,1,7.6,Biratnagar Kings,MJ Guptill,Basir Ahamad,R Kumar,0,0,,,,,,"",""
+ball,1,8.1,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,0,0,,,,,,"",""
+ball,1,8.2,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,1,0,,,,,,"",""
+ball,1,8.3,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,1,0,,,,,,"",""
+ball,1,8.4,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,0,0,,,,,,"",""
+ball,1,8.5,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,1,0,,,,,,"",""
+ball,1,8.6,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,0,0,,,,,,"",""
+ball,1,9.1,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,0,0,,,,,,"",""
+ball,1,9.2,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,1,0,,,,,,"",""
+ball,1,9.3,Biratnagar Kings,MJ Guptill,Basir Ahamad,R Kumar,1,0,,,,,,"",""
+ball,1,9.4,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,1,0,,,,,,"",""
+ball,1,9.5,Biratnagar Kings,MJ Guptill,Basir Ahamad,R Kumar,1,0,,,,,,"",""
+ball,1,9.6,Biratnagar Kings,Basir Ahamad,MJ Guptill,R Kumar,4,0,,,,,,"",""
+ball,1,10.1,Biratnagar Kings,MJ Guptill,Basir Ahamad,AS Routela,1,0,,,,,,"",""
+ball,1,10.2,Biratnagar Kings,Basir Ahamad,MJ Guptill,AS Routela,0,0,,,,,,"",""
+ball,1,10.3,Biratnagar Kings,Basir Ahamad,MJ Guptill,AS Routela,1,0,,,,,,"",""
+ball,1,10.4,Biratnagar Kings,MJ Guptill,Basir Ahamad,AS Routela,6,0,,,,,,"",""
+ball,1,10.5,Biratnagar Kings,MJ Guptill,Basir Ahamad,AS Routela,1,0,,,,,,"",""
+ball,1,10.6,Biratnagar Kings,Basir Ahamad,MJ Guptill,AS Routela,6,1,,1,,,,"",""
+ball,1,10.7,Biratnagar Kings,Basir Ahamad,MJ Guptill,AS Routela,2,1,,1,,,,"",""
+ball,1,10.8,Biratnagar Kings,Basir Ahamad,MJ Guptill,AS Routela,0,1,,1,,,,"",""
+ball,1,10.9,Biratnagar Kings,Basir Ahamad,MJ Guptill,AS Routela,4,0,,,,,,"",""
+ball,1,11.1,Biratnagar Kings,MJ Guptill,Basir Ahamad,Kushal Malla,1,0,,,,,,"",""
+ball,1,11.2,Biratnagar Kings,Basir Ahamad,MJ Guptill,Kushal Malla,0,0,,,,,,"",""
+ball,1,11.3,Biratnagar Kings,Basir Ahamad,MJ Guptill,Kushal Malla,1,0,,,,,,"",""
+ball,1,11.4,Biratnagar Kings,MJ Guptill,Basir Ahamad,Kushal Malla,0,0,,,,,,"",""
+ball,1,11.5,Biratnagar Kings,MJ Guptill,Basir Ahamad,Kushal Malla,1,0,,,,,,"",""
+ball,1,11.6,Biratnagar Kings,Basir Ahamad,MJ Guptill,Kushal Malla,1,0,,,,,,"",""
+ball,1,12.1,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,1,0,,,,,,"",""
+ball,1,12.2,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,0,0,,,,,,"",""
+ball,1,12.3,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,0,0,,,,,,"",""
+ball,1,12.4,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,1,0,,,,,,"",""
+ball,1,12.5,Biratnagar Kings,Basir Ahamad,MJ Guptill,Basil Hameed,1,0,,,,,,"",""
+ball,1,12.6,Biratnagar Kings,MJ Guptill,Basir Ahamad,Basil Hameed,6,0,,,,,,"",""
+ball,1,13.1,Biratnagar Kings,Basir Ahamad,MJ Guptill,Kushal Malla,1,0,,,,,,"",""
+ball,1,13.2,Biratnagar Kings,MJ Guptill,Basir Ahamad,Kushal Malla,6,0,,,,,,"",""
+ball,1,13.3,Biratnagar Kings,MJ Guptill,Basir Ahamad,Kushal Malla,1,0,,,,,,"",""
+ball,1,13.4,Biratnagar Kings,Basir Ahamad,MJ Guptill,Kushal Malla,1,0,,,,,,"",""
+ball,1,13.5,Biratnagar Kings,MJ Guptill,Basir Ahamad,Kushal Malla,0,0,,,,,,bowled,MJ Guptill
+ball,1,13.6,Biratnagar Kings,RP Magar,Basir Ahamad,Kushal Malla,1,0,,,,,,"",""
+ball,1,14.1,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,14.2,Biratnagar Kings,Basir Ahamad,RP Magar,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,14.3,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,14.4,Biratnagar Kings,Basir Ahamad,RP Magar,Sohail Tanvir,4,0,,,,,,"",""
+ball,1,14.5,Biratnagar Kings,Basir Ahamad,RP Magar,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,14.6,Biratnagar Kings,Basir Ahamad,RP Magar,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,15.1,Biratnagar Kings,Basir Ahamad,RP Magar,Kushal Malla,1,0,,,,,,"",""
+ball,1,15.2,Biratnagar Kings,RP Magar,Basir Ahamad,Kushal Malla,0,0,,,,,,"",""
+ball,1,15.3,Biratnagar Kings,RP Magar,Basir Ahamad,Kushal Malla,1,0,,,,,,"",""
+ball,1,15.4,Biratnagar Kings,Basir Ahamad,RP Magar,Kushal Malla,1,0,,,,,,"",""
+ball,1,15.5,Biratnagar Kings,RP Magar,Basir Ahamad,Kushal Malla,1,0,,,,,,"",""
+ball,1,15.6,Biratnagar Kings,Basir Ahamad,RP Magar,Kushal Malla,1,0,,,,,,"",""
+ball,1,16.1,Biratnagar Kings,Basir Ahamad,RP Magar,R Dhakal,1,0,,,,,,"",""
+ball,1,16.2,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,1,0,,,,,,"",""
+ball,1,16.3,Biratnagar Kings,Basir Ahamad,RP Magar,R Dhakal,1,0,,,,,,"",""
+ball,1,16.4,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,0,4,,,,4,,"",""
+ball,1,16.5,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,0,5,5,,,,,"",""
+ball,1,16.6,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,1,0,,,,,,"",""
+ball,1,16.7,Biratnagar Kings,Basir Ahamad,RP Magar,R Dhakal,2,0,,,,,,"",""
+ball,1,17.1,Biratnagar Kings,RP Magar,Basir Ahamad,R Kumar,1,0,,,,,,"",""
+ball,1,17.2,Biratnagar Kings,Basir Ahamad,RP Magar,R Kumar,0,0,,,,,,"",""
+ball,1,17.3,Biratnagar Kings,Basir Ahamad,RP Magar,R Kumar,6,0,,,,,,"",""
+ball,1,17.4,Biratnagar Kings,Basir Ahamad,RP Magar,R Kumar,1,0,,,,,,"",""
+ball,1,17.5,Biratnagar Kings,RP Magar,Basir Ahamad,R Kumar,0,1,,,1,,,"",""
+ball,1,17.6,Biratnagar Kings,Basir Ahamad,RP Magar,R Kumar,0,1,1,,,,,"",""
+ball,1,17.7,Biratnagar Kings,Basir Ahamad,RP Magar,R Kumar,6,0,,,,,,"",""
+ball,1,18.1,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,0,0,,,,,,"",""
+ball,1,18.2,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,6,0,,,,,,"",""
+ball,1,18.3,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,0,1,1,,,,,"",""
+ball,1,18.4,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,18.5,Biratnagar Kings,Basir Ahamad,RP Magar,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,18.6,Biratnagar Kings,RP Magar,Basir Ahamad,Sohail Tanvir,1,0,,,,,,"",""
+ball,1,18.7,Biratnagar Kings,Basir Ahamad,RP Magar,Sohail Tanvir,6,0,,,,,,"",""
+ball,1,19.1,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,6,0,,,,,,"",""
+ball,1,19.2,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,1,0,,,,,,"",""
+ball,1,19.3,Biratnagar Kings,Basir Ahamad,RP Magar,R Dhakal,1,0,,,,,,"",""
+ball,1,19.4,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,0,4,,,4,,,"",""
+ball,1,19.5,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,6,0,,,,,,"",""
+ball,1,19.6,Biratnagar Kings,RP Magar,Basir Ahamad,R Dhakal,4,0,,,,,,"",""
+ball,2,0.1,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,0,,,,,,"",""
+ball,2,0.2,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,0,,,,,,"",""
+ball,2,0.3,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,1,1,,,,,"",""
+ball,2,0.4,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,1,1,,,,,"",""
+ball,2,0.5,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,0,,,,,,"",""
+ball,2,0.6,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,1,1,,,,,"",""
+ball,2,0.7,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,0,0,,,,,,"",""
+ball,2,0.8,Chitwan Rhinos,S Karki,Hassan Eisakhil,CB Sole,1,0,,,,,,"",""
+ball,2,0.9,Chitwan Rhinos,Hassan Eisakhil,S Karki,CB Sole,0,0,,,,,,"",""
+ball,2,1.1,Chitwan Rhinos,S Karki,Hassan Eisakhil,Pratis GC,0,0,,,,,,"",""
+ball,2,1.2,Chitwan Rhinos,S Karki,Hassan Eisakhil,Pratis GC,1,0,,,,,,"",""
+ball,2,1.3,Chitwan Rhinos,Hassan Eisakhil,S Karki,Pratis GC,0,0,,,,,,"",""
+ball,2,1.4,Chitwan Rhinos,Hassan Eisakhil,S Karki,Pratis GC,4,0,,,,,,"",""
+ball,2,1.5,Chitwan Rhinos,Hassan Eisakhil,S Karki,Pratis GC,1,0,,,,,,"",""
+ball,2,1.6,Chitwan Rhinos,S Karki,Hassan Eisakhil,Pratis GC,0,0,,,,,,"",""
+ball,2,2.1,Chitwan Rhinos,Hassan Eisakhil,S Karki,Basir Ahamad,0,0,,,,,,"",""
+ball,2,2.2,Chitwan Rhinos,Hassan Eisakhil,S Karki,Basir Ahamad,0,0,,,,,,lbw,Hassan Eisakhil
+ball,2,2.3,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,0,0,,,,,,"",""
+ball,2,2.4,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,0,0,,,,,,"",""
+ball,2,2.5,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,0,0,,,,,,"",""
+ball,2,2.6,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,0,0,,,,,,"",""
+ball,2,3.1,Chitwan Rhinos,S Karki,RS Bopara,Pratis GC,4,0,,,,,,"",""
+ball,2,3.2,Chitwan Rhinos,S Karki,RS Bopara,Pratis GC,0,1,1,,,,,"",""
+ball,2,3.3,Chitwan Rhinos,S Karki,RS Bopara,Pratis GC,0,0,,,,,,"",""
+ball,2,3.4,Chitwan Rhinos,S Karki,RS Bopara,Pratis GC,1,0,,,,,,"",""
+ball,2,3.5,Chitwan Rhinos,RS Bopara,S Karki,Pratis GC,0,0,,,,,,"",""
+ball,2,3.6,Chitwan Rhinos,RS Bopara,S Karki,Pratis GC,1,0,,,,,,"",""
+ball,2,3.7,Chitwan Rhinos,S Karki,RS Bopara,Pratis GC,6,0,,,,,,"",""
+ball,2,4.1,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,0,0,,,,,,"",""
+ball,2,4.2,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,1,0,,,,,,"",""
+ball,2,4.3,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,0,0,,,,,,"",""
+ball,2,4.4,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,0,0,,,,,,"",""
+ball,2,4.5,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,0,0,,,,,,"",""
+ball,2,4.6,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,4,0,,,,,,"",""
+ball,2,5.1,Chitwan Rhinos,RS Bopara,S Karki,CB Sole,1,0,,,,,,"",""
+ball,2,5.2,Chitwan Rhinos,S Karki,RS Bopara,CB Sole,1,0,,,,,,"",""
+ball,2,5.3,Chitwan Rhinos,RS Bopara,S Karki,CB Sole,4,0,,,,,,"",""
+ball,2,5.4,Chitwan Rhinos,RS Bopara,S Karki,CB Sole,1,0,,,,,,"",""
+ball,2,5.5,Chitwan Rhinos,S Karki,RS Bopara,CB Sole,1,0,,,,,,"",""
+ball,2,5.6,Chitwan Rhinos,RS Bopara,S Karki,CB Sole,1,0,,,,,,"",""
+ball,2,6.1,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.2,Chitwan Rhinos,S Karki,RS Bopara,S Lamichhane,4,0,,,,,,"",""
+ball,2,6.3,Chitwan Rhinos,S Karki,RS Bopara,S Lamichhane,1,0,,,,,,"",""
+ball,2,6.4,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,0,0,,,,,,"",""
+ball,2,6.5,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,0,0,,,,,,"",""
+ball,2,6.6,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,0,0,,,,,,"",""
+ball,2,7.1,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.2,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,4,0,,,,,,"",""
+ball,2,7.3,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.4,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.5,Chitwan Rhinos,RS Bopara,S Karki,Basir Ahamad,1,0,,,,,,"",""
+ball,2,7.6,Chitwan Rhinos,S Karki,RS Bopara,Basir Ahamad,1,0,,,,,,"",""
+ball,2,8.1,Chitwan Rhinos,S Karki,RS Bopara,S Lamichhane,1,0,,,,,,"",""
+ball,2,8.2,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,2,0,,,,,,"",""
+ball,2,8.3,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,0,0,,,,,,"",""
+ball,2,8.4,Chitwan Rhinos,RS Bopara,S Karki,S Lamichhane,1,0,,,,,,"",""
+ball,2,8.5,Chitwan Rhinos,S Karki,RS Bopara,S Lamichhane,0,0,,,,,,caught,S Karki
+ball,2,8.6,Chitwan Rhinos,Kushal Malla,RS Bopara,S Lamichhane,0,1,1,,,,,"",""
+ball,2,8.7,Chitwan Rhinos,Kushal Malla,RS Bopara,S Lamichhane,4,0,,,,,,"",""
+ball,2,9.1,Chitwan Rhinos,RS Bopara,Kushal Malla,Subash Bhandari,1,0,,,,,,"",""
+ball,2,9.2,Chitwan Rhinos,Kushal Malla,RS Bopara,Subash Bhandari,1,0,,,,,,"",""
+ball,2,9.3,Chitwan Rhinos,RS Bopara,Kushal Malla,Subash Bhandari,0,0,,,,,,bowled,RS Bopara
+ball,2,9.4,Chitwan Rhinos,Basil Hameed,Kushal Malla,Subash Bhandari,0,0,,,,,,"",""
+ball,2,9.5,Chitwan Rhinos,Basil Hameed,Kushal Malla,Subash Bhandari,1,0,,,,,,"",""
+ball,2,9.6,Chitwan Rhinos,Kushal Malla,Basil Hameed,Subash Bhandari,0,0,,,,,,"",""
+ball,2,10.1,Chitwan Rhinos,Basil Hameed,Kushal Malla,S Lamichhane,0,0,,,,,,bowled,Basil Hameed
+ball,2,10.2,Chitwan Rhinos,AS Routela,Kushal Malla,S Lamichhane,0,0,,,,,,"",""
+ball,2,10.3,Chitwan Rhinos,AS Routela,Kushal Malla,S Lamichhane,1,0,,,,,,"",""
+ball,2,10.4,Chitwan Rhinos,Kushal Malla,AS Routela,S Lamichhane,1,0,,,,,,"",""
+ball,2,10.5,Chitwan Rhinos,AS Routela,Kushal Malla,S Lamichhane,0,0,,,,,,"",""
+ball,2,10.6,Chitwan Rhinos,AS Routela,Kushal Malla,S Lamichhane,0,0,,,,,,"",""
+ball,2,11.1,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,0,0,,,,,,"",""
+ball,2,11.2,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,0,0,,,,,,"",""
+ball,2,11.3,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,0,0,,,,,,"",""
+ball,2,11.4,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,6,0,,,,,,"",""
+ball,2,11.5,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,1,0,,,,,,"",""
+ball,2,11.6,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,4,0,,,,,,"",""
+ball,2,12.1,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,0,0,,,,,,"",""
+ball,2,12.2,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,0,0,,,,,,"",""
+ball,2,12.3,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,0,0,,,,,,"",""
+ball,2,12.4,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,0,0,,,,,,"",""
+ball,2,12.5,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,0,0,,,,,,"",""
+ball,2,12.6,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,1,0,,,,,,"",""
+ball,2,13.1,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,0,0,,,,,,"",""
+ball,2,13.2,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,1,0,,,,,,"",""
+ball,2,13.3,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,0,0,,,,,,"",""
+ball,2,13.4,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,0,0,,,,,,"",""
+ball,2,13.5,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,1,0,,,,,,"",""
+ball,2,13.6,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,1,0,,,,,,"",""
+ball,2,14.1,Chitwan Rhinos,Kushal Malla,AS Routela,NR Kirton,1,0,,,,,,"",""
+ball,2,14.2,Chitwan Rhinos,AS Routela,Kushal Malla,NR Kirton,1,0,,,,,,"",""
+ball,2,14.3,Chitwan Rhinos,Kushal Malla,AS Routela,NR Kirton,1,0,,,,,,"",""
+ball,2,14.4,Chitwan Rhinos,AS Routela,Kushal Malla,NR Kirton,1,0,,,,,,"",""
+ball,2,14.5,Chitwan Rhinos,Kushal Malla,AS Routela,NR Kirton,1,0,,,,,,"",""
+ball,2,14.6,Chitwan Rhinos,AS Routela,Kushal Malla,NR Kirton,1,0,,,,,,"",""
+ball,2,15.1,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,4,0,,,,,,"",""
+ball,2,15.2,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,2,0,,,,,,"",""
+ball,2,15.3,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,1,0,,,,,,"",""
+ball,2,15.4,Chitwan Rhinos,Kushal Malla,AS Routela,Subash Bhandari,1,0,,,,,,"",""
+ball,2,15.5,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,0,0,,,,,,"",""
+ball,2,15.6,Chitwan Rhinos,AS Routela,Kushal Malla,Subash Bhandari,2,0,,,,,,"",""
+ball,2,16.1,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,4,0,,,,,,"",""
+ball,2,16.2,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,1,0,,,,,,"",""
+ball,2,16.3,Chitwan Rhinos,AS Routela,Kushal Malla,CB Sole,2,0,,,,,,"",""
+ball,2,16.4,Chitwan Rhinos,AS Routela,Kushal Malla,CB Sole,1,0,,,,,,"",""
+ball,2,16.5,Chitwan Rhinos,Kushal Malla,AS Routela,CB Sole,0,0,,,,,,caught,Kushal Malla
+ball,2,16.6,Chitwan Rhinos,Deepak Bohara,AS Routela,CB Sole,0,0,,,,,,"",""
+ball,2,17.1,Chitwan Rhinos,AS Routela,Deepak Bohara,Basir Ahamad,0,0,,,,,,"",""
+ball,2,17.2,Chitwan Rhinos,AS Routela,Deepak Bohara,Basir Ahamad,0,0,,,,,,"",""
+ball,2,17.3,Chitwan Rhinos,AS Routela,Deepak Bohara,Basir Ahamad,1,0,,,,,,"",""
+ball,2,17.4,Chitwan Rhinos,Deepak Bohara,AS Routela,Basir Ahamad,0,1,,,1,,,"",""
+ball,2,17.5,Chitwan Rhinos,AS Routela,Deepak Bohara,Basir Ahamad,4,0,,,,,,"",""
+ball,2,17.6,Chitwan Rhinos,AS Routela,Deepak Bohara,Basir Ahamad,0,0,,,,,,"",""
+ball,2,18.1,Chitwan Rhinos,Deepak Bohara,AS Routela,S Lamichhane,0,0,,,,,,"",""
+ball,2,18.2,Chitwan Rhinos,Deepak Bohara,AS Routela,S Lamichhane,1,0,,,,,,"",""
+ball,2,18.3,Chitwan Rhinos,AS Routela,Deepak Bohara,S Lamichhane,2,0,,,,,,"",""
+ball,2,18.4,Chitwan Rhinos,AS Routela,Deepak Bohara,S Lamichhane,2,0,,,,,,"",""
+ball,2,18.5,Chitwan Rhinos,AS Routela,Deepak Bohara,S Lamichhane,0,0,,,,,,"",""
+ball,2,18.6,Chitwan Rhinos,AS Routela,Deepak Bohara,S Lamichhane,6,0,,,,,,"",""
+ball,2,19.1,Chitwan Rhinos,Deepak Bohara,AS Routela,Lokesh Bam,1,0,,,,,,"",""
+ball,2,19.2,Chitwan Rhinos,AS Routela,Deepak Bohara,Lokesh Bam,6,0,,,,,,"",""
+ball,2,19.3,Chitwan Rhinos,AS Routela,Deepak Bohara,Lokesh Bam,0,0,,,,,,caught,AS Routela
+ball,2,19.4,Chitwan Rhinos,Sohail Tanvir,Deepak Bohara,Lokesh Bam,0,0,,,,,,"",""
+ball,2,19.5,Chitwan Rhinos,Sohail Tanvir,Deepak Bohara,Lokesh Bam,1,0,,,,,,"",""
+ball,2,19.6,Chitwan Rhinos,Deepak Bohara,Sohail Tanvir,Lokesh Bam,0,0,,,,,,"",""

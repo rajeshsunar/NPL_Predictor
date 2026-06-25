@@ -1,0 +1,311 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kathmandu Gorkhas
+info,team,Lumbini Lions
+info,gender,male
+info,season,2025/26
+info,date,2025/11/25
+info,event,Nepal Premier League
+info,match_number,11
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Lumbini Lions
+info,toss_decision,field
+info,player_of_match,Karan KC
+info,umpire,BB Pradhan
+info,umpire,RR Wimalasiri
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,Mohammed Shafique
+info,winner,Kathmandu Gorkhas
+info,winner_runs,22
+info,player,Kathmandu Gorkhas,A Tripathi
+info,player,Kathmandu Gorkhas,BG Charlesworth
+info,player,Kathmandu Gorkhas,Rashid Khan
+info,player,Kathmandu Gorkhas,Milind Kumar
+info,player,Kathmandu Gorkhas,JA Simpson
+info,player,Kathmandu Gorkhas,Santosh Yadav
+info,player,Kathmandu Gorkhas,MG Erasmus
+info,player,Kathmandu Gorkhas,Mohammad Aadil Alam
+info,player,Kathmandu Gorkhas,Karan KC
+info,player,Kathmandu Gorkhas,Shahab Alam
+info,player,Kathmandu Gorkhas,D Kandel
+info,player,Lumbini Lions,S Jora
+info,player,Lumbini Lions,DJM Short
+info,player,Lumbini Lions,RK Paudel
+info,player,Lumbini Lions,Gulbadin Naib
+info,player,Lumbini Lions,D Nath
+info,player,Lumbini Lions,JJ Smit
+info,player,Lumbini Lions,S Maharjan
+info,player,Lumbini Lions,R Trumpelmann
+info,player,Lumbini Lions,S Malla
+info,player,Lumbini Lions,Abhishesh Gautam
+info,player,Lumbini Lions,TR Bhandari
+info,registry,people,A Tripathi,cbba9e4e
+info,registry,people,Abhishesh Gautam,0baa5518
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,D Kandel,2e80c353
+info,registry,people,D Nath,d019608b
+info,registry,people,DJM Short,1a156c88
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Aadil Alam,70ced7f2
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rashid Khan,69cccff3
+info,registry,people,S Jora,156378d8
+info,registry,people,S Maharjan,f0b3e7ee
+info,registry,people,S Malla,1daa8927
+info,registry,people,Santosh Yadav,ef342bdb
+info,registry,people,Shahab Alam,cdd9fa95
+info,registry,people,TR Bhandari,2593c302
+ball,1,0.1,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.2,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.3,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,0.4,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.5,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.6,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.7,Kathmandu Gorkhas,A Tripathi,BG Charlesworth,R Trumpelmann,0,0,,,,,,"",""
+ball,1,1.1,Kathmandu Gorkhas,BG Charlesworth,A Tripathi,S Malla,0,0,,,,,,bowled,BG Charlesworth
+ball,1,1.2,Kathmandu Gorkhas,Rashid Khan,A Tripathi,S Malla,2,0,,,,,,"",""
+ball,1,1.3,Kathmandu Gorkhas,Rashid Khan,A Tripathi,S Malla,0,0,,,,,,"",""
+ball,1,1.4,Kathmandu Gorkhas,Rashid Khan,A Tripathi,S Malla,1,0,,,,,,"",""
+ball,1,1.5,Kathmandu Gorkhas,A Tripathi,Rashid Khan,S Malla,0,0,,,,,,"",""
+ball,1,1.6,Kathmandu Gorkhas,A Tripathi,Rashid Khan,S Malla,1,0,,,,,,"",""
+ball,1,2.1,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,2.2,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.3,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,2.4,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Abhishesh Gautam,2,0,,,,,,"",""
+ball,1,2.5,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Abhishesh Gautam,0,0,,,,,,"",""
+ball,1,2.6,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,3.1,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,3.2,Kathmandu Gorkhas,Rashid Khan,A Tripathi,Gulbadin Naib,4,0,,,,,,"",""
+ball,1,3.3,Kathmandu Gorkhas,Rashid Khan,A Tripathi,Gulbadin Naib,2,0,,,,,,"",""
+ball,1,3.4,Kathmandu Gorkhas,Rashid Khan,A Tripathi,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,3.5,Kathmandu Gorkhas,Rashid Khan,A Tripathi,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,3.6,Kathmandu Gorkhas,A Tripathi,Rashid Khan,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,4.1,Kathmandu Gorkhas,Rashid Khan,A Tripathi,R Trumpelmann,4,0,,,,,,"",""
+ball,1,4.2,Kathmandu Gorkhas,Rashid Khan,A Tripathi,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.3,Kathmandu Gorkhas,Rashid Khan,A Tripathi,R Trumpelmann,0,0,,,,,,caught,Rashid Khan
+ball,1,4.4,Kathmandu Gorkhas,Milind Kumar,A Tripathi,R Trumpelmann,1,0,,,,,,"",""
+ball,1,4.5,Kathmandu Gorkhas,A Tripathi,Milind Kumar,R Trumpelmann,2,0,,,,,,"",""
+ball,1,4.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,R Trumpelmann,0,0,,,,,,"",""
+ball,1,5.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,5.2,Kathmandu Gorkhas,A Tripathi,Milind Kumar,Abhishesh Gautam,4,0,,,,,,"",""
+ball,1,5.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,Abhishesh Gautam,2,0,,,,,,"",""
+ball,1,5.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,Abhishesh Gautam,2,0,,,,,,"",""
+ball,1,5.5,Kathmandu Gorkhas,A Tripathi,Milind Kumar,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,5.6,Kathmandu Gorkhas,Milind Kumar,A Tripathi,Abhishesh Gautam,1,0,,,,,,"",""
+ball,1,6.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,TR Bhandari,0,0,,,,,,"",""
+ball,1,6.2,Kathmandu Gorkhas,Milind Kumar,A Tripathi,TR Bhandari,0,0,,,,,,"",""
+ball,1,6.3,Kathmandu Gorkhas,Milind Kumar,A Tripathi,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,TR Bhandari,1,0,,,,,,"",""
+ball,1,6.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,TR Bhandari,0,0,,,,,,"",""
+ball,1,7.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,DJM Short,1,0,,,,,,"",""
+ball,1,7.2,Kathmandu Gorkhas,A Tripathi,Milind Kumar,DJM Short,0,0,,,,,,"",""
+ball,1,7.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,DJM Short,0,0,,,,,,"",""
+ball,1,7.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,DJM Short,0,0,,,,,,"",""
+ball,1,7.5,Kathmandu Gorkhas,A Tripathi,Milind Kumar,DJM Short,1,0,,,,,,"",""
+ball,1,7.6,Kathmandu Gorkhas,Milind Kumar,A Tripathi,DJM Short,0,0,,,,,,"",""
+ball,1,8.1,Kathmandu Gorkhas,A Tripathi,Milind Kumar,TR Bhandari,1,0,,,,,,"",""
+ball,1,8.2,Kathmandu Gorkhas,Milind Kumar,A Tripathi,TR Bhandari,1,0,,,,,,"",""
+ball,1,8.3,Kathmandu Gorkhas,A Tripathi,Milind Kumar,TR Bhandari,2,0,,,,,,"",""
+ball,1,8.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,TR Bhandari,1,0,,,,,,"",""
+ball,1,8.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,TR Bhandari,1,0,,,,,,"",""
+ball,1,8.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,TR Bhandari,0,0,,,,,,"",""
+ball,1,9.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,DJM Short,1,0,,,,,,"",""
+ball,1,9.2,Kathmandu Gorkhas,A Tripathi,Milind Kumar,DJM Short,1,0,,,,,,"",""
+ball,1,9.3,Kathmandu Gorkhas,Milind Kumar,A Tripathi,DJM Short,0,0,,,,,,"",""
+ball,1,9.4,Kathmandu Gorkhas,Milind Kumar,A Tripathi,DJM Short,0,0,,,,,,"",""
+ball,1,9.5,Kathmandu Gorkhas,Milind Kumar,A Tripathi,DJM Short,1,0,,,,,,"",""
+ball,1,9.6,Kathmandu Gorkhas,A Tripathi,Milind Kumar,DJM Short,0,0,,,,,,"",""
+ball,1,10.1,Kathmandu Gorkhas,Milind Kumar,A Tripathi,S Malla,1,0,,,,,,"",""
+ball,1,10.2,Kathmandu Gorkhas,A Tripathi,Milind Kumar,S Malla,1,0,,,,,,"",""
+ball,1,10.3,Kathmandu Gorkhas,Milind Kumar,A Tripathi,S Malla,1,0,,,,,,"",""
+ball,1,10.4,Kathmandu Gorkhas,A Tripathi,Milind Kumar,S Malla,0,0,,,,,,caught,A Tripathi
+ball,1,10.5,Kathmandu Gorkhas,JA Simpson,Milind Kumar,S Malla,1,0,,,,,,"",""
+ball,1,10.6,Kathmandu Gorkhas,Milind Kumar,JA Simpson,S Malla,4,0,,,,,,"",""
+ball,1,11.1,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RK Paudel,6,0,,,,,,"",""
+ball,1,11.2,Kathmandu Gorkhas,JA Simpson,Milind Kumar,RK Paudel,0,0,,,,,,caught and bowled,JA Simpson
+ball,1,11.3,Kathmandu Gorkhas,Santosh Yadav,Milind Kumar,RK Paudel,1,0,,,,,,"",""
+ball,1,11.4,Kathmandu Gorkhas,Milind Kumar,Santosh Yadav,RK Paudel,1,0,,,,,,"",""
+ball,1,11.5,Kathmandu Gorkhas,Santosh Yadav,Milind Kumar,RK Paudel,1,0,,,,,,"",""
+ball,1,11.6,Kathmandu Gorkhas,Milind Kumar,Santosh Yadav,RK Paudel,0,0,,,,,,caught,Milind Kumar
+ball,1,12.1,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,1,0,,,,,,"",""
+ball,1,12.2,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,S Malla,1,0,,,,,,"",""
+ball,1,12.3,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,1,0,,,,,,"",""
+ball,1,12.4,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,S Malla,0,0,,,,,,"",""
+ball,1,12.5,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,S Malla,1,0,,,,,,"",""
+ball,1,12.6,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,1,0,,,,,,"",""
+ball,1,13.1,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,TR Bhandari,1,0,,,,,,"",""
+ball,1,13.2,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,TR Bhandari,1,0,,,,,,"",""
+ball,1,13.3,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,TR Bhandari,0,0,,,,,,"",""
+ball,1,13.4,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,TR Bhandari,2,0,,,,,,"",""
+ball,1,13.5,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,TR Bhandari,1,0,,,,,,"",""
+ball,1,13.6,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,TR Bhandari,0,0,,,,,,"",""
+ball,1,14.1,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,1,0,,,,,,"",""
+ball,1,14.2,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,S Malla,1,0,,,,,,"",""
+ball,1,14.3,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,6,0,,,,,,"",""
+ball,1,14.4,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,1,0,,,,,,"",""
+ball,1,14.5,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,S Malla,1,0,,,,,,"",""
+ball,1,14.6,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,S Malla,6,0,,,,,,"",""
+ball,1,15.1,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,DJM Short,2,0,,,,,,"",""
+ball,1,15.2,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,DJM Short,0,0,,,,,,"",""
+ball,1,15.3,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,DJM Short,0,0,,,,,,"",""
+ball,1,15.4,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,DJM Short,4,0,,,,,,"",""
+ball,1,15.5,Kathmandu Gorkhas,MG Erasmus,Santosh Yadav,DJM Short,1,0,,,,,,"",""
+ball,1,15.6,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,DJM Short,1,0,,,,,,"",""
+ball,1,16.1,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,R Trumpelmann,2,0,,,,,,"",""
+ball,1,16.2,Kathmandu Gorkhas,Santosh Yadav,MG Erasmus,R Trumpelmann,0,0,,,,,,caught,Santosh Yadav
+ball,1,16.3,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,R Trumpelmann,0,0,,,,,,"",""
+ball,1,16.4,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,R Trumpelmann,1,0,,,,,,"",""
+ball,1,16.5,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,R Trumpelmann,1,0,,,,,,"",""
+ball,1,16.6,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,R Trumpelmann,1,0,,,,,,"",""
+ball,1,17.1,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,17.2,Kathmandu Gorkhas,Mohammad Aadil Alam,MG Erasmus,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,17.3,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,Gulbadin Naib,4,0,,,,,,"",""
+ball,1,17.4,Kathmandu Gorkhas,MG Erasmus,Mohammad Aadil Alam,Gulbadin Naib,0,0,,,,,,caught,MG Erasmus
+ball,1,17.5,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,Gulbadin Naib,2,0,,,,,,"",""
+ball,1,17.6,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,18.1,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,R Trumpelmann,6,0,,,,,,"",""
+ball,1,18.2,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,R Trumpelmann,4,1,,1,,,,"",""
+ball,1,18.3,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,R Trumpelmann,6,0,,,,,,"",""
+ball,1,18.4,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,R Trumpelmann,6,0,,,,,,"",""
+ball,1,18.5,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,R Trumpelmann,0,1,,,,1,,"",""
+ball,1,18.6,Kathmandu Gorkhas,Mohammad Aadil Alam,Karan KC,R Trumpelmann,1,0,,,,,,"",""
+ball,1,18.7,Kathmandu Gorkhas,Karan KC,Mohammad Aadil Alam,R Trumpelmann,6,0,,,,,,"",""
+ball,1,19.1,Kathmandu Gorkhas,Mohammad Aadil Alam,Karan KC,Gulbadin Naib,0,0,,,,,,caught,Mohammad Aadil Alam
+ball,1,19.2,Kathmandu Gorkhas,Shahab Alam,Karan KC,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,19.3,Kathmandu Gorkhas,Karan KC,Shahab Alam,Gulbadin Naib,0,0,,,,,,"",""
+ball,1,19.4,Kathmandu Gorkhas,Karan KC,Shahab Alam,Gulbadin Naib,2,0,,,,,,"",""
+ball,1,19.5,Kathmandu Gorkhas,Karan KC,Shahab Alam,Gulbadin Naib,1,0,,,,,,"",""
+ball,1,19.6,Kathmandu Gorkhas,Shahab Alam,Karan KC,Gulbadin Naib,0,2,,,2,,,"",""
+ball,2,0.1,Lumbini Lions,S Jora,DJM Short,Karan KC,0,0,,,,,,"",""
+ball,2,0.2,Lumbini Lions,S Jora,DJM Short,Karan KC,4,0,,,,,,"",""
+ball,2,0.3,Lumbini Lions,S Jora,DJM Short,Karan KC,0,1,1,,,,,"",""
+ball,2,0.4,Lumbini Lions,S Jora,DJM Short,Karan KC,3,0,,,,,,"",""
+ball,2,0.5,Lumbini Lions,DJM Short,S Jora,Karan KC,0,0,,,,,,"",""
+ball,2,0.6,Lumbini Lions,DJM Short,S Jora,Karan KC,6,0,,,,,,"",""
+ball,2,0.7,Lumbini Lions,DJM Short,S Jora,Karan KC,4,0,,,,,,"",""
+ball,2,1.1,Lumbini Lions,S Jora,DJM Short,Milind Kumar,0,0,,,,,,"",""
+ball,2,1.2,Lumbini Lions,S Jora,DJM Short,Milind Kumar,0,0,,,,,,caught,S Jora
+ball,2,1.3,Lumbini Lions,RK Paudel,DJM Short,Milind Kumar,1,0,,,,,,"",""
+ball,2,1.4,Lumbini Lions,DJM Short,RK Paudel,Milind Kumar,2,0,,,,,,"",""
+ball,2,1.5,Lumbini Lions,DJM Short,RK Paudel,Milind Kumar,0,0,,,,,,"",""
+ball,2,1.6,Lumbini Lions,DJM Short,RK Paudel,Milind Kumar,1,0,,,,,,"",""
+ball,2,2.1,Lumbini Lions,DJM Short,RK Paudel,MG Erasmus,1,0,,,,,,"",""
+ball,2,2.2,Lumbini Lions,RK Paudel,DJM Short,MG Erasmus,0,0,,,,,,"",""
+ball,2,2.3,Lumbini Lions,RK Paudel,DJM Short,MG Erasmus,1,0,,,,,,"",""
+ball,2,2.4,Lumbini Lions,DJM Short,RK Paudel,MG Erasmus,4,0,,,,,,"",""
+ball,2,2.5,Lumbini Lions,DJM Short,RK Paudel,MG Erasmus,4,0,,,,,,"",""
+ball,2,2.6,Lumbini Lions,DJM Short,RK Paudel,MG Erasmus,0,0,,,,,,"",""
+ball,2,3.1,Lumbini Lions,RK Paudel,DJM Short,Milind Kumar,1,0,,,,,,"",""
+ball,2,3.2,Lumbini Lions,DJM Short,RK Paudel,Milind Kumar,0,0,,,,,,caught,DJM Short
+ball,2,3.3,Lumbini Lions,Gulbadin Naib,RK Paudel,Milind Kumar,6,0,,,,,,"",""
+ball,2,3.4,Lumbini Lions,Gulbadin Naib,RK Paudel,Milind Kumar,0,0,,,,,,"",""
+ball,2,3.5,Lumbini Lions,Gulbadin Naib,RK Paudel,Milind Kumar,1,0,,,,,,"",""
+ball,2,3.6,Lumbini Lions,RK Paudel,Gulbadin Naib,Milind Kumar,1,0,,,,,,"",""
+ball,2,4.1,Lumbini Lions,RK Paudel,Gulbadin Naib,Shahab Alam,1,0,,,,,,"",""
+ball,2,4.2,Lumbini Lions,Gulbadin Naib,RK Paudel,Shahab Alam,0,0,,,,,,"",""
+ball,2,4.3,Lumbini Lions,Gulbadin Naib,RK Paudel,Shahab Alam,4,0,,,,,,"",""
+ball,2,4.4,Lumbini Lions,Gulbadin Naib,RK Paudel,Shahab Alam,0,0,,,,,,caught,Gulbadin Naib
+ball,2,4.5,Lumbini Lions,D Nath,RK Paudel,Shahab Alam,0,0,,,,,,"",""
+ball,2,4.6,Lumbini Lions,D Nath,RK Paudel,Shahab Alam,0,0,,,,,,"",""
+ball,2,5.1,Lumbini Lions,RK Paudel,D Nath,Milind Kumar,1,0,,,,,,"",""
+ball,2,5.2,Lumbini Lions,D Nath,RK Paudel,Milind Kumar,1,0,,,,,,"",""
+ball,2,5.3,Lumbini Lions,RK Paudel,D Nath,Milind Kumar,1,0,,,,,,"",""
+ball,2,5.4,Lumbini Lions,D Nath,RK Paudel,Milind Kumar,0,0,,,,,,"",""
+ball,2,5.5,Lumbini Lions,D Nath,RK Paudel,Milind Kumar,0,0,,,,,,"",""
+ball,2,5.6,Lumbini Lions,D Nath,RK Paudel,Milind Kumar,0,0,,,,,,"",""
+ball,2,6.1,Lumbini Lions,RK Paudel,D Nath,Shahab Alam,1,0,,,,,,"",""
+ball,2,6.2,Lumbini Lions,D Nath,RK Paudel,Shahab Alam,0,0,,,,,,"",""
+ball,2,6.3,Lumbini Lions,D Nath,RK Paudel,Shahab Alam,4,0,,,,,,"",""
+ball,2,6.4,Lumbini Lions,D Nath,RK Paudel,Shahab Alam,0,1,,,,1,,"",""
+ball,2,6.5,Lumbini Lions,RK Paudel,D Nath,Shahab Alam,0,0,,,,,,"",""
+ball,2,6.6,Lumbini Lions,RK Paudel,D Nath,Shahab Alam,1,0,,,,,,"",""
+ball,2,7.1,Lumbini Lions,RK Paudel,D Nath,MG Erasmus,2,0,,,,,,"",""
+ball,2,7.2,Lumbini Lions,RK Paudel,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.3,Lumbini Lions,RK Paudel,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.4,Lumbini Lions,RK Paudel,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,2,7.5,Lumbini Lions,RK Paudel,D Nath,MG Erasmus,0,0,,,,,,lbw,RK Paudel
+ball,2,7.6,Lumbini Lions,JJ Smit,D Nath,MG Erasmus,4,0,,,,,,"",""
+ball,2,8.1,Lumbini Lions,D Nath,JJ Smit,Milind Kumar,1,0,,,,,,"",""
+ball,2,8.2,Lumbini Lions,JJ Smit,D Nath,Milind Kumar,1,0,,,,,,"",""
+ball,2,8.3,Lumbini Lions,D Nath,JJ Smit,Milind Kumar,0,0,,,,,,"",""
+ball,2,8.4,Lumbini Lions,D Nath,JJ Smit,Milind Kumar,0,0,,,,,,"",""
+ball,2,8.5,Lumbini Lions,D Nath,JJ Smit,Milind Kumar,0,0,,,,,,"",""
+ball,2,8.6,Lumbini Lions,D Nath,JJ Smit,Milind Kumar,0,0,,,,,,"",""
+ball,2,9.1,Lumbini Lions,JJ Smit,D Nath,Karan KC,1,0,,,,,,"",""
+ball,2,9.2,Lumbini Lions,D Nath,JJ Smit,Karan KC,0,0,,,,,,"",""
+ball,2,9.3,Lumbini Lions,D Nath,JJ Smit,Karan KC,1,0,,,,,,"",""
+ball,2,9.4,Lumbini Lions,JJ Smit,D Nath,Karan KC,1,0,,,,,,"",""
+ball,2,9.5,Lumbini Lions,D Nath,JJ Smit,Karan KC,1,0,,,,,,"",""
+ball,2,9.6,Lumbini Lions,JJ Smit,D Nath,Karan KC,0,0,,,,,,"",""
+ball,2,10.1,Lumbini Lions,D Nath,JJ Smit,Santosh Yadav,1,0,,,,,,"",""
+ball,2,10.2,Lumbini Lions,JJ Smit,D Nath,Santosh Yadav,1,0,,,,,,"",""
+ball,2,10.3,Lumbini Lions,D Nath,JJ Smit,Santosh Yadav,1,0,,,,,,"",""
+ball,2,10.4,Lumbini Lions,JJ Smit,D Nath,Santosh Yadav,0,0,,,,,,caught,JJ Smit
+ball,2,10.5,Lumbini Lions,S Maharjan,D Nath,Santosh Yadav,0,1,,,,1,,"",""
+ball,2,10.6,Lumbini Lions,D Nath,S Maharjan,Santosh Yadav,0,0,,,,,,run out,S Maharjan
+ball,2,11.1,Lumbini Lions,D Nath,R Trumpelmann,MG Erasmus,1,0,,,,,,"",""
+ball,2,11.2,Lumbini Lions,R Trumpelmann,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,2,11.3,Lumbini Lions,D Nath,R Trumpelmann,MG Erasmus,1,0,,,,,,"",""
+ball,2,11.4,Lumbini Lions,R Trumpelmann,D Nath,MG Erasmus,4,0,,,,,,"",""
+ball,2,11.5,Lumbini Lions,R Trumpelmann,D Nath,MG Erasmus,0,0,,,,,,caught,R Trumpelmann
+ball,2,11.6,Lumbini Lions,S Malla,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,2,12.1,Lumbini Lions,D Nath,S Malla,Rashid Khan,0,1,1,,,,,"",""
+ball,2,12.2,Lumbini Lions,D Nath,S Malla,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.3,Lumbini Lions,S Malla,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,2,12.4,Lumbini Lions,S Malla,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,2,12.5,Lumbini Lions,S Malla,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,2,12.6,Lumbini Lions,S Malla,D Nath,Rashid Khan,2,0,,,,,,"",""
+ball,2,12.7,Lumbini Lions,S Malla,D Nath,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.1,Lumbini Lions,S Malla,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,2,13.2,Lumbini Lions,S Malla,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,2,13.3,Lumbini Lions,S Malla,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,2,13.4,Lumbini Lions,D Nath,S Malla,MG Erasmus,0,1,,,,1,,"",""
+ball,2,13.5,Lumbini Lions,S Malla,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,2,13.6,Lumbini Lions,D Nath,S Malla,MG Erasmus,0,1,,1,,,,"",""
+ball,2,13.7,Lumbini Lions,D Nath,S Malla,MG Erasmus,1,0,,,,,,"",""
+ball,2,14.1,Lumbini Lions,D Nath,S Malla,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.2,Lumbini Lions,S Malla,D Nath,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.3,Lumbini Lions,D Nath,S Malla,Rashid Khan,0,1,1,,,,,"",""
+ball,2,14.4,Lumbini Lions,D Nath,S Malla,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.5,Lumbini Lions,S Malla,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.6,Lumbini Lions,S Malla,D Nath,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.7,Lumbini Lions,D Nath,S Malla,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.1,Lumbini Lions,D Nath,S Malla,Karan KC,0,1,1,,,,,"",""
+ball,2,15.2,Lumbini Lions,D Nath,S Malla,Karan KC,0,0,,,,,,"",""
+ball,2,15.3,Lumbini Lions,D Nath,S Malla,Karan KC,2,0,,,,,,"",""
+ball,2,15.4,Lumbini Lions,D Nath,S Malla,Karan KC,6,0,,,,,,"",""
+ball,2,15.5,Lumbini Lions,D Nath,S Malla,Karan KC,0,0,,,,,,caught,D Nath
+ball,2,15.6,Lumbini Lions,Abhishesh Gautam,S Malla,Karan KC,0,0,,,,,,"",""
+ball,2,15.7,Lumbini Lions,Abhishesh Gautam,S Malla,Karan KC,1,0,,,,,,"",""
+ball,2,16.1,Lumbini Lions,Abhishesh Gautam,S Malla,Shahab Alam,0,0,,,,,,"",""
+ball,2,16.2,Lumbini Lions,Abhishesh Gautam,S Malla,Shahab Alam,1,0,,,,,,"",""
+ball,2,16.3,Lumbini Lions,S Malla,Abhishesh Gautam,Shahab Alam,6,0,,,,,,"",""
+ball,2,16.4,Lumbini Lions,S Malla,Abhishesh Gautam,Shahab Alam,6,0,,,,,,"",""
+ball,2,16.5,Lumbini Lions,S Malla,Abhishesh Gautam,Shahab Alam,6,0,,,,,,"",""
+ball,2,16.6,Lumbini Lions,S Malla,Abhishesh Gautam,Shahab Alam,1,0,,,,,,"",""
+ball,2,17.1,Lumbini Lions,S Malla,Abhishesh Gautam,Rashid Khan,1,0,,,,,,run out,S Malla
+ball,2,17.2,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Rashid Khan,0,0,,,,,,"",""
+ball,2,17.3,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Rashid Khan,0,0,,,,,,"",""
+ball,2,17.4,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Rashid Khan,0,0,,,,,,"",""
+ball,2,17.5,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Rashid Khan,4,0,,,,,,"",""
+ball,2,17.6,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Rashid Khan,0,0,,,,,,"",""
+ball,2,18.1,Lumbini Lions,Abhishesh Gautam,TR Bhandari,Karan KC,0,1,,,,1,,"",""
+ball,2,18.2,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Karan KC,0,0,,,,,,"",""
+ball,2,18.3,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Karan KC,1,0,,,,,,"",""
+ball,2,18.4,Lumbini Lions,Abhishesh Gautam,TR Bhandari,Karan KC,1,0,,,,,,"",""
+ball,2,18.5,Lumbini Lions,TR Bhandari,Abhishesh Gautam,Karan KC,1,0,,,,,,"",""
+ball,2,18.6,Lumbini Lions,Abhishesh Gautam,TR Bhandari,Karan KC,1,0,,,,,,"",""
+ball,2,19.1,Lumbini Lions,Abhishesh Gautam,TR Bhandari,Rashid Khan,0,0,,,,,,caught,Abhishesh Gautam

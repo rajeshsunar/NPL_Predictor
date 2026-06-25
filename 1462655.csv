@@ -1,0 +1,261 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pokhara Avengers
+info,team,Karnali Yaks
+info,gender,male
+info,season,2024/25
+info,date,2024/12/10
+info,event,Nepal Premier League
+info,match_number,17
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Pokhara Avengers
+info,toss_decision,bat
+info,player_of_match,WG Bosisto
+info,umpire,Bismillah Shinwari
+info,umpire,Sanjay Gurung
+info,reserve_umpire,RC Pandey
+info,tv_umpire,Rashid Riaz
+info,match_referee,M Nayyar
+info,winner,Karnali Yaks
+info,winner_wickets,7
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AGS Gous
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,RA Reifer
+info,player,Pokhara Avengers,MJJ Critchley
+info,player,Pokhara Avengers,D Nath
+info,player,Pokhara Avengers,MA Leask
+info,player,Pokhara Avengers,N Joshi
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,Aakash Chand
+info,player,Pokhara Avengers,S Dhakal
+info,player,Karnali Yaks,D Khanal
+info,player,Karnali Yaks,Babar Hayat
+info,player,Karnali Yaks,CAK Walton
+info,player,Karnali Yaks,Gulsan Jha
+info,player,Karnali Yaks,WG Bosisto
+info,player,Karnali Yaks,A Gharti
+info,player,Karnali Yaks,Zeeshan Maqsood
+info,player,Karnali Yaks,Sompal Kami
+info,player,Karnali Yaks,NK Yadav
+info,player,Karnali Yaks,UBS Thakuri
+info,player,Karnali Yaks,BP Sharma
+info,registry,people,A Gharti,0b62d391
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aakash Chand,279c51f0
+info,registry,people,BP Sharma,947ceca5
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CAK Walton,bbff906c
+info,registry,people,D Khanal,c4bc3b59
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,D Nath,d019608b
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MA Leask,28131839
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,N Joshi,58c71b70
+info,registry,people,NK Yadav,737e595d
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RC Pandey,1b807976
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Dhakal,8955b928
+info,registry,people,Sanjay Gurung,0ef792dc
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,UBS Thakuri,fd0aef78
+info,registry,people,WG Bosisto,04ef663a
+info,registry,people,Zeeshan Maqsood,34464143
+ball,1,0.1,Pokhara Avengers,D Kharel,AGS Gous,Sompal Kami,0,0,,,,,,"",""
+ball,1,0.2,Pokhara Avengers,D Kharel,AGS Gous,Sompal Kami,0,0,,,,,,"",""
+ball,1,0.3,Pokhara Avengers,D Kharel,AGS Gous,Sompal Kami,4,0,,,,,,"",""
+ball,1,0.4,Pokhara Avengers,D Kharel,AGS Gous,Sompal Kami,1,0,,,,,,"",""
+ball,1,0.5,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,0,0,,,,,,"",""
+ball,1,0.6,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,4,0,,,,,,"",""
+ball,1,1.1,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,0,0,,,,,,"",""
+ball,1,1.2,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,4,0,,,,,,"",""
+ball,1,1.3,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,1,0,,,,,,"",""
+ball,1,1.4,Pokhara Avengers,AGS Gous,D Kharel,BP Sharma,0,0,,,,,,"",""
+ball,1,1.5,Pokhara Avengers,AGS Gous,D Kharel,BP Sharma,1,0,,,,,,"",""
+ball,1,1.6,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,4,0,,,,,,"",""
+ball,1,2.1,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,0,0,,,,,,"",""
+ball,1,2.2,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,0,0,,,,,,"",""
+ball,1,2.3,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,4,0,,,,,,"",""
+ball,1,2.4,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,2,0,,,,,,"",""
+ball,1,2.5,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,6,0,,,,,,"",""
+ball,1,2.6,Pokhara Avengers,AGS Gous,D Kharel,Sompal Kami,4,0,,,,,,"",""
+ball,1,3.1,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,6,0,,,,,,"",""
+ball,1,3.2,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,0,0,,,,,,"",""
+ball,1,3.3,Pokhara Avengers,D Kharel,AGS Gous,BP Sharma,1,0,,,,,,"",""
+ball,1,3.4,Pokhara Avengers,AGS Gous,D Kharel,BP Sharma,4,0,,,,,,"",""
+ball,1,3.5,Pokhara Avengers,AGS Gous,D Kharel,BP Sharma,0,0,,,,,,caught,AGS Gous
+ball,1,3.6,Pokhara Avengers,K Bhurtel,D Kharel,BP Sharma,0,0,,,,,,"",""
+ball,1,4.1,Pokhara Avengers,D Kharel,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,4.2,Pokhara Avengers,D Kharel,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,4.3,Pokhara Avengers,D Kharel,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,4.4,Pokhara Avengers,D Kharel,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,4.5,Pokhara Avengers,D Kharel,K Bhurtel,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,4.6,Pokhara Avengers,K Bhurtel,D Kharel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,5.1,Pokhara Avengers,D Kharel,K Bhurtel,UBS Thakuri,4,0,,,,,,"",""
+ball,1,5.2,Pokhara Avengers,D Kharel,K Bhurtel,UBS Thakuri,0,0,,,,,,"",""
+ball,1,5.3,Pokhara Avengers,D Kharel,K Bhurtel,UBS Thakuri,0,0,,,,,,bowled,D Kharel
+ball,1,5.4,Pokhara Avengers,RA Reifer,K Bhurtel,UBS Thakuri,0,0,,,,,,"",""
+ball,1,5.5,Pokhara Avengers,RA Reifer,K Bhurtel,UBS Thakuri,0,0,,,,,,"",""
+ball,1,5.6,Pokhara Avengers,RA Reifer,K Bhurtel,UBS Thakuri,1,0,,,,,,"",""
+ball,1,6.1,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,6.2,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,6.3,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,6.4,Pokhara Avengers,K Bhurtel,RA Reifer,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,6.5,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,2,0,,,,,,"",""
+ball,1,6.6,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,2,0,,,,,,"",""
+ball,1,7.1,Pokhara Avengers,K Bhurtel,RA Reifer,UBS Thakuri,0,0,,,,,,"",""
+ball,1,7.2,Pokhara Avengers,K Bhurtel,RA Reifer,UBS Thakuri,1,0,,,,,,"",""
+ball,1,7.3,Pokhara Avengers,RA Reifer,K Bhurtel,UBS Thakuri,1,0,,,,,,"",""
+ball,1,7.4,Pokhara Avengers,K Bhurtel,RA Reifer,UBS Thakuri,1,0,,,,,,"",""
+ball,1,7.5,Pokhara Avengers,RA Reifer,K Bhurtel,UBS Thakuri,0,0,,,,,,"",""
+ball,1,7.6,Pokhara Avengers,RA Reifer,K Bhurtel,UBS Thakuri,1,0,,,,,,"",""
+ball,1,8.1,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,8.2,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,2,0,,,,,,"",""
+ball,1,8.3,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,8.4,Pokhara Avengers,RA Reifer,K Bhurtel,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,8.5,Pokhara Avengers,K Bhurtel,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,8.6,Pokhara Avengers,K Bhurtel,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,9.1,Pokhara Avengers,RA Reifer,K Bhurtel,WG Bosisto,1,0,,,,,,"",""
+ball,1,9.2,Pokhara Avengers,K Bhurtel,RA Reifer,WG Bosisto,6,0,,,,,,"",""
+ball,1,9.3,Pokhara Avengers,K Bhurtel,RA Reifer,WG Bosisto,1,0,,,,,,"",""
+ball,1,9.4,Pokhara Avengers,RA Reifer,K Bhurtel,WG Bosisto,1,0,,,,,,"",""
+ball,1,9.5,Pokhara Avengers,K Bhurtel,RA Reifer,WG Bosisto,0,0,,,,,,caught and bowled,K Bhurtel
+ball,1,9.6,Pokhara Avengers,MJJ Critchley,RA Reifer,WG Bosisto,0,0,,,,,,"",""
+ball,1,10.1,Pokhara Avengers,RA Reifer,MJJ Critchley,Zeeshan Maqsood,1,0,,,,,,"",""
+ball,1,10.2,Pokhara Avengers,MJJ Critchley,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,10.3,Pokhara Avengers,MJJ Critchley,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,10.4,Pokhara Avengers,MJJ Critchley,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,10.5,Pokhara Avengers,MJJ Critchley,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,10.6,Pokhara Avengers,MJJ Critchley,RA Reifer,Zeeshan Maqsood,0,0,,,,,,"",""
+ball,1,11.1,Pokhara Avengers,RA Reifer,MJJ Critchley,WG Bosisto,0,0,,,,,,"",""
+ball,1,11.2,Pokhara Avengers,RA Reifer,MJJ Critchley,WG Bosisto,1,0,,,,,,"",""
+ball,1,11.3,Pokhara Avengers,MJJ Critchley,RA Reifer,WG Bosisto,0,0,,,,,,"",""
+ball,1,11.4,Pokhara Avengers,MJJ Critchley,RA Reifer,WG Bosisto,0,5,5,,,,,"",""
+ball,1,11.5,Pokhara Avengers,MJJ Critchley,RA Reifer,WG Bosisto,0,0,,,,,,"",""
+ball,1,11.6,Pokhara Avengers,MJJ Critchley,RA Reifer,WG Bosisto,0,0,,,,,,bowled,MJJ Critchley
+ball,1,11.7,Pokhara Avengers,D Nath,RA Reifer,WG Bosisto,1,0,,,,,,"",""
+ball,1,12.1,Pokhara Avengers,D Nath,RA Reifer,UBS Thakuri,1,0,,,,,,"",""
+ball,1,12.2,Pokhara Avengers,RA Reifer,D Nath,UBS Thakuri,0,0,,,,,,"",""
+ball,1,12.3,Pokhara Avengers,RA Reifer,D Nath,UBS Thakuri,2,0,,,,,,"",""
+ball,1,12.4,Pokhara Avengers,RA Reifer,D Nath,UBS Thakuri,1,0,,,,,,"",""
+ball,1,12.5,Pokhara Avengers,D Nath,RA Reifer,UBS Thakuri,0,0,,,,,,"",""
+ball,1,12.6,Pokhara Avengers,D Nath,RA Reifer,UBS Thakuri,1,0,,,,,,"",""
+ball,1,13.1,Pokhara Avengers,D Nath,RA Reifer,WG Bosisto,0,0,,,,,,caught,D Nath
+ball,1,13.2,Pokhara Avengers,MA Leask,RA Reifer,WG Bosisto,2,0,,,,,,"",""
+ball,1,13.3,Pokhara Avengers,MA Leask,RA Reifer,WG Bosisto,0,0,,,,,,bowled,MA Leask
+ball,1,13.4,Pokhara Avengers,N Joshi,RA Reifer,WG Bosisto,1,0,,,,,,"",""
+ball,1,13.5,Pokhara Avengers,RA Reifer,N Joshi,WG Bosisto,1,0,,,,,,"",""
+ball,1,13.6,Pokhara Avengers,N Joshi,RA Reifer,WG Bosisto,0,0,,,,,,lbw,N Joshi
+ball,1,14.1,Pokhara Avengers,RA Reifer,Bipin Khatri,UBS Thakuri,1,0,,,,,,"",""
+ball,1,14.2,Pokhara Avengers,Bipin Khatri,RA Reifer,UBS Thakuri,0,0,,,,,,"",""
+ball,1,14.3,Pokhara Avengers,Bipin Khatri,RA Reifer,UBS Thakuri,2,0,,,,,,"",""
+ball,1,14.4,Pokhara Avengers,Bipin Khatri,RA Reifer,UBS Thakuri,0,0,,,,,,"",""
+ball,1,14.5,Pokhara Avengers,Bipin Khatri,RA Reifer,UBS Thakuri,0,0,,,,,,"",""
+ball,1,14.6,Pokhara Avengers,Bipin Khatri,RA Reifer,UBS Thakuri,0,0,,,,,,"",""
+ball,1,15.1,Pokhara Avengers,RA Reifer,Bipin Khatri,WG Bosisto,0,0,,,,,,caught,RA Reifer
+ball,1,15.2,Pokhara Avengers,Aakash Chand,Bipin Khatri,WG Bosisto,1,0,,,,,,"",""
+ball,1,15.3,Pokhara Avengers,Bipin Khatri,Aakash Chand,WG Bosisto,0,0,,,,,,"",""
+ball,1,15.4,Pokhara Avengers,Bipin Khatri,Aakash Chand,WG Bosisto,6,0,,,,,,"",""
+ball,1,15.5,Pokhara Avengers,Bipin Khatri,Aakash Chand,WG Bosisto,1,0,,,,,,"",""
+ball,1,15.6,Pokhara Avengers,Aakash Chand,Bipin Khatri,WG Bosisto,0,0,,,,,,"",""
+ball,1,16.1,Pokhara Avengers,Bipin Khatri,Aakash Chand,Sompal Kami,1,0,,,,,,"",""
+ball,1,16.2,Pokhara Avengers,Aakash Chand,Bipin Khatri,Sompal Kami,0,0,,,,,,lbw,Aakash Chand
+ball,1,16.3,Pokhara Avengers,S Dhakal,Bipin Khatri,Sompal Kami,0,0,,,,,,run out,Bipin Khatri
+ball,2,0.1,Karnali Yaks,D Khanal,Babar Hayat,Bipin Khatri,0,0,,,,,,"",""
+ball,2,0.2,Karnali Yaks,D Khanal,Babar Hayat,Bipin Khatri,0,2,,,2,,,"",""
+ball,2,0.3,Karnali Yaks,D Khanal,Babar Hayat,Bipin Khatri,0,0,,,,,,lbw,D Khanal
+ball,2,0.4,Karnali Yaks,CAK Walton,Babar Hayat,Bipin Khatri,0,0,,,,,,"",""
+ball,2,0.5,Karnali Yaks,CAK Walton,Babar Hayat,Bipin Khatri,0,0,,,,,,"",""
+ball,2,0.6,Karnali Yaks,CAK Walton,Babar Hayat,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.1,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,1.2,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,1,,,,1,,"",""
+ball,2,1.3,Karnali Yaks,CAK Walton,Babar Hayat,S Dhakal,0,0,,,,,,"",""
+ball,2,1.4,Karnali Yaks,CAK Walton,Babar Hayat,S Dhakal,1,0,,,,,,"",""
+ball,2,1.5,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,1.6,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,2.1,Karnali Yaks,CAK Walton,Babar Hayat,Bipin Khatri,0,0,,,,,,"",""
+ball,2,2.2,Karnali Yaks,CAK Walton,Babar Hayat,Bipin Khatri,1,0,,,,,,"",""
+ball,2,2.3,Karnali Yaks,Babar Hayat,CAK Walton,Bipin Khatri,0,0,,,,,,"",""
+ball,2,2.4,Karnali Yaks,Babar Hayat,CAK Walton,Bipin Khatri,1,0,,,,,,"",""
+ball,2,2.5,Karnali Yaks,CAK Walton,Babar Hayat,Bipin Khatri,1,0,,,,,,"",""
+ball,2,2.6,Karnali Yaks,Babar Hayat,CAK Walton,Bipin Khatri,6,0,,,,,,"",""
+ball,2,3.1,Karnali Yaks,CAK Walton,Babar Hayat,S Dhakal,0,0,,,,,,"",""
+ball,2,3.2,Karnali Yaks,CAK Walton,Babar Hayat,S Dhakal,1,0,,,,,,"",""
+ball,2,3.3,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,3.4,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,3.5,Karnali Yaks,Babar Hayat,CAK Walton,S Dhakal,0,0,,,,,,bowled,Babar Hayat
+ball,2,3.6,Karnali Yaks,Gulsan Jha,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,4.1,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,4,0,,,,,,"",""
+ball,2,4.2,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,4,0,,,,,,"",""
+ball,2,4.3,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,0,0,,,,,,"",""
+ball,2,4.4,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,0,2,2,,,,,"",""
+ball,2,4.5,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,4.6,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,4.7,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,5.1,Karnali Yaks,CAK Walton,Gulsan Jha,Bipin Khatri,0,0,,,,,,"",""
+ball,2,5.2,Karnali Yaks,CAK Walton,Gulsan Jha,Bipin Khatri,1,0,,,,,,"",""
+ball,2,5.3,Karnali Yaks,Gulsan Jha,CAK Walton,Bipin Khatri,0,0,,,,,,"",""
+ball,2,5.4,Karnali Yaks,Gulsan Jha,CAK Walton,Bipin Khatri,0,0,,,,,,"",""
+ball,2,5.5,Karnali Yaks,Gulsan Jha,CAK Walton,Bipin Khatri,0,0,,,,,,"",""
+ball,2,5.6,Karnali Yaks,Gulsan Jha,CAK Walton,Bipin Khatri,2,0,,,,,,"",""
+ball,2,6.1,Karnali Yaks,CAK Walton,Gulsan Jha,RA Reifer,1,0,,,,,,"",""
+ball,2,6.2,Karnali Yaks,Gulsan Jha,CAK Walton,RA Reifer,1,0,,,,,,"",""
+ball,2,6.3,Karnali Yaks,CAK Walton,Gulsan Jha,RA Reifer,1,0,,,,,,"",""
+ball,2,6.4,Karnali Yaks,Gulsan Jha,CAK Walton,RA Reifer,0,0,,,,,,"",""
+ball,2,6.5,Karnali Yaks,Gulsan Jha,CAK Walton,RA Reifer,0,0,,,,,,"",""
+ball,2,6.6,Karnali Yaks,Gulsan Jha,CAK Walton,RA Reifer,0,0,,,,,,"",""
+ball,2,7.1,Karnali Yaks,CAK Walton,Gulsan Jha,S Dhakal,0,0,,,,,,"",""
+ball,2,7.2,Karnali Yaks,CAK Walton,Gulsan Jha,S Dhakal,0,1,,,,1,,"",""
+ball,2,7.3,Karnali Yaks,Gulsan Jha,CAK Walton,S Dhakal,0,0,,,,,,"",""
+ball,2,7.4,Karnali Yaks,Gulsan Jha,CAK Walton,S Dhakal,1,0,,,,,,"",""
+ball,2,7.5,Karnali Yaks,CAK Walton,Gulsan Jha,S Dhakal,0,0,,,,,,"",""
+ball,2,7.6,Karnali Yaks,CAK Walton,Gulsan Jha,S Dhakal,0,0,,,,,,"",""
+ball,2,8.1,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,8.2,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,8.3,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,8.4,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,8.5,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,8.6,Karnali Yaks,Gulsan Jha,CAK Walton,MA Leask,0,0,,,,,,"",""
+ball,2,9.1,Karnali Yaks,CAK Walton,Gulsan Jha,MJJ Critchley,2,0,,,,,,"",""
+ball,2,9.2,Karnali Yaks,CAK Walton,Gulsan Jha,MJJ Critchley,4,0,,,,,,"",""
+ball,2,9.3,Karnali Yaks,CAK Walton,Gulsan Jha,MJJ Critchley,4,0,,,,,,"",""
+ball,2,9.4,Karnali Yaks,CAK Walton,Gulsan Jha,MJJ Critchley,0,0,,,,,,"",""
+ball,2,9.5,Karnali Yaks,CAK Walton,Gulsan Jha,MJJ Critchley,1,0,,,,,,"",""
+ball,2,9.6,Karnali Yaks,Gulsan Jha,CAK Walton,MJJ Critchley,2,0,,,,,,"",""
+ball,2,10.1,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,4,0,,,,,,"",""
+ball,2,10.2,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,4,0,,,,,,"",""
+ball,2,10.3,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,0,0,,,,,,"",""
+ball,2,10.4,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,6,0,,,,,,"",""
+ball,2,10.5,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,0,0,,,,,,"",""
+ball,2,10.6,Karnali Yaks,CAK Walton,Gulsan Jha,MA Leask,1,0,,,,,,"",""
+ball,2,11.1,Karnali Yaks,CAK Walton,Gulsan Jha,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.2,Karnali Yaks,Gulsan Jha,CAK Walton,K Bhurtel,2,0,,,,,,"",""
+ball,2,11.3,Karnali Yaks,Gulsan Jha,CAK Walton,K Bhurtel,4,0,,,,,,"",""
+ball,2,11.4,Karnali Yaks,Gulsan Jha,CAK Walton,K Bhurtel,6,0,,,,,,"",""
+ball,2,11.5,Karnali Yaks,Gulsan Jha,CAK Walton,K Bhurtel,1,0,,,,,,"",""
+ball,2,11.6,Karnali Yaks,CAK Walton,Gulsan Jha,K Bhurtel,0,0,,,,,,bowled,CAK Walton
+ball,2,12.1,Karnali Yaks,Gulsan Jha,WG Bosisto,RA Reifer,0,0,,,,,,"",""
+ball,2,12.2,Karnali Yaks,Gulsan Jha,WG Bosisto,RA Reifer,0,0,,,,,,"",""
+ball,2,12.3,Karnali Yaks,Gulsan Jha,WG Bosisto,RA Reifer,0,0,,,,,,"",""
+ball,2,12.4,Karnali Yaks,Gulsan Jha,WG Bosisto,RA Reifer,0,0,,,,,,"",""
+ball,2,12.5,Karnali Yaks,Gulsan Jha,WG Bosisto,RA Reifer,4,0,,,,,,"",""
+ball,2,12.6,Karnali Yaks,Gulsan Jha,WG Bosisto,RA Reifer,0,0,,,,,,"",""
+ball,2,13.1,Karnali Yaks,WG Bosisto,Gulsan Jha,S Dhakal,1,0,,,,,,"",""
+ball,2,13.2,Karnali Yaks,Gulsan Jha,WG Bosisto,S Dhakal,2,0,,,,,,"",""
+ball,2,13.3,Karnali Yaks,Gulsan Jha,WG Bosisto,S Dhakal,2,0,,,,,,"",""
+ball,2,13.4,Karnali Yaks,Gulsan Jha,WG Bosisto,S Dhakal,6,0,,,,,,"",""
+ball,2,13.5,Karnali Yaks,Gulsan Jha,WG Bosisto,S Dhakal,6,0,,,,,,"",""
+ball,2,13.6,Karnali Yaks,Gulsan Jha,WG Bosisto,S Dhakal,4,0,,,,,,"",""
+ball,2,14.1,Karnali Yaks,WG Bosisto,Gulsan Jha,MJJ Critchley,0,0,,,,,,"",""
+ball,2,14.2,Karnali Yaks,WG Bosisto,Gulsan Jha,MJJ Critchley,0,0,,,,,,"",""
+ball,2,14.3,Karnali Yaks,WG Bosisto,Gulsan Jha,MJJ Critchley,0,0,,,,,,"",""
+ball,2,14.4,Karnali Yaks,WG Bosisto,Gulsan Jha,MJJ Critchley,0,0,,,,,,"",""
+ball,2,14.5,Karnali Yaks,WG Bosisto,Gulsan Jha,MJJ Critchley,1,0,,,,,,"",""
+ball,2,14.6,Karnali Yaks,Gulsan Jha,WG Bosisto,MJJ Critchley,6,0,,,,,,"",""

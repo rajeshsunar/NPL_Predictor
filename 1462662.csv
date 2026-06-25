@@ -1,0 +1,279 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pokhara Avengers
+info,team,Kathmandu Gurkhas
+info,gender,male
+info,season,2024/25
+info,date,2024/12/14
+info,event,Nepal Premier League
+info,match_number,24
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Kathmandu Gurkhas
+info,toss_decision,field
+info,player_of_match,SS Eskinazi
+info,umpire,DN Subedi
+info,umpire,Rashid Riaz
+info,reserve_umpire,Kamalesh Thakur
+info,tv_umpire,Bismillah Shinwari
+info,match_referee,Mohammed Shafique
+info,winner,Kathmandu Gurkhas
+info,winner_wickets,6
+info,player,Pokhara Avengers,D Kharel
+info,player,Pokhara Avengers,AGS Gous
+info,player,Pokhara Avengers,K Bhurtel
+info,player,Pokhara Avengers,D Nath
+info,player,Pokhara Avengers,Aakarshit Gomel
+info,player,Pokhara Avengers,RA Reifer
+info,player,Pokhara Avengers,MA Leask
+info,player,Pokhara Avengers,N Joshi
+info,player,Pokhara Avengers,Bipin Khatri
+info,player,Pokhara Avengers,S Dhakal
+info,player,Pokhara Avengers,Aakash Chand
+info,player,Kathmandu Gurkhas,SS Eskinazi
+info,player,Kathmandu Gurkhas,M Levitt
+info,player,Kathmandu Gurkhas,B Sharki
+info,player,Kathmandu Gurkhas,MG Erasmus
+info,player,Kathmandu Gurkhas,Karan KC
+info,player,Kathmandu Gurkhas,Rashid Khan
+info,player,Kathmandu Gurkhas,R Rijal
+info,player,Kathmandu Gurkhas,NA Sowter
+info,player,Kathmandu Gurkhas,P Shrestha
+info,player,Kathmandu Gurkhas,Shahab Alam
+info,player,Kathmandu Gurkhas,D Kandel
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aakarshit Gomel,02f4b99c
+info,registry,people,Aakash Chand,279c51f0
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,Bipin Khatri,6e21867e
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,D Kandel,2e80c353
+info,registry,people,D Kharel,0e3bfa00
+info,registry,people,D Nath,d019608b
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Kamalesh Thakur,6926399e
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,MA Leask,28131839
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Mohammed Shafique,a9ca87b8
+info,registry,people,N Joshi,58c71b70
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,P Shrestha,534c4b03
+info,registry,people,R Rijal,ee3ad356
+info,registry,people,RA Reifer,d7725664
+info,registry,people,Rashid Khan,69cccff3
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Dhakal,8955b928
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,Shahab Alam,cdd9fa95
+ball,1,0.1,Pokhara Avengers,D Kharel,AGS Gous,Shahab Alam,0,0,,,,,,"",""
+ball,1,0.2,Pokhara Avengers,D Kharel,AGS Gous,Shahab Alam,6,0,,,,,,"",""
+ball,1,0.3,Pokhara Avengers,D Kharel,AGS Gous,Shahab Alam,0,0,,,,,,"",""
+ball,1,0.4,Pokhara Avengers,D Kharel,AGS Gous,Shahab Alam,1,0,,,,,,"",""
+ball,1,0.5,Pokhara Avengers,AGS Gous,D Kharel,Shahab Alam,0,0,,,,,,"",""
+ball,1,0.6,Pokhara Avengers,AGS Gous,D Kharel,Shahab Alam,0,0,,,,,,"",""
+ball,1,1.1,Pokhara Avengers,D Kharel,AGS Gous,MG Erasmus,1,0,,,,,,"",""
+ball,1,1.2,Pokhara Avengers,AGS Gous,D Kharel,MG Erasmus,0,0,,,,,,"",""
+ball,1,1.3,Pokhara Avengers,AGS Gous,D Kharel,MG Erasmus,0,0,,,,,,"",""
+ball,1,1.4,Pokhara Avengers,AGS Gous,D Kharel,MG Erasmus,0,0,,,,,,caught,AGS Gous
+ball,1,1.5,Pokhara Avengers,K Bhurtel,D Kharel,MG Erasmus,0,0,,,,,,"",""
+ball,1,1.6,Pokhara Avengers,K Bhurtel,D Kharel,MG Erasmus,0,0,,,,,,"",""
+ball,1,2.1,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,1,0,,,,,,"",""
+ball,1,2.2,Pokhara Avengers,K Bhurtel,D Kharel,Karan KC,1,0,,,,,,"",""
+ball,1,2.3,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,0,0,,,,,,"",""
+ball,1,2.4,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,0,0,,,,,,"",""
+ball,1,2.5,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,0,0,,,,,,"",""
+ball,1,2.6,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,1,0,,,,,,"",""
+ball,1,3.1,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,4,0,,,,,,"",""
+ball,1,3.2,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,0,0,,,,,,"",""
+ball,1,3.3,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,0,0,,,,,,"",""
+ball,1,3.4,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,0,0,,,,,,"",""
+ball,1,3.5,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,0,1,1,,,,,"",""
+ball,1,3.6,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,0,0,,,,,,"",""
+ball,1,3.7,Pokhara Avengers,D Kharel,K Bhurtel,MG Erasmus,1,0,,,,,,"",""
+ball,1,4.1,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,0,0,,,,,,"",""
+ball,1,4.2,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,4,0,,,,,,"",""
+ball,1,4.3,Pokhara Avengers,D Kharel,K Bhurtel,Karan KC,1,0,,,,,,"",""
+ball,1,4.4,Pokhara Avengers,K Bhurtel,D Kharel,Karan KC,4,0,,,,,,"",""
+ball,1,4.5,Pokhara Avengers,K Bhurtel,D Kharel,Karan KC,0,0,,,,,,"",""
+ball,1,4.6,Pokhara Avengers,K Bhurtel,D Kharel,Karan KC,0,0,,,,,,"",""
+ball,1,5.1,Pokhara Avengers,D Kharel,K Bhurtel,Rashid Khan,2,0,,,,,,"",""
+ball,1,5.2,Pokhara Avengers,D Kharel,K Bhurtel,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.3,Pokhara Avengers,D Kharel,K Bhurtel,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.4,Pokhara Avengers,D Kharel,K Bhurtel,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.5,Pokhara Avengers,D Kharel,K Bhurtel,Rashid Khan,4,0,,,,,,"",""
+ball,1,5.6,Pokhara Avengers,D Kharel,K Bhurtel,Rashid Khan,0,0,,,,,,lbw,D Kharel
+ball,1,6.1,Pokhara Avengers,K Bhurtel,D Nath,NA Sowter,0,1,1,,,,,"",""
+ball,1,6.2,Pokhara Avengers,K Bhurtel,D Nath,NA Sowter,1,0,,,,,,"",""
+ball,1,6.3,Pokhara Avengers,D Nath,K Bhurtel,NA Sowter,1,0,,,,,,"",""
+ball,1,6.4,Pokhara Avengers,K Bhurtel,D Nath,NA Sowter,1,0,,,,,,"",""
+ball,1,6.5,Pokhara Avengers,D Nath,K Bhurtel,NA Sowter,0,0,,,,,,"",""
+ball,1,6.6,Pokhara Avengers,D Nath,K Bhurtel,NA Sowter,6,0,,,,,,"",""
+ball,1,6.7,Pokhara Avengers,D Nath,K Bhurtel,NA Sowter,0,0,,,,,,"",""
+ball,1,7.1,Pokhara Avengers,K Bhurtel,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.2,Pokhara Avengers,K Bhurtel,D Nath,Rashid Khan,0,0,,,,,,bowled,K Bhurtel
+ball,1,7.3,Pokhara Avengers,Aakarshit Gomel,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.4,Pokhara Avengers,Aakarshit Gomel,D Nath,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.5,Pokhara Avengers,D Nath,Aakarshit Gomel,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.6,Pokhara Avengers,Aakarshit Gomel,D Nath,Rashid Khan,0,0,,,,,,"",""
+ball,1,8.1,Pokhara Avengers,D Nath,Aakarshit Gomel,Shahab Alam,0,1,1,,,,,"",""
+ball,1,8.2,Pokhara Avengers,D Nath,Aakarshit Gomel,Shahab Alam,1,0,,,,,,"",""
+ball,1,8.3,Pokhara Avengers,Aakarshit Gomel,D Nath,Shahab Alam,1,0,,,,,,"",""
+ball,1,8.4,Pokhara Avengers,D Nath,Aakarshit Gomel,Shahab Alam,1,0,,,,,,"",""
+ball,1,8.5,Pokhara Avengers,Aakarshit Gomel,D Nath,Shahab Alam,0,0,,,,,,"",""
+ball,1,8.6,Pokhara Avengers,Aakarshit Gomel,D Nath,Shahab Alam,0,0,,,,,,"",""
+ball,1,8.7,Pokhara Avengers,Aakarshit Gomel,D Nath,Shahab Alam,1,0,,,,,,"",""
+ball,1,9.1,Pokhara Avengers,Aakarshit Gomel,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,1,9.2,Pokhara Avengers,D Nath,Aakarshit Gomel,MG Erasmus,1,0,,,,,,"",""
+ball,1,9.3,Pokhara Avengers,Aakarshit Gomel,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,1,9.4,Pokhara Avengers,D Nath,Aakarshit Gomel,MG Erasmus,0,4,,,,4,,"",""
+ball,1,9.5,Pokhara Avengers,D Nath,Aakarshit Gomel,MG Erasmus,0,0,,,,,,"",""
+ball,1,9.6,Pokhara Avengers,D Nath,Aakarshit Gomel,MG Erasmus,1,0,,,,,,"",""
+ball,1,10.1,Pokhara Avengers,D Nath,Aakarshit Gomel,NA Sowter,0,0,,,,,,"",""
+ball,1,10.2,Pokhara Avengers,D Nath,Aakarshit Gomel,NA Sowter,1,0,,,,,,"",""
+ball,1,10.3,Pokhara Avengers,Aakarshit Gomel,D Nath,NA Sowter,1,0,,,,,,"",""
+ball,1,10.4,Pokhara Avengers,D Nath,Aakarshit Gomel,NA Sowter,1,0,,,,,,"",""
+ball,1,10.5,Pokhara Avengers,Aakarshit Gomel,D Nath,NA Sowter,1,0,,,,,,"",""
+ball,1,10.6,Pokhara Avengers,D Nath,Aakarshit Gomel,NA Sowter,6,0,,,,,,"",""
+ball,1,11.1,Pokhara Avengers,Aakarshit Gomel,D Nath,M Levitt,0,0,,,,,,"",""
+ball,1,11.2,Pokhara Avengers,Aakarshit Gomel,D Nath,M Levitt,1,0,,,,,,"",""
+ball,1,11.3,Pokhara Avengers,D Nath,Aakarshit Gomel,M Levitt,1,0,,,,,,"",""
+ball,1,11.4,Pokhara Avengers,Aakarshit Gomel,D Nath,M Levitt,0,0,,,,,,"",""
+ball,1,11.5,Pokhara Avengers,Aakarshit Gomel,D Nath,M Levitt,0,0,,,,,,lbw,Aakarshit Gomel
+ball,1,11.6,Pokhara Avengers,RA Reifer,D Nath,M Levitt,1,0,,,,,,"",""
+ball,1,12.1,Pokhara Avengers,RA Reifer,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,1,12.2,Pokhara Avengers,RA Reifer,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,1,12.3,Pokhara Avengers,D Nath,RA Reifer,MG Erasmus,1,0,,,,,,"",""
+ball,1,12.4,Pokhara Avengers,RA Reifer,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,1,12.5,Pokhara Avengers,RA Reifer,D Nath,MG Erasmus,0,0,,,,,,"",""
+ball,1,12.6,Pokhara Avengers,RA Reifer,D Nath,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.1,Pokhara Avengers,RA Reifer,D Nath,M Levitt,0,0,,,,,,"",""
+ball,1,13.2,Pokhara Avengers,RA Reifer,D Nath,M Levitt,1,0,,,,,,"",""
+ball,1,13.3,Pokhara Avengers,D Nath,RA Reifer,M Levitt,1,0,,,,,,"",""
+ball,1,13.4,Pokhara Avengers,RA Reifer,D Nath,M Levitt,0,0,,,,,,"",""
+ball,1,13.5,Pokhara Avengers,RA Reifer,D Nath,M Levitt,1,0,,,,,,"",""
+ball,1,13.6,Pokhara Avengers,D Nath,RA Reifer,M Levitt,1,0,,,,,,"",""
+ball,1,14.1,Pokhara Avengers,D Nath,RA Reifer,B Sharki,2,0,,,,,,"",""
+ball,1,14.2,Pokhara Avengers,D Nath,RA Reifer,B Sharki,0,0,,,,,,"",""
+ball,1,14.3,Pokhara Avengers,D Nath,RA Reifer,B Sharki,1,0,,,,,,"",""
+ball,1,14.4,Pokhara Avengers,RA Reifer,D Nath,B Sharki,0,0,,,,,,"",""
+ball,1,14.5,Pokhara Avengers,RA Reifer,D Nath,B Sharki,0,0,,,,,,"",""
+ball,1,14.6,Pokhara Avengers,RA Reifer,D Nath,B Sharki,1,0,,,,,,"",""
+ball,1,15.1,Pokhara Avengers,RA Reifer,D Nath,Rashid Khan,2,0,,,,,,"",""
+ball,1,15.2,Pokhara Avengers,RA Reifer,D Nath,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.3,Pokhara Avengers,D Nath,RA Reifer,Rashid Khan,0,0,,,,,,"",""
+ball,1,15.4,Pokhara Avengers,D Nath,RA Reifer,Rashid Khan,0,0,,,,,,bowled,D Nath
+ball,1,15.5,Pokhara Avengers,MA Leask,RA Reifer,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.6,Pokhara Avengers,RA Reifer,MA Leask,Rashid Khan,2,0,,,,,,"",""
+ball,1,16.1,Pokhara Avengers,MA Leask,RA Reifer,Karan KC,0,0,,,,,,lbw,MA Leask
+ball,1,16.2,Pokhara Avengers,N Joshi,RA Reifer,Karan KC,0,0,,,,,,caught,N Joshi
+ball,1,16.3,Pokhara Avengers,Bipin Khatri,RA Reifer,Karan KC,1,0,,,,,,"",""
+ball,1,16.4,Pokhara Avengers,RA Reifer,Bipin Khatri,Karan KC,1,0,,,,,,"",""
+ball,1,16.5,Pokhara Avengers,Bipin Khatri,RA Reifer,Karan KC,0,4,,,,4,,"",""
+ball,1,16.6,Pokhara Avengers,Bipin Khatri,RA Reifer,Karan KC,1,0,,,,,,"",""
+ball,1,17.1,Pokhara Avengers,Bipin Khatri,RA Reifer,M Levitt,1,0,,,,,,"",""
+ball,1,17.2,Pokhara Avengers,RA Reifer,Bipin Khatri,M Levitt,0,0,,,,,,"",""
+ball,1,17.3,Pokhara Avengers,RA Reifer,Bipin Khatri,M Levitt,1,0,,,,,,"",""
+ball,1,17.4,Pokhara Avengers,Bipin Khatri,RA Reifer,M Levitt,1,0,,,,,,"",""
+ball,1,17.5,Pokhara Avengers,RA Reifer,Bipin Khatri,M Levitt,2,0,,,,,,"",""
+ball,1,17.6,Pokhara Avengers,RA Reifer,Bipin Khatri,M Levitt,1,0,,,,,,"",""
+ball,1,18.1,Pokhara Avengers,RA Reifer,Bipin Khatri,Karan KC,6,0,,,,,,"",""
+ball,1,18.2,Pokhara Avengers,RA Reifer,Bipin Khatri,Karan KC,1,0,,,,,,"",""
+ball,1,18.3,Pokhara Avengers,Bipin Khatri,RA Reifer,Karan KC,0,0,,,,,,caught,Bipin Khatri
+ball,1,18.4,Pokhara Avengers,S Dhakal,RA Reifer,Karan KC,1,0,,,,,,"",""
+ball,1,18.5,Pokhara Avengers,RA Reifer,S Dhakal,Karan KC,1,0,,,,,,"",""
+ball,1,18.6,Pokhara Avengers,S Dhakal,RA Reifer,Karan KC,0,0,,,,,,"",""
+ball,1,19.1,Pokhara Avengers,RA Reifer,S Dhakal,Rashid Khan,6,0,,,,,,"",""
+ball,1,19.2,Pokhara Avengers,RA Reifer,S Dhakal,Rashid Khan,0,0,,,,,,"",""
+ball,1,19.3,Pokhara Avengers,RA Reifer,S Dhakal,Rashid Khan,0,0,,,,,,"",""
+ball,1,19.4,Pokhara Avengers,RA Reifer,S Dhakal,Rashid Khan,4,0,,,,,,"",""
+ball,1,19.5,Pokhara Avengers,RA Reifer,S Dhakal,Rashid Khan,6,0,,,,,,"",""
+ball,1,19.6,Pokhara Avengers,RA Reifer,S Dhakal,Rashid Khan,1,0,,,,,,"",""
+ball,2,0.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,S Dhakal,1,0,,,,,,"",""
+ball,2,0.2,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,0.3,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,0.4,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,4,0,,,,,,"",""
+ball,2,0.5,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,0.6,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,4,0,,,,,,"",""
+ball,2,1.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Bipin Khatri,4,0,,,,,,"",""
+ball,2,1.2,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Bipin Khatri,4,0,,,,,,"",""
+ball,2,1.3,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.4,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Bipin Khatri,1,0,,,,,,"",""
+ball,2,1.5,Kathmandu Gurkhas,M Levitt,SS Eskinazi,Bipin Khatri,0,0,,,,,,"",""
+ball,2,1.6,Kathmandu Gurkhas,M Levitt,SS Eskinazi,Bipin Khatri,4,0,,,,,,"",""
+ball,2,2.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,RA Reifer,1,0,,,,,,"",""
+ball,2,2.2,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,4,0,,,,,,"",""
+ball,2,2.3,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,4,0,,,,,,"",""
+ball,2,2.4,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,0,0,,,,,,"",""
+ball,2,2.5,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,1,0,,,,,,"",""
+ball,2,2.6,Kathmandu Gurkhas,SS Eskinazi,M Levitt,RA Reifer,1,0,,,,,,"",""
+ball,2,3.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,S Dhakal,4,0,,,,,,"",""
+ball,2,3.2,Kathmandu Gurkhas,SS Eskinazi,M Levitt,S Dhakal,4,0,,,,,,"",""
+ball,2,3.3,Kathmandu Gurkhas,SS Eskinazi,M Levitt,S Dhakal,1,0,,,,,,"",""
+ball,2,3.4,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,3.5,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,4,0,,,,,,"",""
+ball,2,3.6,Kathmandu Gurkhas,M Levitt,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,4.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,RA Reifer,0,0,,,,,,"",""
+ball,2,4.2,Kathmandu Gurkhas,SS Eskinazi,M Levitt,RA Reifer,1,0,,,,,,"",""
+ball,2,4.3,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,0,0,,,,,,"",""
+ball,2,4.4,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,1,0,,,,,,"",""
+ball,2,4.5,Kathmandu Gurkhas,SS Eskinazi,M Levitt,RA Reifer,1,0,,,,,,"",""
+ball,2,4.6,Kathmandu Gurkhas,M Levitt,SS Eskinazi,RA Reifer,6,0,,,,,,"",""
+ball,2,5.1,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Bipin Khatri,2,0,,,,,,"",""
+ball,2,5.2,Kathmandu Gurkhas,SS Eskinazi,M Levitt,Bipin Khatri,1,0,,,,,,"",""
+ball,2,5.3,Kathmandu Gurkhas,M Levitt,SS Eskinazi,Bipin Khatri,0,0,,,,,,stumped,M Levitt
+ball,2,5.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,Bipin Khatri,0,0,,,,,,"",""
+ball,2,5.5,Kathmandu Gurkhas,B Sharki,SS Eskinazi,Bipin Khatri,1,0,,,,,,"",""
+ball,2,5.6,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Bipin Khatri,0,0,,,,,,"",""
+ball,2,6.1,Kathmandu Gurkhas,B Sharki,SS Eskinazi,Aakash Chand,1,0,,,,,,"",""
+ball,2,6.2,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakash Chand,0,0,,,,,,"",""
+ball,2,6.3,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakash Chand,0,1,,1,,,,"",""
+ball,2,6.4,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakash Chand,4,0,,,,,,"",""
+ball,2,6.5,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakash Chand,4,0,,,,,,"",""
+ball,2,6.6,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakash Chand,4,0,,,,,,"",""
+ball,2,6.7,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakash Chand,4,0,,,,,,"",""
+ball,2,7.1,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,0,0,,,,,,"",""
+ball,2,7.2,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,0,0,,,,,,"",""
+ball,2,7.3,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,2,0,,,,,,"",""
+ball,2,7.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,1,0,,,,,,"",""
+ball,2,7.5,Kathmandu Gurkhas,SS Eskinazi,B Sharki,K Bhurtel,1,0,,,,,,"",""
+ball,2,7.6,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,1,0,,,,,,"",""
+ball,2,8.1,Kathmandu Gurkhas,B Sharki,SS Eskinazi,S Dhakal,2,0,,,,,,"",""
+ball,2,8.2,Kathmandu Gurkhas,B Sharki,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,8.3,Kathmandu Gurkhas,B Sharki,SS Eskinazi,S Dhakal,4,0,,,,,,"",""
+ball,2,8.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,8.5,Kathmandu Gurkhas,B Sharki,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,8.6,Kathmandu Gurkhas,B Sharki,SS Eskinazi,S Dhakal,0,0,,,,,,"",""
+ball,2,9.1,Kathmandu Gurkhas,SS Eskinazi,B Sharki,K Bhurtel,0,0,,,,,,"",""
+ball,2,9.2,Kathmandu Gurkhas,SS Eskinazi,B Sharki,K Bhurtel,2,0,,,,,,"",""
+ball,2,9.3,Kathmandu Gurkhas,SS Eskinazi,B Sharki,K Bhurtel,1,0,,,,,,"",""
+ball,2,9.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,2,0,,,,,,"",""
+ball,2,9.5,Kathmandu Gurkhas,B Sharki,SS Eskinazi,K Bhurtel,1,0,,,,,,"",""
+ball,2,9.6,Kathmandu Gurkhas,SS Eskinazi,B Sharki,K Bhurtel,1,0,,,,,,"",""
+ball,2,10.1,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakarshit Gomel,4,0,,,,,,"",""
+ball,2,10.2,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakarshit Gomel,2,0,,,,,,"",""
+ball,2,10.3,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakarshit Gomel,1,0,,,,,,"",""
+ball,2,10.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,Aakarshit Gomel,1,0,,,,,,"",""
+ball,2,10.5,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakarshit Gomel,4,0,,,,,,"",""
+ball,2,10.6,Kathmandu Gurkhas,SS Eskinazi,B Sharki,Aakarshit Gomel,1,0,,,,,,"",""
+ball,2,11.1,Kathmandu Gurkhas,SS Eskinazi,B Sharki,MA Leask,1,0,,,,,,"",""
+ball,2,11.2,Kathmandu Gurkhas,B Sharki,SS Eskinazi,MA Leask,0,0,,,,,,"",""
+ball,2,11.3,Kathmandu Gurkhas,B Sharki,SS Eskinazi,MA Leask,6,0,,,,,,"",""
+ball,2,11.4,Kathmandu Gurkhas,B Sharki,SS Eskinazi,MA Leask,0,0,,,,,,caught,B Sharki
+ball,2,11.5,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,MA Leask,6,0,,,,,,"",""
+ball,2,11.6,Kathmandu Gurkhas,MG Erasmus,SS Eskinazi,MA Leask,4,0,,,,,,"",""
+ball,2,12.1,Kathmandu Gurkhas,SS Eskinazi,MG Erasmus,Bipin Khatri,0,0,,,,,,bowled,SS Eskinazi
+ball,2,12.2,Kathmandu Gurkhas,Karan KC,MG Erasmus,Bipin Khatri,1,0,,,,,,"",""
+ball,2,12.3,Kathmandu Gurkhas,MG Erasmus,Karan KC,Bipin Khatri,0,0,,,,,,"",""
+ball,2,12.4,Kathmandu Gurkhas,MG Erasmus,Karan KC,Bipin Khatri,1,0,,,,,,"",""
+ball,2,12.5,Kathmandu Gurkhas,Karan KC,MG Erasmus,Bipin Khatri,0,0,,,,,,"",""
+ball,2,12.6,Kathmandu Gurkhas,Karan KC,MG Erasmus,Bipin Khatri,0,0,,,,,,stumped,Karan KC
+ball,2,13.1,Kathmandu Gurkhas,MG Erasmus,Rashid Khan,S Dhakal,0,0,,,,,,"",""
+ball,2,13.2,Kathmandu Gurkhas,MG Erasmus,Rashid Khan,S Dhakal,0,0,,,,,,"",""
+ball,2,13.3,Kathmandu Gurkhas,MG Erasmus,Rashid Khan,S Dhakal,6,0,,,,,,"",""
+ball,2,13.4,Kathmandu Gurkhas,MG Erasmus,Rashid Khan,S Dhakal,1,0,,,,,,"",""
+ball,2,13.5,Kathmandu Gurkhas,Rashid Khan,MG Erasmus,S Dhakal,1,0,,,,,,"",""
+ball,2,13.6,Kathmandu Gurkhas,MG Erasmus,Rashid Khan,S Dhakal,1,0,,,,,,"",""
+ball,2,14.1,Kathmandu Gurkhas,MG Erasmus,Rashid Khan,D Kharel,6,0,,,,,,"",""
